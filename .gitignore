@@ -1,0 +1,23 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# Claude Code
+.claude/
+.claude/
+
+# Agents
+.agents/
+.claudian/
+
+# OS files
+nul
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
