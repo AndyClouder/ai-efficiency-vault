@@ -2,12 +2,7 @@
 .obsidian/
 .trash/
 
-# Claude Code
-.claude/
-.claude/
-
-# Agents
-.agents/
+# 本地运行时缓存（会话历史、工具设置，不进版本控制）
 .claudian/
 
 # OS files
