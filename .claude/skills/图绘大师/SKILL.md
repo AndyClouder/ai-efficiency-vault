@@ -252,7 +252,7 @@ python ${SKILL_DIR}/scripts/svg2pptx.py <project_path> -f ppt169 -q
 python3 ${SKILL_DIR}/scripts/svg2pptx.py <project_path> -f ppt169 -q
 ```
 
-- 输出位置：`<project_path>/exports/<时间戳>.pptx`（脚本自动建 `exports/` 目录）。
+- 输出位置：**`<vault根>/ppt_outputs/<时间戳>.pptx`**（脚本自动检测 vault 根——以含 `0_系统配置/` 或 `.agents/` 为标志——并在其下建 `ppt_outputs/` 目录；不在 vault 内时回退到 `<project_path>/exports/`）。
 - `-f ppt169` = 16:9 画布（与 1280×720 / 1280×860 等横向画布匹配）。竖图(如纵向流程)改 `-f a4`。
 - 多图多页：把多张 SVG 放进 `svg_output/`，脚本按文件名排序，每张一页。
 - **画布自适应**：若 spec_lock 画布非 16:9（如 1280×860 ≈ 3:2），优先选最接近的 `-f`；差太大时在脚本前提醒用户，或仍用 `ppt169` 由脚本按比例铺满。
@@ -289,7 +289,7 @@ inkscape <project_path>/svg_output/01_architecture.svg --export-type=png --expor
 - [x] 源内容转换 / 项目初始化 / 内容解析 / 确认 / SVG 手绘 / PPTX 导出 全部完成
 - [x] 产物：
   - SVG 源：<project_path>/svg_output/*.svg
-  - **PPTX（交付）：<project_path>/exports/<文件名>.pptx**  ← 双击打开
+  - **PPTX（交付）：<vault根>/ppt_outputs/<文件名>.pptx**  ← 双击打开
 ```
 
 ---
@@ -325,7 +325,7 @@ inkscape <project_path>/svg_output/01_architecture.svg --export-type=png --expor
 
 ## 备注
 
-- **默认交付 PPTX**：`python ${SKILL_DIR}/scripts/svg2pptx.py <project_path> -f ppt169 -q`，产物在 `<project_path>/exports/`。引擎自包含，仅依赖 `pip install python-pptx`。
+- **默认交付 PPTX**：`python ${SKILL_DIR}/scripts/svg2pptx.py <project_path> -f ppt169 -q`，产物在 **`<vault根>/ppt_outputs/`**（vault 外回退 `<project_path>/exports/`）。默认 native 模式（可编辑的 DrawingML 形状），引擎自包含，仅依赖 `pip install python-pptx`。
 - **SVG 预览仅用于调试**：用 VS Code / 浏览器拖入 `svg_output/*.svg`；不作为交付物（多数环境 SVG 双击打不开）。
 - **故障排查**：生成问题(布局溢出 / SVG 不显示 / 箭头丢失)查 `docs/faq.md`；导出失败见 Step 6 的退路说明。
 - **职责边界**：本技能做"单图或少量高保真手绘"。若用户要整套带文字的演示文稿，引导其走 ppt-master；若用户只要快速草图，建议直接用 Mermaid(本技能不在其列)。

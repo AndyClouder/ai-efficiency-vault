@@ -16,3 +16,15 @@ desktop.ini
 *.bak
 *.swp
 *~
+
+# 图绘大师 PPTX 产物（交付物，不进版本控制）
+ppt_outputs/
+
+# 第三方文章原文（版权敏感，只入库结构化笔记与综合页）
+0_Inbox/raw/
+
+# 图绘大师运行时产物（项目工作区、备份、导出物）
+.agents/skills/图绘大师/projects/
+.claude/skills/图绘大师/projects/
+0_系统配置/.agents/skills/图绘大师/projects/
+0_系统配置/.claude/skills/图绘大师/projects/

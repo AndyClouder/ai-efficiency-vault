@@ -317,7 +317,22 @@ Recorded narration:
             stem = output_base.stem
             legacy_path = output_base.parent / f"{stem}_svg{output_base.suffix}"
     else:
-        exports_dir = project_path / "exports"
+        # Resolve the output directory. When running inside a vault (detected
+        # by presence of 0_系统配置/ or .agents/), emit to <vault>/ppt_outputs/
+        # so the deliverable is easy to find. Fall back to <project>/exports/
+        # when not in a vault (keeps the skill self-contained & portable).
+        vault_root = project_path.resolve()
+        for _ in range(10):
+            if (vault_root / '0_系统配置').is_dir() or (vault_root / '.agents').is_dir():
+                break
+            if vault_root.parent == vault_root:
+                break
+            vault_root = vault_root.parent
+        in_vault = (vault_root / '0_系统配置').is_dir() or (vault_root / '.agents').is_dir()
+        if in_vault:
+            exports_dir = vault_root / 'ppt_outputs'
+        else:
+            exports_dir = project_path / 'exports'
         exports_dir.mkdir(parents=True, exist_ok=True)
         native_path = exports_dir / f"{project_name}_{timestamp}.pptx"
         # svg_output/ snapshot always goes under backup/<ts>/ in default-flow
