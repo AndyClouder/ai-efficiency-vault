@@ -11,6 +11,10 @@ nul
 Thumbs.db
 desktop.ini
 
+# Python 编译缓存
+__pycache__/
+*.pyc
+
 # Temp files
 *.tmp
 *.bak
