@@ -1,0 +1,39 @@
+# Git 换行符与差异规则
+# 目的：保证跨平台（Windows/macOS/Linux）协作时，Skill 四镜像 MD5 校验不因换行符误报。
+
+# ── 默认：所有文本文件仓库内统一为 LF ──
+* text=auto eol=lf
+
+# ── Markdown：强制 LF（agent 配置与 Skill 四镜像的核心载体，必须逐字一致）─
+*.md   text eol=lf
+
+# ── 代码与配置 ──
+*.py   text eol=lf
+*.js   text eol=lf
+*.ts   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.sh   text eol=lf
+
+# ── Windows 专用脚本保留 CRLF ──
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+*.ps1   text eol=crlf
+
+# ── 二进制：不做换行符转换，差异检测走 binary ──
+*.svg   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.pdf   binary
+*.pptx  binary
+*.docx  binary
+*.zip   binary
+
+# ── 语言学辅助文件 ──
+*.csv   text eol=lf
+LICENSE text eol=lf
