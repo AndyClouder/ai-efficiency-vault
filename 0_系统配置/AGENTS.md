@@ -153,20 +153,22 @@
 
 ---
 
-# Skill 三处镜像同步规则
+# Skill 四镜像同步规则
 
-本知识库的所有 skill 在三处目录镜像存放，**内容必须完全一致**：
+本知识库的所有 skill 在**四处**目录镜像存放，**内容必须完全一致**：
 
 | 目录 | 角色 | 谁读取 |
 |------|------|--------|
 | `0_系统配置/.claude/skills/` + `0_系统配置/.agents/skills/` | **配置源**（注册表登记的真身） | 作为同步基准，不被 Agent 直接加载 |
-| `.agents/skills/` | Codex 工作副本 | Codex CLI 运行时加载 |
-| `.claude/skills/` | Claude Code 工作副本 | Claude Code CLI 运行时加载 |
+| `.agents/skills/` | Codex 运行时副本 | Codex CLI 运行时加载 |
+| `.claude/skills/` | Claude Code 运行时副本 | Claude Code CLI 运行时加载 |
 
-**新增/修改任何 skill 时，必须三处同步**：
+**新增/修改任何 skill 时，必须四处同步**：
 1. 改 `0_系统配置/.agents/skills/{skill名}/` 和 `0_系统配置/.claude/skills/{skill名}/`（两个源同步）
 2. 用 `cp -r` 复制到根目录的 `.agents/skills/` 和 `.claude/skills/`
-3. 用 `md5sum` 校验三处 `SKILL.md` 一致
+3. 用 `md5sum` 校验四处 `SKILL.md` 一致
+
+**自动化守护（2026-07-06 起）**：pre-commit hook（`.githooks/pre-commit`）会在 `git commit` 时自动比对四处 SKILL.md 的 MD5，不一致则拒绝提交并给出修复指引。这是把手工 md5sum 校验自动化——dogfooding 本库《Loop-Engineering 与 Hook 机制》综合页的方法论。绕过方式：`git commit --no-verify`（仅限确需打破一致性时，且需知会团队）。
 
 当前已对齐的 10 个 skill：图绘大师、新手引导、恢复初始化、知识入库、知识分类、知识编译、知识问答、知识体检、网络调研、配置审查
 

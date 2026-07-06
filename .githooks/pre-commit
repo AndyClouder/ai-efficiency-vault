@@ -1,0 +1,133 @@
+#!/usr/bin/env bash
+# pre-commit hook: 校验 Skill 四镜像一致性
+#
+# 规则（见 0_系统配置/CLAUDE.md「Skill 四镜像同步规则」）：
+#   每个 skill 的 SKILL.md 必须在四处镜像目录逐字一致：
+#     .agents/skills/<name>/SKILL.md              (Codex 运行时副本)
+#     .claude/skills/<name>/SKILL.md              (Claude Code 运行时副本)
+#     0_系统配置/.agents/skills/<name>/SKILL.md   (配置源·同步基准)
+#     0_系统配置/.claude/skills/<name>/SKILL.md   (配置源·同步基准)
+#
+# 任一不一致 → 拒绝提交，并给出差异 skill 名与修复提示。
+#
+# 性能：仅校验本次 commit 涉及 skills/ 的提交才全量扫描；否则跳过（快路径）。
+
+set -euo pipefail
+
+# ── 颜色输出（终端支持时）──
+if [ -t 1 ]; then
+  RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; NC='\033[0m'
+else
+  RED=''; GREEN=''; YELLOW=''; NC=''
+fi
+
+# ── 仓库根目录（hook 执行时 cwd 是仓库根，但稳妥起见定位一下）──
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# 四个镜像目录（顺序固定，便于报错时指出哪几处不一致）
+MIRROR_DIRS=(
+  ".agents/skills"
+  ".claude/skills"
+  "0_系统配置/.agents/skills"
+  "0_系统配置/.claude/skills"
+)
+
+# ── 快路径：本次暂存区是否触及任一镜像目录下的 SKILL.md ──
+# 不触及则跳过全量扫描，避免无关提交（如改 README）也跑校验。
+# core.quotepath=false：让 git 输出原始中文路径（默认会八进制转义，破坏匹配）。
+needs_check=false
+while IFS= read -r f; do
+  [ -z "$f" ] && continue
+  case "$f" in
+    */skills/*/SKILL.md)
+      needs_check=true; break ;;
+  esac
+done < <(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR)
+
+if [ "$needs_check" = false ]; then
+  # 未触及 SKILL.md，直接放行
+  exit 0
+fi
+
+echo -e "${YELLOW}[pre-commit] 检测到 SKILL.md 改动，校验四镜像一致性...${NC}"
+
+# ── 收集每个镜像目录下的 skill 名清单 ──
+declare -A skill_sets
+for dir in "${MIRROR_DIRS[@]}"; do
+  if [ ! -d "$dir" ]; then
+    echo -e "${RED}✗ 镜像目录缺失: $dir${NC}" >&2
+    exit 1
+  fi
+  # 列出该目录下所有含 SKILL.md 的 skill 子目录名
+  while IFS= read -r skillname; do
+    skill_sets["$skillname"]=1
+  done < <(find "$dir" -mindepth 2 -maxdepth 2 -name "SKILL.md" -exec dirname {} \; | xargs -n1 basename 2>/dev/null)
+done
+
+if [ ${#skill_sets[@]} -eq 0 ]; then
+  echo -e "${YELLOW}[pre-commit] 未发现任何 SKILL.md，跳过。${NC}"
+  exit 0
+fi
+
+# ── 逐 skill 比对四处 MD5 ──
+failures=()
+for skillname in "${!skill_sets[@]}"; do
+  declare -A md5map=()
+  for dir in "${MIRROR_DIRS[@]}"; do
+    fpath="$dir/$skillname/SKILL.md"
+    if [ ! -f "$fpath" ]; then
+      md5map["$dir"]="__MISSING__"
+      continue
+    fi
+    md5map["$dir"]=$(md5sum "$fpath" | cut -d' ' -f1)
+  done
+
+  # 取第一个非 MISSING 的值作为基准
+  baseline=""
+  for dir in "${MIRROR_DIRS[@]}"; do
+    if [ "${md5map[$dir]}" != "__MISSING__" ]; then
+      baseline="${md5map[$dir]}"; break
+    fi
+  done
+
+  inconsistent=false
+  for dir in "${MIRROR_DIRS[@]}"; do
+    if [ "${md5map[$dir]}" != "$baseline" ]; then
+      inconsistent=true
+    fi
+  done
+
+  if [ "$inconsistent" = true ]; then
+    failures+=("$skillname")
+    echo -e "${RED}✗ [$skillname] 四镜像不一致：${NC}" >&2
+    for dir in "${MIRROR_DIRS[@]}"; do
+      echo -e "    ${md5map[$dir]}  $dir/$skillname/SKILL.md" >&2
+    done
+  fi
+  unset md5map
+done
+
+# ── 结果 ──
+if [ ${#failures[@]} -gt 0 ]; then
+  echo "" >&2
+  echo -e "${RED}========================================${NC}" >&2
+  echo -e "${RED}✗ Skill 四镜像一致性校验失败${NC}" >&2
+  echo -e "${RED}   不一致的 skill: ${failures[*]}${NC}" >&2
+  echo -e "${RED}========================================${NC}" >&2
+  echo "" >&2
+  echo -e "${YELLOW}修复方法（参考 CLAUDE.md「Skill 四镜像同步规则」）：${NC}" >&2
+  echo -e "  1. 先改两个配置源：" >&2
+  echo -e "       0_系统配置/.agents/skills/<name>/SKILL.md" >&2
+  echo -e "       0_系统配置/.claude/skills/<name>/SKILL.md" >&2
+  echo -e "  2. 复制到两个运行时副本：" >&2
+  echo -e "       cp -r 0_系统配置/.agents/skills/<name>/.agents/skills/" >&2
+  echo -e "       cp -r 0_系统配置/.claude/skills/<name>/.claude/skills/" >&2
+  echo -e "  3. 重新 git add 后再 commit" >&2
+  echo "" >&2
+  echo -e "${YELLOW}（如确实要打破镜像一致性，用 git commit --no-verify 绕过，但请知会团队）${NC}" >&2
+  exit 1
+fi
+
+echo -e "${GREEN}✓ Skill 四镜像一致性校验通过${NC}"
+exit 0
