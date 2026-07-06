@@ -38,3 +38,7 @@ updated: 2026-07-02
 ## [2026-07-02] query | "FDE是什么/能力/工作流程" → 综合概念页+来源+论点带引用作答 → **已回灌** 5_Wiki/问答页/FDE是什么-能力-工作流程.md
 
 ## [2026-07-02] system | 优化图绘大师 skill 输出路径：project/exports→vault根/ppt_outputs/（自动检测vault根，vault外回退原逻辑）；保留 native 可编辑模式不变；四镜像MD5一致；ppt_outputs加入.gitignore
+
+## [2026-07-06] system | 对齐 CLAUDE.md 与 AGENTS.md 两份系统配置：以 CLAUDE.md 为基准，向其补入 AGENTS.md 独有的「身份/Obsidian规则/安全与事实规则」3 块；向 AGENTS.md 补入 CLAUDE.md 独有的「知识管理基本原则/三大铁律详细版/输出方式/按需加载/记忆写入完整7条」5 块。两份正文小节现已完全对齐，仅标题（Claude Code vs Codex）按设计保留差异
+
+## [2026-07-06] system | 重构 agent 配置为「canonical→投影」架构（参考 Karpathy compounding artifact）：CLAUDE.md 确立为唯一真身（加 canonical 声明），0_系统配置/AGENTS.md 重生为其 Codex 标题投影（逐字一致，仅标题+声明不同，勿手改），根目录 AGENTS.md 重写为 ZCode 引用式派生（不抄正文，指向 canonical）；配置审查 Skill 新增检查 ⑤「agent 配置派生一致性」（标题归一化后逐字比对），四镜像同步 MD5 一致；加新 agent 按两类派生：近一致走标题投影、刻意不同走引用式派生
