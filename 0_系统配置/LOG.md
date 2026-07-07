@@ -1,6 +1,6 @@
 ---
 description: 知识库时间线日志。只追加不修改，每条统一前缀，可用 grep 快速查看近况。
-updated: 2026-07-02
+updated: 2026-07-06
 ---
 
 # LOG — 知识库时间线
@@ -44,3 +44,7 @@ updated: 2026-07-02
 ## [2026-07-06] system | 重构 agent 配置为「canonical→投影」架构（参考 Karpathy compounding artifact）：CLAUDE.md 确立为唯一真身（加 canonical 声明），0_系统配置/AGENTS.md 重生为其 Codex 标题投影（逐字一致，仅标题+声明不同，勿手改），根目录 AGENTS.md 重写为 ZCode 引用式派生（不抄正文，指向 canonical）；配置审查 Skill 新增检查 ⑤「agent 配置派生一致性」（标题归一化后逐字比对），四镜像同步 MD5 一致；加新 agent 按两类派生：近一致走标题投影、刻意不同走引用式派生
 
 ## [2026-07-06] system | 四镜像同步自动化：新增 pre-commit hook（`.githooks/pre-commit`），commit 时自动比对四处 SKILL.md 的 MD5，不一致则拒绝提交并给修复指引；配 core.hooksPath=.githooks 纳入版本控制；快路径优化（仅暂存区触及 SKILL.md 才全量扫描）；顺带修正 CLAUDE.md/AGENTS.md「三处镜像」→「四镜像」笔误。dogfooding 本库《Loop-Engineering 与 Hook 机制》综合页
+
+## [2026-07-06] ingest | Hermes Agent 优化：解决GLM-5.2模型429(1305 overloaded)（Deep Router / Yawatasensei） → raw 原文保全 + 结构化笔记入 0_Inbox；INDEX.md 已登记
+
+## [2026-07-06] ingest | 刘焕勇《领域本体可否自动化构建》（8千字） → raw 原文保全 + 结构化笔记入 0_Inbox；INDEX.md 已登记
