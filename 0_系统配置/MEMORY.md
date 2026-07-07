@@ -1,6 +1,6 @@
 ---
 description: 长期记忆，跨对话保留的洞见、偏好和行为模式
-updated: 2026-06-22
+updated: 2026-07-07
 ---
 
 # MEMORY — 长期记忆
