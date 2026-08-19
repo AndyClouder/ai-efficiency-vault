@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">为什么是法本 —— 四重保障托底 FarAI 研发流水线落地</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">能力底座 + 交付经验 + 安全合规 + 生态合作,托底端到端落地</text>
+  </g>
+
+  <g id="card-capability">
+    <path fill="#F4F7FC" d="M96,172 H334 A16,16 0 0 1 350,188 V604 A16,16 0 0 1 334,620 H96 A16,16 0 0 1 80,604 V188 A16,16 0 0 1 96,172 Z" />
+    <path fill="#0052A6" d="M96,172 H334 A16,16 0 0 1 350,188 V256 A16,16 0 0 1 334,272 H96 A16,16 0 0 1 80,256 V188 A16,16 0 0 1 96,172 Z" />
+    <rect x="80" y="230" width="270" height="42" fill="#0052A6" />
+    
+  <g transform="translate(104.0, 196.0) scale(1.6666666666666667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+    <path d="M4 15a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 17a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+  </g>
+    <text x="156" y="226" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">能力底座</text>
+    <text x="104" y="320" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 全栈产品矩阵</text>
+    <text x="104" y="356" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">自研 Agent / Skill 框架</text>
+    <text x="104" y="392" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">本体网络与知识工程</text>
+    <text x="104" y="428" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Harness 工程方法论</text>
+    <line x1="104" y1="478" x2="326" y2="478" stroke="#E3E9F2" stroke-width="1" />
+    <text x="104" y="520" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">从模型、Agent、Skill、</text>
+    <text x="104" y="542" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">知识到底座的全栈能力</text>
+    <text x="104" y="584" font-size="12" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">技术产品全栈自研</text>
+  </g>
+
+  <g id="card-delivery">
+    <path fill="#F4F7FC" d="M386,172 H624 A16,16 0 0 1 640,188 V604 A16,16 0 0 1 624,620 H386 A16,16 0 0 1 370,604 V188 A16,16 0 0 1 386,172 Z" />
+    <path fill="#246BFE" d="M386,172 H624 A16,16 0 0 1 640,188 V256 A16,16 0 0 1 624,272 H386 A16,16 0 0 1 370,256 V188 A16,16 0 0 1 386,172 Z" />
+    <rect x="370" y="230" width="270" height="42" fill="#246BFE" />
+    
+  <g transform="translate(394.0, 196.0) scale(1.6666666666666667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="446" y="226" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">交付经验</text>
+    <text x="394" y="320" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">多行业研发组织落地</text>
+    <text x="394" y="356" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">标准化实施方法论</text>
+    <text x="394" y="392" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">试点-复制路径成熟</text>
+    <text x="394" y="428" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">多产品线规模化实践</text>
+    <line x1="394" y1="478" x2="616" y2="478" stroke="#E3E9F2" stroke-width="1" />
+    <text x="394" y="520" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">金融/制造/科技等行业</text>
+    <text x="394" y="542" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">研发效能落地经验</text>
+    <text x="394" y="584" font-size="12" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">方法论 + 标杆案例</text>
+  </g>
+
+  <g id="card-security">
+    <path fill="#F4F7FC" d="M676,172 H914 A16,16 0 0 1 930,188 V604 A16,16 0 0 1 914,620 H676 A16,16 0 0 1 660,604 V188 A16,16 0 0 1 676,172 Z" />
+    <path fill="#518FEC" d="M676,172 H914 A16,16 0 0 1 930,188 V256 A16,16 0 0 1 914,272 H676 A16,16 0 0 1 660,256 V188 A16,16 0 0 1 676,172 Z" />
+    <rect x="660" y="230" width="270" height="42" fill="#518FEC" />
+    
+  <g transform="translate(684.0, 196.0) scale(1.6666666666666667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" />
+  </g>
+    <text x="736" y="226" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">安全合规</text>
+    <text x="684" y="320" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">企业级数据安全</text>
+    <text x="684" y="356" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">权限与审计</text>
+    <text x="684" y="392" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">风险分级行权</text>
+    <text x="684" y="428" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">私有化部署支持</text>
+    <line x1="684" y1="478" x2="906" y2="478" stroke="#E3E9F2" stroke-width="1" />
+    <text x="684" y="520" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">数据不出域、权限</text>
+    <text x="684" y="542" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">可控、操作可审计</text>
+    <text x="684" y="584" font-size="12" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">企业级 · 国产化</text>
+  </g>
+
+  <g id="card-ecosystem">
+    <path fill="#F4F7FC" d="M966,172 H1184 A16,16 0 0 1 1200,188 V604 A16,16 0 0 1 1184,620 H966 A16,16 0 0 1 950,604 V188 A16,16 0 0 1 966,172 Z" />
+    <path fill="#0E9F6E" d="M966,172 H1184 A16,16 0 0 1 1200,188 V256 A16,16 0 0 1 1184,272 H966 A16,16 0 0 1 950,256 V188 A16,16 0 0 1 966,172 Z" />
+    <rect x="950" y="230" width="250" height="42" fill="#0E9F6E" />
+    
+  <g transform="translate(974.0, 196.0) scale(1.6666666666666667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="1026" y="226" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">生态合作</text>
+    <text x="974" y="320" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">主流大模型集成</text>
+    <text x="974" y="356" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">编码工具打通</text>
+    <text x="974" y="392" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">DevOps 工具链接入</text>
+    <text x="974" y="428" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">行业标杆客户协同</text>
+    <line x1="974" y1="478" x2="1176" y2="478" stroke="#E3E9F2" stroke-width="1" />
+    <text x="974" y="520" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">开放生态、持续</text>
+    <text x="974" y="542" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">演进的技术合作</text>
+    <text x="974" y="584" font-size="12" font-weight="bold" fill="#0E9F6E" font-family="Microsoft YaHei, Arial, sans-serif">开放 · 共建</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第六章 · 价值实施</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">30 / 30</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="endBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E" />
+      <stop offset="60%" stop-color="#0E367A" />
+      <stop offset="100%" stop-color="#17365D" />
+    </linearGradient>
+    <linearGradient id="endAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" />
+    </linearGradient>
+    <radialGradient id="endDecor" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="url(#endBg)" />
+    <rect width="1280" height="720" fill="url(#endDecor)" />
+  </g>
+
+  <g id="bg-decor">
+    <circle cx="1120" cy="120" r="6" fill="#518FEC" fill-opacity="0.5" />
+    <circle cx="1180" cy="180" r="3" fill="#246BFE" fill-opacity="0.7" />
+    <circle cx="160" cy="600" r="4" fill="#518FEC" fill-opacity="0.4" />
+    <circle cx="1080" cy="600" r="5" fill="#518FEC" fill-opacity="0.35" />
+  </g>
+
+  <g id="thanks-mark">
+    
+  <g transform="translate(605.0, 180.0) scale(2.9166666666666665)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M15.5 13a3.5 3.5 0 0 0 -3.5 3.5v1a3.5 3.5 0 0 0 7 0v-1.8" />
+    <path d="M8.5 13a3.5 3.5 0 0 1 3.5 3.5v1a3.5 3.5 0 0 1 -7 0v-1.8" />
+    <path d="M17.5 16a3.5 3.5 0 0 0 0 -7h-.5" />
+    <path d="M19 9.3v-2.8a3.5 3.5 0 0 0 -7 0" />
+    <path d="M6.5 16a3.5 3.5 0 0 1 0 -7h.5" />
+    <path d="M5 9.3v-2.8a3.5 3.5 0 0 1 7 0v10" />
+  </g>
+  </g>
+
+  <g id="thanks-title">
+    <path fill="url(#endAccent)" d="M293,295 H987 A3,3 0 0 1 990,298 V298 A3,3 0 0 1 987,301 H293 A3,3 0 0 1 290,298 V298 A3,3 0 0 1 293,295 Z" />
+    <text x="640" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#518FEC" text-anchor="middle" letter-spacing="4">THANK YOU</text>
+    <text x="640" y="445" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">携手高力国际</text>
+    <text x="640" y="503" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#endAccent)" text-anchor="middle">让 AI 成为商业地产增长新引擎</text>
+    <text x="640" y="545" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#B8C7E0" text-anchor="middle">一个平台 · 四大场景 · 一个闭环</text>
+  </g>
+
+  <g id="contact">
+    <line x1="490" y1="600" x2="790" y2="600" stroke="#518FEC" stroke-width="1" stroke-opacity="0.4" />
+    <text x="640" y="635" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">深圳市法本信息技术股份有限公司</text>
+    <text x="640" y="662" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4" text-anchor="middle">FarAI 人工智能解决方案 · 领先的软硬一体化、解决方案服务商</text>
+    <text x="640" y="685" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785" text-anchor="middle">联系方式:(待补充)</text>
+  </g>
+</svg>

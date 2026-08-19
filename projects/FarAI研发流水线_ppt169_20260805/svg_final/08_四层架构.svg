@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">四层架构 —— 从底座到治理的人智协同平台</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 以智能系统为中枢,让研发组织的人、智能体、资产、数据和治理协同运转</text>
+  </g>
+
+  <g id="layer-4">
+    <path fill="#0052A6" d="M94,156 H1066 A14,14 0 0 1 1080,170 V242 A14,14 0 0 1 1066,256 H94 A14,14 0 0 1 80,242 V170 A14,14 0 0 1 94,156 Z" />
+    <path fill="#DCE6FB" d="M84,156 H84 A4,4 0 0 1 88,160 V252 A4,4 0 0 1 84,256 H84 A4,4 0 0 1 80,252 V160 A4,4 0 0 1 84,156 Z" />
+    
+  <g transform="translate(108.0, 180.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" />
+  </g>
+    <text x="156" y="192" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">④ 治理与度量层</text>
+    <text x="156" y="220" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">风险分级 · Human-in-Loop · AI FinOps · 效能度量</text>
+    <text x="156" y="242" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度</text>
+  </g>
+
+  <g id="layer-3">
+    <path fill="#246BFE" d="M94,270 H1066 A14,14 0 0 1 1080,284 V356 A14,14 0 0 1 1066,370 H94 A14,14 0 0 1 80,356 V284 A14,14 0 0 1 94,270 Z" />
+    <path fill="#DCE6FB" d="M84,270 H84 A4,4 0 0 1 88,274 V366 A4,4 0 0 1 84,370 H84 A4,4 0 0 1 80,366 V274 A4,4 0 0 1 84,270 Z" />
+    
+  <g transform="translate(108.0, 294.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="156" y="306" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">③ 人智协同平台 (Delivery Workbench)</text>
+    <text x="156" y="334" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">桌面智能体 · 云端智能体 · 任务/权限/审计 · Skill 治理</text>
+    <text x="156" y="356" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">连接人、任务、代码、智能体</text>
+  </g>
+
+  <g id="layer-2">
+    <path fill="#518FEC" d="M94,384 H1066 A14,14 0 0 1 1080,398 V470 A14,14 0 0 1 1066,484 H94 A14,14 0 0 1 80,470 V398 A14,14 0 0 1 94,384 Z" />
+    <path fill="#FFFFFF" d="M84,384 H84 A4,4 0 0 1 88,388 V480 A4,4 0 0 1 84,484 H84 A4,4 0 0 1 80,480 V388 A4,4 0 0 1 84,384 Z" />
+    
+  <g transform="translate(108.0, 408.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065" />
+    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+  </g>
+    <text x="156" y="420" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">② Harness 驾驭框架(工程底座)</text>
+    <text x="156" y="448" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">CLI 化 · fullcheck · CLI E2E · hooks · traceId · Agent OS</text>
+    <text x="156" y="470" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可控的前提</text>
+  </g>
+
+  <g id="layer-1">
+    <path fill="#0A2A5E" d="M94,498 H1066 A14,14 0 0 1 1080,512 V584 A14,14 0 0 1 1066,598 H94 A14,14 0 0 1 80,584 V512 A14,14 0 0 1 94,498 Z" />
+    <path fill="#246BFE" d="M84,498 H84 A4,4 0 0 1 88,502 V594 A4,4 0 0 1 84,598 H84 A4,4 0 0 1 80,594 V502 A4,4 0 0 1 84,498 Z" />
+    
+  <g transform="translate(108.0, 522.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
+    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
+    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+  </g>
+    <text x="156" y="534" font-size="14" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">① 知识与本体底座</text>
+    <text x="156" y="562" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">本体网络 · 语义连接 · Agent 记忆 · 经验进化</text>
+    <text x="156" y="584" font-size="13" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">让知识可被人和 Agent 共同理解</text>
+  </g>
+
+  <g id="side-note">
+    <path fill="#F4F7FC" d="M1114,156 H1186 A14,14 0 0 1 1200,170 V584 A14,14 0 0 1 1186,598 H1114 A14,14 0 0 1 1100,584 V170 A14,14 0 0 1 1114,156 Z" />
+    <text x="1150" y="220" font-size="13" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">向上</text>
+    <text x="1150" y="240" font-size="11" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">承载场景</text>
+    <line x1="1140" y1="370" x2="1160" y2="370" stroke="#E3E9F2" stroke-width="1" />
+    <text x="1150" y="500" font-size="13" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">向下</text>
+    <text x="1150" y="520" font-size="11" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">沉淀能力</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第二章 · 产品全景</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">08 / 30</text>
+  </g>
+</svg>

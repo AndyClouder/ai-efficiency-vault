@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">03 场景方案 · 商机</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">智能信息收集与商机识别 — 多源全量采集</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">从六大公开渠道持续采集商业地产商机,人工不再遗漏重要项目</text>
+  </g>
+
+  <g id="pains">
+    <text x="60" y="190" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B" letter-spacing="1">五大痛点 · PAIN POINTS</text>
+    <rect x="60" y="205" width="220" height="68" rx="10" fill="#F4F7FC"/>
+    <rect x="60" y="205" width="4" height="68" rx="2" fill="#F59E0B"/>
+    <text x="78" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">来源多而散</text>
+    <text x="78" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">人工搜索效率低</text>
+
+    <rect x="294" y="205" width="220" height="68" rx="10" fill="#F4F7FC"/>
+    <rect x="294" y="205" width="4" height="68" rx="2" fill="#F59E0B"/>
+    <text x="312" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">提取困难</text>
+    <text x="312" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">视频图片长文本</text>
+
+    <rect x="528" y="205" width="220" height="68" rx="10" fill="#F4F7FC"/>
+    <rect x="528" y="205" width="4" height="68" rx="2" fill="#F59E0B"/>
+    <text x="546" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">重复缺去重</text>
+    <text x="546" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">信息缺乏关联</text>
+
+    <rect x="762" y="205" width="220" height="68" rx="10" fill="#F4F7FC"/>
+    <rect x="762" y="205" width="4" height="68" rx="2" fill="#F59E0B"/>
+    <text x="780" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">缺价值判断</text>
+    <text x="780" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">无优先级排序</text>
+
+    <rect x="996" y="205" width="224" height="68" rx="10" fill="#F4F7FC"/>
+    <rect x="996" y="205" width="4" height="68" rx="2" fill="#F59E0B"/>
+    <text x="1014" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">难快速分配</text>
+    <text x="1014" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">销售响应慢</text>
+  </g>
+
+  <g id="opportunity-types">
+    <text x="60" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0E9F6E" letter-spacing="1">6 类重点关注商机 · OPPORTUNITY TYPES</text>
+    <rect x="60" y="335" width="370" height="115" rx="10" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/building" x="80" y="355" width="28" height="28" fill="#0E9F6E" stroke-width="2"/>
+    <text x="118" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">新建项目</text>
+    <text x="80" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">写字楼 · 商业综合体 · 产业园区</text>
+    <text x="80" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">城市更新 · 大型基建项目</text>
+
+    <rect x="455" y="335" width="370" height="115" rx="10" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/coin" x="475" y="355" width="28" height="28" fill="#0E9F6E" stroke-width="2"/>
+    <text x="513" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">交易并购</text>
+    <text x="475" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">楼宇出售 · 大宗交易 · 产权转让</text>
+    <text x="475" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">楼宇易主 · 资产收购 · 股权变更</text>
+
+    <rect x="850" y="335" width="370" height="115" rx="10" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/briefcase" x="870" y="355" width="28" height="28" fill="#0E9F6E" stroke-width="2"/>
+    <text x="908" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">运营搬迁</text>
+    <text x="870" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">新项目招商 · 物业运营招标</text>
+    <text x="870" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">企业搬迁 · 扩建 · 新办公场所</text>
+  </g>
+
+  <g id="sources">
+    <text x="60" y="490" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#246BFE" letter-spacing="1">六大采集渠道 · DATA SOURCES</text>
+    <rect x="60" y="505" width="1160" height="135" rx="12" fill="#17365D"/>
+
+    <rect x="84" y="525" width="170" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/file-text" x="140" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="169" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">政府网站</text>
+    <text x="169" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">规划·公示</text>
+
+    <rect x="272" y="525" width="170" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/briefcase" x="328" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="357" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">公共资源</text>
+    <text x="357" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">交易平台</text>
+
+    <rect x="460" y="525" width="170" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/file-text" x="516" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="545" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">招投标</text>
+    <text x="545" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">平台</text>
+
+    <rect x="648" y="525" width="170" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/headset" x="704" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="733" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">短视频</text>
+    <text x="733" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">抖音等</text>
+
+    <rect x="836" y="525" width="170" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/users" x="892" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="921" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">招聘平台</text>
+    <text x="921" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">客户信息</text>
+
+    <rect x="1024" y="525" width="172" height="95" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+    <use data-icon="tabler-outline/network" x="1080" y="540" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="1110" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">其他公开</text>
+    <text x="1110" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">渠道</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">13</text>
+  </g>
+</svg>

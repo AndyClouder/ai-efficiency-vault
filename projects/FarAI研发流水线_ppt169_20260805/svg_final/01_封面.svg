@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="coverBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A2A5E" />
+      <stop offset="55%" stop-color="#0E367A" />
+      <stop offset="100%" stop-color="#17365D" />
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" />
+    </linearGradient>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="url(#coverBg)" />
+    <circle cx="1100" cy="140" r="180" fill="#246BFE" fill-opacity="0.08" />
+    <circle cx="1180" cy="620" r="120" fill="#518FEC" fill-opacity="0.06" />
+  </g>
+
+  <g id="cover-left-bar">
+    <rect x="0" y="0" width="14" height="720" fill="url(#accentBar)" />
+  </g>
+
+  <g id="cover-brand">
+    
+  <g transform="translate(90.0, 92.0) scale(1.8333333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+    <path d="M12 2v2" />
+    <path d="M9 12v9" />
+    <path d="M15 12v9" />
+    <path d="M5 16l4 -2" />
+    <path d="M15 14l4 2" />
+    <path d="M9 18h6" />
+    <path d="M10 8v.01" />
+    <path d="M14 8v.01" />
+  </g>
+    <text x="146" y="124" font-size="22" font-weight="bold" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">FarAI</text>
+    <text x="232" y="124" font-size="14" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">法本信息 · 人智协同研发平台</text>
+  </g>
+
+  <g id="cover-title-block">
+    <text x="90" y="350" font-size="56" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 研发流水线</text>
+    <text x="90" y="410" font-size="26" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">让<tspan fill="#FFFFFF" font-weight="bold">"个人用 AI 变快"</tspan>,真正变成<tspan fill="#FFFFFF" font-weight="bold">"组织级系统提速"</tspan></text>
+    <path fill="#246BFE" d="M92,444 H168 A2,2 0 0 1 170,446 V446 A2,2 0 0 1 168,448 H92 A2,2 0 0 1 90,446 V446 A2,2 0 0 1 92,444 Z" />
+  </g>
+
+  <g id="cover-tags">
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M110,490 H230 A20,20 0 0 1 250,510 V510 A20,20 0 0 1 230,530 H110 A20,20 0 0 1 90,510 V510 A20,20 0 0 1 110,490 Z" />
+    <text x="170" y="516" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架先行</text>
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M282,490 H402 A20,20 0 0 1 422,510 V510 A20,20 0 0 1 402,530 H282 A20,20 0 0 1 262,510 V510 A20,20 0 0 1 282,490 Z" />
+    <text x="342" y="516" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">四闭环工艺</text>
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M454,490 H574 A20,20 0 0 1 594,510 V510 A20,20 0 0 1 574,530 H454 A20,20 0 0 1 434,510 V510 A20,20 0 0 1 454,490 Z" />
+    <text x="514" y="516" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网</text>
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M626,490 H746 A20,20 0 0 1 766,510 V510 A20,20 0 0 1 746,530 H626 A20,20 0 0 1 606,510 V510 A20,20 0 0 1 626,490 Z" />
+    <text x="686" y="516" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">再放大自主度</text>
+  </g>
+
+  <g id="cover-footer">
+    <text x="90" y="660" font-size="16" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">法本信息 Farben · 2026</text>
+    <text x="1190" y="660" font-size="14" fill="#8FA3C4" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">售前方案 · 面向研发组织</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="118" cy="92" r="14" fill="#518FEC"/>
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S3</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Agent 拿不到准确上下文,老找错代码、误解业务</text>
+  </g>
+
+  <g id="pain-section">
+    <rect x="80" y="136" width="1120" height="132" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="136" width="6" height="132" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="110" y="158" width="30" height="30" fill="#F59E0B"/>
+    <text x="150" y="180" font-size="18" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">痛点:知识散落,Agent 只能"猜"</text>
+    <text x="150" y="212" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">需求在 Confluence · 设计在 Figma · 代码在 Git · 测试在 TestRail · 契约在 Swagger · 规则在文档</text>
+    <text x="150" y="238" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">→ Agent 检索只能靠关键词/向量相似度</text>
+    <text x="150" y="260" font-size="14" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">→ 找错上下文、误解概念、遗漏约束 → 生成看似合理实则错误的方案</text>
+  </g>
+
+  <g id="layer-label">
+    <text x="80" y="316" font-size="16" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">三层资产结构:不是堆文件,是用本体网络把资产连起来</text>
+  </g>
+
+  <g id="layer-3">
+    <rect x="80" y="340" width="1120" height="84" rx="12" fill="#518FEC"/>
+    <use data-icon="tabler-outline/bolt" x="104" y="364" width="28" height="28" fill="#FFFFFF"/>
+    <text x="144" y="370" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第三层 · 能力资产</text>
+    <text x="144" y="400" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">Agent 记忆 · Skill · Prompt · 工具调用模板 · 评测集 · 专家规则</text>
+  </g>
+
+  <g id="layer-2">
+    <rect x="80" y="436" width="1120" height="84" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/network" x="104" y="460" width="28" height="28" fill="#FFFFFF"/>
+    <text x="144" y="466" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第二层 · 语义连接层</text>
+    <text x="144" y="496" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">本体网络 + 知识图谱:概念 · 系统 · 数据 · 规则 · 接口 · 测试 · 经验 全语义关联</text>
+  </g>
+
+  <g id="layer-1">
+    <rect x="80" y="532" width="1120" height="84" rx="12" fill="#0A2A5E"/>
+    <use data-icon="tabler-outline/database" x="104" y="556" width="28" height="28" fill="#FFFFFF"/>
+    <text x="144" y="562" font-size="14" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">第一层 · 底层工程资产</text>
+    <text x="144" y="592" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">需求 · 设计 · 代码 · 测试 · 契约/API · 运行日志 · 评测集 · Agent 执行轨迹</text>
+  </g>
+
+  <g id="key-takeaway">
+    <text x="640" y="652" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Agent 不再靠关键词"猜",而是沿语义关系精确检索</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第四章 · S3 智能知识底座</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">19 / 30</text>
+  </g>
+</svg>

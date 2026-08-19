@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="64" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="108" font-size="30" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">先建驾驭框架,把个人变快转化为组织系统提速</text>
+    <text x="80" y="138" font-size="16" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">不是再卖一个 AI 工具,而是让 AI 在组织里可控地跑起来</text>
+  </g>
+
+  <g id="hub-center">
+    <defs>
+      <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#246BFE" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#246BFE" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <circle cx="640" cy="400" r="180" fill="url(#hubGlow)"/>
+    <circle cx="640" cy="400" r="120" fill="#0052A6"/>
+    <circle cx="640" cy="400" r="120" fill="none" stroke="#246BFE" stroke-width="2" stroke-opacity="0.4"/>
+    <use data-icon="tabler-outline/robot" x="610" y="340" width="60" height="60" fill="#FFFFFF"/>
+    <text x="640" y="430" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 研发流水线</text>
+    <text x="640" y="458" font-size="13" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">人智协同研发平台</text>
+  </g>
+
+  <g id="arm-top">
+    <line x1="640" y1="280" x2="640" y2="200" stroke="#0052A6" stroke-width="2"/>
+    <polygon points="640,200 634,212 646,212" fill="#0052A6"/>
+    <rect x="490" y="156" width="300" height="80" rx="14" fill="#0052A6"/>
+    <use data-icon="tabler-outline/shield" x="510" y="180" width="32" height="32" fill="#FFFFFF"/>
+    <text x="552" y="190" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架先行</text>
+    <text x="552" y="216" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">Harness —— 让 AI 改完即可验证</text>
+  </g>
+
+  <g id="arm-right">
+    <line x1="760" y1="400" x2="850" y2="400" stroke="#246BFE" stroke-width="2"/>
+    <polygon points="850,400 838,394 838,406" fill="#246BFE"/>
+    <rect x="850" y="360" width="300" height="80" rx="14" fill="#246BFE"/>
+    <use data-icon="tabler-outline/refresh" x="870" y="384" width="32" height="32" fill="#FFFFFF"/>
+    <text x="912" y="394" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">四闭环工艺</text>
+    <text x="912" y="420" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">创意 · 需求 · 交付 · 运营持续闭环</text>
+  </g>
+
+  <g id="arm-bottom">
+    <line x1="640" y1="520" x2="640" y2="600" stroke="#518FEC" stroke-width="2"/>
+    <polygon points="640,600 634,588 646,588" fill="#518FEC"/>
+    <rect x="490" y="600" width="300" height="80" rx="14" fill="#518FEC"/>
+    <use data-icon="tabler-outline/network" x="510" y="624" width="32" height="32" fill="#FFFFFF"/>
+    <text x="552" y="634" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">知识本体底座</text>
+    <text x="552" y="660" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">让 Agent 拿到准确上下文</text>
+  </g>
+
+  <g id="arm-left">
+    <line x1="520" y1="400" x2="430" y2="400" stroke="#0052A6" stroke-width="2"/>
+    <polygon points="430,400 442,394 442,406" fill="#0052A6"/>
+    <rect x="130" y="360" width="300" height="80" rx="14" fill="#0052A6"/>
+    <use data-icon="tabler-outline/chart-bar" x="150" y="384" width="32" height="32" fill="#FFFFFF"/>
+    <text x="192" y="394" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">治理与度量</text>
+    <text x="192" y="420" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度</text>
+  </g>
+
+  <g id="footer">
+    <text x="640" y="708" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">让"个人用 AI 变快",变成"组织级系统提速"</text>
+  </g>
+</svg>

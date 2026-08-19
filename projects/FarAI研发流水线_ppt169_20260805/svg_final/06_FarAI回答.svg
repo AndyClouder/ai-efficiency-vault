@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,64 H133 A3,3 0 0 1 136,67 V67 A3,3 0 0 1 133,70 H83 A3,3 0 0 1 80,67 V67 A3,3 0 0 1 83,64 Z" />
+    <text x="80" y="108" font-size="30" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">先建驾驭框架,把个人变快转化为组织系统提速</text>
+    <text x="80" y="138" font-size="16" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">不是再卖一个 AI 工具,而是让 AI 在组织里可控地跑起来</text>
+  </g>
+
+  <g id="hub-center">
+    <defs>
+      <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#246BFE" stop-opacity="0.18" />
+        <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+      </radialGradient>
+    </defs>
+    <circle cx="640" cy="400" r="180" fill="url(#hubGlow)" />
+    <circle cx="640" cy="400" r="120" fill="#0052A6" />
+    <circle cx="640" cy="400" r="120" fill="none" stroke="#246BFE" stroke-width="2" stroke-opacity="0.4" />
+    
+  <g transform="translate(610.0, 340.0) scale(2.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+    <path d="M12 2v2" />
+    <path d="M9 12v9" />
+    <path d="M15 12v9" />
+    <path d="M5 16l4 -2" />
+    <path d="M15 14l4 2" />
+    <path d="M9 18h6" />
+    <path d="M10 8v.01" />
+    <path d="M14 8v.01" />
+  </g>
+    <text x="640" y="430" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 研发流水线</text>
+    <text x="640" y="458" font-size="13" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">人智协同研发平台</text>
+  </g>
+
+  <g id="arm-top">
+    <line x1="640" y1="280" x2="640" y2="200" stroke="#0052A6" stroke-width="2" />
+    <polygon points="640,200 634,212 646,212" fill="#0052A6" />
+    <path fill="#0052A6" d="M504,156 H776 A14,14 0 0 1 790,170 V222 A14,14 0 0 1 776,236 H504 A14,14 0 0 1 490,222 V170 A14,14 0 0 1 504,156 Z" />
+    
+  <g transform="translate(510.0, 180.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" />
+  </g>
+    <text x="552" y="190" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架先行</text>
+    <text x="552" y="216" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">Harness —— 让 AI 改完即可验证</text>
+  </g>
+
+  <g id="arm-right">
+    <line x1="760" y1="400" x2="850" y2="400" stroke="#246BFE" stroke-width="2" />
+    <polygon points="850,400 838,394 838,406" fill="#246BFE" />
+    <path fill="#246BFE" d="M864,360 H1136 A14,14 0 0 1 1150,374 V426 A14,14 0 0 1 1136,440 H864 A14,14 0 0 1 850,426 V374 A14,14 0 0 1 864,360 Z" />
+    
+  <g transform="translate(870.0, 384.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+    <text x="912" y="394" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">四闭环工艺</text>
+    <text x="912" y="420" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">创意 · 需求 · 交付 · 运营持续闭环</text>
+  </g>
+
+  <g id="arm-bottom">
+    <line x1="640" y1="520" x2="640" y2="600" stroke="#518FEC" stroke-width="2" />
+    <polygon points="640,600 634,588 646,588" fill="#518FEC" />
+    <path fill="#518FEC" d="M504,600 H776 A14,14 0 0 1 790,614 V666 A14,14 0 0 1 776,680 H504 A14,14 0 0 1 490,666 V614 A14,14 0 0 1 504,600 Z" />
+    
+  <g transform="translate(510.0, 624.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="552" y="634" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">知识本体底座</text>
+    <text x="552" y="660" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">让 Agent 拿到准确上下文</text>
+  </g>
+
+  <g id="arm-left">
+    <line x1="520" y1="400" x2="430" y2="400" stroke="#0052A6" stroke-width="2" />
+    <polygon points="430,400 442,394 442,406" fill="#0052A6" />
+    <path fill="#0052A6" d="M144,360 H416 A14,14 0 0 1 430,374 V426 A14,14 0 0 1 416,440 H144 A14,14 0 0 1 130,426 V374 A14,14 0 0 1 144,360 Z" />
+    
+  <g transform="translate(150.0, 384.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 13a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -6" />
+    <path d="M15 9a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -10" />
+    <path d="M9 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -14" />
+    <path d="M4 20h14" />
+  </g>
+    <text x="192" y="394" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">治理与度量</text>
+    <text x="192" y="420" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度</text>
+  </g>
+
+  <g id="footer">
+    <text x="640" y="708" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">让"个人用 AI 变快",变成"组织级系统提速"</text>
+  </g>
+</svg>

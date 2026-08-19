@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="decisionArrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M 0,0 L 9,4.5 L 0,9 Z" fill="#518FEC" />
+    </marker>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    
+  <g transform="translate(60.0, 60.0) scale(1.1666666666666667)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873l-6.158 -3.245" />
+  </g>
+    <text x="96" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B" letter-spacing="2">03 场景方案 · 投标 · 核心差异化</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">客户归并与决策链分析 — 统一客户视图</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">同一楼宇/园区被多销售分散跟进时,AI 自动归并为统一客户,并梳理完整决策链 —— 这是高力国际的核心差异化价值</text>
+  </g>
+
+  <g id="merge-box">
+    <path fill="#F4F7FC" d="M72,180 H368 A12,12 0 0 1 380,192 V348 A12,12 0 0 1 368,360 H72 A12,12 0 0 1 60,348 V192 A12,12 0 0 1 72,180 Z" />
+    <path fill="#0052A6" d="M72,180 H368 A12,12 0 0 1 380,192 V216 A12,12 0 0 1 368,228 H72 A12,12 0 0 1 60,216 V192 A12,12 0 0 1 72,180 Z" />
+    <rect x="60" y="212" width="320" height="16" fill="#0052A6" />
+    
+  <g transform="translate(80.0, 191.0) scale(1.0833333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="116" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">客户主体识别</text>
+    <text x="80" y="258" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">结合多维度信息判断是否同一客户:</text>
+    <circle cx="86" cy="284" r="3" fill="#246BFE" />
+    <text x="100" y="288" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#25364A">企业名 · 项目名 · 楼宇地址</text>
+    <circle cx="86" cy="308" r="3" fill="#246BFE" />
+    <text x="100" y="312" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#25364A">联系人 · 沟通记录</text>
+    <circle cx="86" cy="332" r="3" fill="#246BFE" />
+    <text x="100" y="336" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#25364A">股权关系</text>
+    <rect x="80" y="346" width="200" height="0" fill="none" />
+  </g>
+
+  <g id="center-hub">
+    <circle cx="640" cy="380" r="200" fill="url(#centerGlow)" />
+
+    <line x1="425" y1="335" x2="500" y2="365" stroke="#518FEC" stroke-width="2" stroke-dasharray="5 3" marker-end="url(#decisionArrow)" />
+
+    <circle cx="640" cy="380" r="95" fill="#0052A6" />
+    <circle cx="640" cy="380" r="95" fill="none" stroke="#518FEC" stroke-width="2" stroke-opacity="0.5" />
+    
+  <g transform="translate(612.0, 335.0) scale(2.3333333333333335)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 21l18 0" />
+    <path d="M9 8l1 0" />
+    <path d="M9 12l1 0" />
+    <path d="M9 16l1 0" />
+    <path d="M14 8l1 0" />
+    <path d="M14 12l1 0" />
+    <path d="M14 16l1 0" />
+    <path d="M5 21v-16a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v16" />
+  </g>
+    <text x="640" y="412" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">统一客户视图</text>
+    <text x="640" y="434" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#B8C7E0" text-anchor="middle">某楼宇/园区/企业</text>
+
+    <text x="640" y="500" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC" text-anchor="middle">决策链角色向心归并</text>
+  </g>
+
+  <g id="role-1">
+    <path fill="#FFFFFF" stroke="#246BFE" stroke-width="1.5" d="M470,190 H610 A10,10 0 0 1 620,200 V238 A10,10 0 0 1 610,248 H470 A10,10 0 0 1 460,238 V200 A10,10 0 0 1 470,190 Z" />
+    <circle cx="485" cy="219" r="14" fill="#246BFE" />
+    
+  <g transform="translate(473.0, 207.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873l-6.158 -3.245" />
+  </g>
+    <text x="508" y="214" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">最终决策人</text>
+    <text x="508" y="234" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">拍板定方案</text>
+    <line x1="540" y1="248" x2="575" y2="312" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="role-2">
+    <path fill="#FFFFFF" stroke="#246BFE" stroke-width="1.5" d="M670,190 H810 A10,10 0 0 1 820,200 V238 A10,10 0 0 1 810,248 H670 A10,10 0 0 1 660,238 V200 A10,10 0 0 1 670,190 Z" />
+    <circle cx="685" cy="219" r="14" fill="#246BFE" />
+    
+  <g transform="translate(673.0, 207.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7" />
+    <path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3" />
+    <path d="M9.7 17l4.6 0" />
+  </g>
+    <text x="708" y="214" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">需求提出人</text>
+    <text x="708" y="234" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">业务部门</text>
+    <line x1="740" y1="248" x2="705" y2="312" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="role-3">
+    <path fill="#FFFFFF" stroke="#246BFE" stroke-width="1.5" d="M870,285 H1010 A10,10 0 0 1 1020,295 V333 A10,10 0 0 1 1010,343 H870 A10,10 0 0 1 860,333 V295 A10,10 0 0 1 870,285 Z" />
+    <circle cx="885" cy="314" r="14" fill="#246BFE" />
+    
+  <g transform="translate(873.0, 302.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="908" y="309" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">采购招标</text>
+    <text x="908" y="329" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">负责人</text>
+    <line x1="860" y1="314" x2="740" y2="360" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="role-4">
+    <path fill="#FFFFFF" stroke="#246BFE" stroke-width="1.5" d="M870,395 H1010 A10,10 0 0 1 1020,405 V443 A10,10 0 0 1 1010,453 H870 A10,10 0 0 1 860,443 V405 A10,10 0 0 1 870,395 Z" />
+    <circle cx="885" cy="424" r="14" fill="#246BFE" />
+    
+  <g transform="translate(873.0, 412.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="908" y="419" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">项目使用</text>
+    <text x="908" y="439" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">部门</text>
+    <line x1="860" y1="424" x2="740" y2="400" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="role-5">
+    <path fill="#FFFFFF" stroke="#246BFE" stroke-width="1.5" d="M670,490 H810 A10,10 0 0 1 820,500 V538 A10,10 0 0 1 810,548 H670 A10,10 0 0 1 660,538 V500 A10,10 0 0 1 670,490 Z" />
+    <circle cx="685" cy="519" r="14" fill="#246BFE" />
+    
+  <g transform="translate(673.0, 507.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 13a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -6" />
+    <path d="M15 9a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -10" />
+    <path d="M9 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -14" />
+    <path d="M4 20h14" />
+  </g>
+    <text x="708" y="514" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">技术方案</text>
+    <text x="708" y="534" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">评估人</text>
+    <line x1="740" y1="490" x2="705" y2="448" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="role-6">
+    <path fill="#FFFFFF" stroke="#0E9F6E" stroke-width="1.5" d="M470,490 H610 A10,10 0 0 1 620,500 V538 A10,10 0 0 1 610,548 H470 A10,10 0 0 1 460,538 V500 A10,10 0 0 1 470,490 Z" />
+    <circle cx="485" cy="519" r="14" fill="#0E9F6E" />
+    
+  <g transform="translate(473.0, 507.0)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 21l18 0" />
+    <path d="M9 8l1 0" />
+    <path d="M9 12l1 0" />
+    <path d="M9 16l1 0" />
+    <path d="M14 8l1 0" />
+    <path d="M14 12l1 0" />
+    <path d="M14 16l1 0" />
+    <path d="M5 21v-16a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v16" />
+  </g>
+    <text x="508" y="514" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#17365D">业主/投资/</text>
+    <text x="508" y="534" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#5E6A78">运营/物业方</text>
+    <line x1="540" y1="490" x2="575" y2="448" stroke="#518FEC" stroke-width="1.5" marker-end="url(#decisionArrow)" />
+  </g>
+
+  <g id="insight-box">
+    <path fill="#17365D" d="M1062,180 H1208 A12,12 0 0 1 1220,192 V348 A12,12 0 0 1 1208,360 H1062 A12,12 0 0 1 1050,348 V192 A12,12 0 0 1 1062,180 Z" />
+    
+  <g transform="translate(1070.0, 200.0) scale(1.1666666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M8 9h-1a2 2 0 0 0 -2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-8a2 2 0 0 0 -2 -2h-1" />
+    <path d="M12 14v-11" />
+    <path d="M9 6l3 -3l3 3" />
+  </g>
+    <text x="1108" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">关系洞察</text>
+    <line x1="1070" y1="238" x2="1200" y2="238" stroke="#518FEC" stroke-width="1.5" stroke-opacity="0.4" />
+    <circle cx="1076" cy="262" r="3" fill="#518FEC" />
+    <text x="1088" y="266" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#B8C7E0">联系人关系</text>
+    <circle cx="1076" cy="290" r="3" fill="#518FEC" />
+    <text x="1088" y="294" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#B8C7E0">影响力排序</text>
+    <circle cx="1076" cy="318" r="3" fill="#518FEC" />
+    <text x="1088" y="322" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#B8C7E0">销售掌握信息</text>
+    <circle cx="1076" cy="346" r="3" fill="#518FEC" />
+    <text x="1088" y="350" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#B8C7E0">各销售跟进情况</text>
+  </g>
+
+  <g id="pain-banner">
+    <path fill="#F59E0B" fill-opacity="0.12" d="M70,620 H1210 A10,10 0 0 1 1220,630 V662 A10,10 0 0 1 1210,672 H70 A10,10 0 0 1 60,662 V630 A10,10 0 0 1 70,620 Z" />
+    
+  <g transform="translate(80.0, 632.0) scale(1.1666666666666667)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="118" y="652" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">痛点对照:同一客户被重复跟进 · 名称不统一 · 信息分散在个人记录与录音 · 关键人物识别不清 —— AI 归并后全部化解</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">16</text>
+  </g>
+</svg>

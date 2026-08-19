@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">01 · FDE 到底是什么</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">判断是不是 FDE，看项目结束后留下了什么</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine4)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">买的是结果，不是时间——只留系统是外包，沉淀为可复用资产才是 FDE</text>
+  </g>
+
+  <!-- 左侧价值方向标 -->
+  <g id="value-axis">
+    <text x="78" y="232" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#0052A6">价值高</text>
+    <line x1="92" y1="246" x2="92" y2="560" stroke="#B8C7E0" stroke-width="2" stroke-dasharray="4,4"/>
+    <polygon points="86,556 92,572 98,556" fill="#B8C7E0"/>
+    <text x="74" y="588" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#6B7785">价值低</text>
+  </g>
+
+  <!-- 四级金字塔 -->
+  <g id="pyramid">
+    <polygon points="305,180 385,180 425,285 265,285" fill="#0052A6"/>
+    <polygon points="265,285 425,285 465,390 225,390" fill="#246BFE"/>
+    <polygon points="225,390 465,390 505,495 185,495" fill="#518FEC"/>
+    <polygon points="185,495 505,495 545,600 145,600" fill="#6B7785"/>
+    <text x="345" y="238" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#FFFFFF">可规模化</text>
+    <text x="345" y="344" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">FDE</text>
+    <text x="345" y="449" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">项目制</text>
+    <text x="345" y="554" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#FFFFFF">外包</text>
+  </g>
+
+  <!-- 连接虚线 -->
+  <g id="connectors">
+    <line x1="425" y1="232" x2="660" y2="231" stroke="#0052A6" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.5"/>
+    <line x1="465" y1="338" x2="660" y2="339" stroke="#246BFE" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.5"/>
+    <line x1="505" y1="443" x2="660" y2="447" stroke="#518FEC" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.5"/>
+    <line x1="545" y1="548" x2="660" y2="555" stroke="#6B7785" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- 右侧四级说明卡 -->
+  <g id="card-l4">
+    <rect x="660" y="185" width="560" height="92" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="660" y="185" width="6" height="92" rx="3" fill="#0052A6"/>
+    <circle cx="704" cy="231" r="20" fill="#0052A6"/>
+    <text x="704" y="238" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">④</text>
+    <text x="740" y="222" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">沉淀后让下一个客户更便宜</text>
+    <text x="740" y="252" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">可规模化的 FDE ——边际交付成本持续下降，复利开始兑现</text>
+  </g>
+
+  <g id="card-l3">
+    <rect x="660" y="293" width="560" height="92" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="660" y="293" width="6" height="92" rx="3" fill="#246BFE"/>
+    <circle cx="704" cy="339" r="20" fill="#246BFE"/>
+    <text x="704" y="346" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">③</text>
+    <text x="740" y="330" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">沉淀为可复用能力</text>
+    <text x="740" y="360" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">FDE ——把现场经验封装成 Skill / 模板 / 连接器</text>
+  </g>
+
+  <g id="card-l2">
+    <rect x="660" y="401" width="560" height="92" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="660" y="401" width="6" height="92" rx="3" fill="#518FEC"/>
+    <circle cx="704" cy="447" r="20" fill="#518FEC"/>
+    <text x="704" y="454" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">②</text>
+    <text x="740" y="438" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">带回经验但无法复用</text>
+    <text x="740" y="468" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">项目制 ——每个项目都从零开始，经验留在个人脑子里</text>
+  </g>
+
+  <g id="card-l1">
+    <rect x="660" y="509" width="560" height="92" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="660" y="509" width="6" height="92" rx="3" fill="#6B7785"/>
+    <circle cx="704" cy="555" r="20" fill="#6B7785"/>
+    <text x="704" y="562" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">①</text>
+    <text x="740" y="546" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">只留一个系统</text>
+    <text x="740" y="576" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">外包 ——交付即结束，能力不沉淀、不可复用</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="690" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#6B7785">「试金石」：项目结束后，经验是否变成了组织可复用的资产</text>
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">04 / 26</text>
+  </g>
+</svg>

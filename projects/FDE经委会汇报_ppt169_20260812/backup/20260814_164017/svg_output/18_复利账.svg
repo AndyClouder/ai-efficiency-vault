@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine18" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="tlGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="40%" stop-color="#518FEC"/>
+      <stop offset="75%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#0E9F6E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">04 · 怎么稳妥推进</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">先投入、后回收——会不会把经验变成资产，决定能不能赚钱</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine18)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">本体沉淀是一条复利曲线：冷启动亏、中期平、后期赚</text>
+  </g>
+
+  <!-- 时间轴 -->
+  <g id="timeline">
+    <line x1="210" y1="385" x2="1080" y2="385" stroke="#E3E9F2" stroke-width="10" stroke-linecap="round"/>
+    <line x1="210" y1="385" x2="1080" y2="385" stroke="url(#tlGrad)" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="210" cy="385" r="17" fill="#F59E0B"/>
+    <circle cx="210" cy="385" r="6" fill="#FFFFFF"/>
+    <circle cx="500" cy="385" r="17" fill="#518FEC"/>
+    <circle cx="500" cy="385" r="6" fill="#FFFFFF"/>
+    <circle cx="790" cy="385" r="17" fill="#246BFE"/>
+    <circle cx="790" cy="385" r="6" fill="#FFFFFF"/>
+    <circle cx="1080" cy="385" r="20" fill="#0E9F6E"/>
+    <path d="M 1074,385 L 1079,390 L 1088,380" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- 节点1 卡（下）第1客户 -->
+  <g id="milestone-1">
+    <line x1="210" y1="402" x2="210" y2="425" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4,4"/>
+    <rect x="90" y="425" width="240" height="165" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.5"/>
+    <path d="M 102 425 h 216 a 12 12 0 0 1 12 12 v 24 h -240 v -24 a 12 12 0 0 1 12 -12 Z" fill="#F59E0B" fill-opacity="0.12"/>
+    <text x="210" y="452" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309">第 1 个客户 · 冷启动</text>
+    <text x="210" y="510" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="44" font-weight="bold" fill="#F59E0B">25<tspan font-size="22">％</tspan></text>
+    <text x="210" y="536" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">毛利率</text>
+    <text x="210" y="568" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">从零定制，成本是常规 3 倍</text>
+  </g>
+
+  <!-- 节点2 卡（上）第4客户 -->
+  <g id="milestone-2">
+    <line x1="500" y1="368" x2="500" y2="345" stroke="#518FEC" stroke-width="2" stroke-dasharray="4,4"/>
+    <rect x="380" y="180" width="240" height="165" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <path d="M 380 333 v -129 a 12 12 0 0 1 12 -12 h 216 a 12 12 0 0 1 12 12 v 129 a 12 12 0 0 1 -12 12 h -216 a 12 12 0 0 1 -12 -12 Z" fill="none"/>
+    <path d="M 380 333 v 0 a 12 12 0 0 0 12 12 h 216 a 12 12 0 0 0 12 -12 v -24 h -240 Z" fill="#518FEC" fill-opacity="0.12"/>
+    <text x="500" y="332" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#518FEC">第 4 个客户 · 本体 V1.3</text>
+    <text x="500" y="248" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="40" font-weight="bold" fill="#518FEC">4 人天</text>
+    <text x="500" y="274" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">单客户 Delta 增量工时</text>
+    <text x="500" y="306" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">边际成本开始快速下降</text>
+  </g>
+
+  <!-- 节点3 卡（下）第5-8客户 -->
+  <g id="milestone-3">
+    <line x1="790" y1="402" x2="790" y2="425" stroke="#246BFE" stroke-width="2" stroke-dasharray="4,4"/>
+    <rect x="670" y="425" width="240" height="165" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <path d="M 682 425 h 216 a 12 12 0 0 1 12 12 v 24 h -240 v -24 a 12 12 0 0 1 12 -12 Z" fill="#246BFE" fill-opacity="0.12"/>
+    <text x="790" y="452" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#0052A6">第 5–8 个客户 · 规模化</text>
+    <text x="790" y="510" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="40" font-weight="bold" fill="#246BFE">55→70<tspan font-size="22">％</tspan></text>
+    <text x="790" y="536" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">毛利率 · 上线周期 6 周 → 1 周</text>
+    <text x="790" y="568" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">复利效应显现</text>
+  </g>
+
+  <!-- 节点4 卡（上）第8客户 回本 -->
+  <g id="milestone-4">
+    <line x1="1080" y1="368" x2="1080" y2="345" stroke="#0E9F6E" stroke-width="2" stroke-dasharray="4,4"/>
+    <rect x="960" y="180" width="240" height="165" rx="12" fill="#0E9F6E" fill-opacity="0.06" stroke="#0E9F6E" stroke-width="1.5"/>
+    <path d="M 960 333 v 0 a 12 12 0 0 0 12 12 h 216 a 12 12 0 0 0 12 -12 v -24 h -240 Z" fill="#0E9F6E"/>
+    <text x="1080" y="332" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#FFFFFF">第 8 个客户 · 正式回本</text>
+    <text x="1080" y="248" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="40" font-weight="bold" fill="#0E9F6E">300 万</text>
+    <text x="1080" y="274" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">累计节省 · 本体趋稳</text>
+    <text x="1080" y="306" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#25364A">冷启动约 150 万，至此回本</text>
+  </g>
+
+  <!-- 底部 core message -->
+  <g id="summary-band">
+    <rect x="60" y="608" width="1160" height="56" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/refresh" x="84" y="620" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="128" y="643" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#FFFFFF">复利公式：每个客户都在为下一个客户降低成本——7–8 个客户后本体趋稳</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">18 / 26</text>
+  </g>
+</svg>

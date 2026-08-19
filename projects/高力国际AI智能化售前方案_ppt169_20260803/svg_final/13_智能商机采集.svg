@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">03 场景方案 · 商机</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">智能信息收集与商机识别 — 多源全量采集</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">从六大公开渠道持续采集商业地产商机,人工不再遗漏重要项目</text>
+  </g>
+
+  <g id="pains">
+    <text x="60" y="190" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B" letter-spacing="1">五大痛点 · PAIN POINTS</text>
+    <path fill="#F4F7FC" d="M70,205 H270 A10,10 0 0 1 280,215 V263 A10,10 0 0 1 270,273 H70 A10,10 0 0 1 60,263 V215 A10,10 0 0 1 70,205 Z" />
+    <path fill="#F59E0B" d="M62,205 H62 A2,2 0 0 1 64,207 V271 A2,2 0 0 1 62,273 H62 A2,2 0 0 1 60,271 V207 A2,2 0 0 1 62,205 Z" />
+    <text x="78" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">来源多而散</text>
+    <text x="78" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">人工搜索效率低</text>
+
+    <path fill="#F4F7FC" d="M304,205 H504 A10,10 0 0 1 514,215 V263 A10,10 0 0 1 504,273 H304 A10,10 0 0 1 294,263 V215 A10,10 0 0 1 304,205 Z" />
+    <path fill="#F59E0B" d="M296,205 H296 A2,2 0 0 1 298,207 V271 A2,2 0 0 1 296,273 H296 A2,2 0 0 1 294,271 V207 A2,2 0 0 1 296,205 Z" />
+    <text x="312" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">提取困难</text>
+    <text x="312" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">视频图片长文本</text>
+
+    <path fill="#F4F7FC" d="M538,205 H738 A10,10 0 0 1 748,215 V263 A10,10 0 0 1 738,273 H538 A10,10 0 0 1 528,263 V215 A10,10 0 0 1 538,205 Z" />
+    <path fill="#F59E0B" d="M530,205 H530 A2,2 0 0 1 532,207 V271 A2,2 0 0 1 530,273 H530 A2,2 0 0 1 528,271 V207 A2,2 0 0 1 530,205 Z" />
+    <text x="546" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">重复缺去重</text>
+    <text x="546" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">信息缺乏关联</text>
+
+    <path fill="#F4F7FC" d="M772,205 H972 A10,10 0 0 1 982,215 V263 A10,10 0 0 1 972,273 H772 A10,10 0 0 1 762,263 V215 A10,10 0 0 1 772,205 Z" />
+    <path fill="#F59E0B" d="M764,205 H764 A2,2 0 0 1 766,207 V271 A2,2 0 0 1 764,273 H764 A2,2 0 0 1 762,271 V207 A2,2 0 0 1 764,205 Z" />
+    <text x="780" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">缺价值判断</text>
+    <text x="780" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">无优先级排序</text>
+
+    <path fill="#F4F7FC" d="M1006,205 H1210 A10,10 0 0 1 1220,215 V263 A10,10 0 0 1 1210,273 H1006 A10,10 0 0 1 996,263 V215 A10,10 0 0 1 1006,205 Z" />
+    <path fill="#F59E0B" d="M998,205 H998 A2,2 0 0 1 1000,207 V271 A2,2 0 0 1 998,273 H998 A2,2 0 0 1 996,271 V207 A2,2 0 0 1 998,205 Z" />
+    <text x="1014" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">难快速分配</text>
+    <text x="1014" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">销售响应慢</text>
+  </g>
+
+  <g id="opportunity-types">
+    <text x="60" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0E9F6E" letter-spacing="1">6 类重点关注商机 · OPPORTUNITY TYPES</text>
+    <path fill="#F4F7FC" d="M70,335 H420 A10,10 0 0 1 430,345 V440 A10,10 0 0 1 420,450 H70 A10,10 0 0 1 60,440 V345 A10,10 0 0 1 70,335 Z" />
+    
+  <g transform="translate(80.0, 355.0) scale(1.1666666666666667)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M3 21l18 0" />
+    <path d="M9 8l1 0" />
+    <path d="M9 12l1 0" />
+    <path d="M9 16l1 0" />
+    <path d="M14 8l1 0" />
+    <path d="M14 12l1 0" />
+    <path d="M14 16l1 0" />
+    <path d="M5 21v-16a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v16" />
+  </g>
+    <text x="118" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">新建项目</text>
+    <text x="80" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">写字楼 · 商业综合体 · 产业园区</text>
+    <text x="80" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">城市更新 · 大型基建项目</text>
+
+    <path fill="#F4F7FC" d="M465,335 H815 A10,10 0 0 1 825,345 V440 A10,10 0 0 1 815,450 H465 A10,10 0 0 1 455,440 V345 A10,10 0 0 1 465,335 Z" />
+    
+  <g transform="translate(475.0, 355.0) scale(1.1666666666666667)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 1 0 0 4h2a2 2 0 1 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
+    <path d="M12 7v10" />
+  </g>
+    <text x="513" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">交易并购</text>
+    <text x="475" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">楼宇出售 · 大宗交易 · 产权转让</text>
+    <text x="475" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">楼宇易主 · 资产收购 · 股权变更</text>
+
+    <path fill="#F4F7FC" d="M860,335 H1210 A10,10 0 0 1 1220,345 V440 A10,10 0 0 1 1210,450 H860 A10,10 0 0 1 850,440 V345 A10,10 0 0 1 860,335 Z" />
+    
+  <g transform="translate(870.0, 355.0) scale(1.1666666666666667)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="908" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">运营搬迁</text>
+    <text x="870" y="410" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">新项目招商 · 物业运营招标</text>
+    <text x="870" y="432" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">企业搬迁 · 扩建 · 新办公场所</text>
+  </g>
+
+  <g id="sources">
+    <text x="60" y="490" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#246BFE" letter-spacing="1">六大采集渠道 · DATA SOURCES</text>
+    <path fill="#17365D" d="M72,505 H1208 A12,12 0 0 1 1220,517 V628 A12,12 0 0 1 1208,640 H72 A12,12 0 0 1 60,628 V517 A12,12 0 0 1 72,505 Z" />
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M94,525 H244 A10,10 0 0 1 254,535 V610 A10,10 0 0 1 244,620 H94 A10,10 0 0 1 84,610 V535 A10,10 0 0 1 94,525 Z" />
+    
+  <g transform="translate(140.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="169" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">政府网站</text>
+    <text x="169" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">规划·公示</text>
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M282,525 H432 A10,10 0 0 1 442,535 V610 A10,10 0 0 1 432,620 H282 A10,10 0 0 1 272,610 V535 A10,10 0 0 1 282,525 Z" />
+    
+  <g transform="translate(328.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="357" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">公共资源</text>
+    <text x="357" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">交易平台</text>
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M470,525 H620 A10,10 0 0 1 630,535 V610 A10,10 0 0 1 620,620 H470 A10,10 0 0 1 460,610 V535 A10,10 0 0 1 470,525 Z" />
+    
+  <g transform="translate(516.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="545" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">招投标</text>
+    <text x="545" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">平台</text>
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M658,525 H808 A10,10 0 0 1 818,535 V610 A10,10 0 0 1 808,620 H658 A10,10 0 0 1 648,610 V535 A10,10 0 0 1 658,525 Z" />
+    
+  <g transform="translate(704.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M4 14v-3a8 8 0 1 1 16 0v3" />
+    <path d="M18 19c0 1.657 -2.686 3 -6 3" />
+    <path d="M4 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+    <path d="M15 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+  </g>
+    <text x="733" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">短视频</text>
+    <text x="733" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">抖音等</text>
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M846,525 H996 A10,10 0 0 1 1006,535 V610 A10,10 0 0 1 996,620 H846 A10,10 0 0 1 836,610 V535 A10,10 0 0 1 846,525 Z" />
+    
+  <g transform="translate(892.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="921" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">招聘平台</text>
+    <text x="921" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">客户信息</text>
+
+    <path fill="#FFFFFF" fill-opacity="0.08" d="M1034,525 H1186 A10,10 0 0 1 1196,535 V610 A10,10 0 0 1 1186,620 H1034 A10,10 0 0 1 1024,610 V535 A10,10 0 0 1 1034,525 Z" />
+    
+  <g transform="translate(1080.0, 540.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="1110" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">其他公开</text>
+    <text x="1110" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#8FA3C4" text-anchor="middle">渠道</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">13</text>
+  </g>
+</svg>

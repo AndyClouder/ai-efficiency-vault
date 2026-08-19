@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">03 场景方案 · 招聘</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">智能招聘 — 核心能力与价值</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">五大核心能力让基层招聘效率与到岗率双提升,同时沉淀企业人才资产</text>
+  </g>
+
+  <g id="cap-1">
+    <rect x="60" y="185" width="370" height="290" rx="12" fill="#F4F7FC"/>
+    <circle cx="100" cy="225" r="24" fill="#246BFE"/>
+    <use data-icon="tabler-outline/file-text" x="84" y="209" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="138" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE">能力 01</text>
+    <text x="138" y="244" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#17365D">JD 智能生成</text>
+    <text x="84" y="290" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">解析岗位需求(技能、</text>
+    <text x="84" y="313" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">经验、职责),自动生成</text>
+    <text x="84" y="336" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">高质量职位描述。</text>
+    <rect x="84" y="400" width="150" height="30" rx="6" fill="#246BFE" fill-opacity="0.12"/>
+    <text x="159" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE" text-anchor="middle">需求→JD 自动化</text>
+  </g>
+
+  <g id="cap-2">
+    <rect x="455" y="185" width="370" height="290" rx="12" fill="#F4F7FC"/>
+    <circle cx="495" cy="225" r="24" fill="#0052A6"/>
+    <use data-icon="tabler-outline/search" x="479" y="209" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="533" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0052A6">能力 02</text>
+    <text x="533" y="244" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#17365D">简历精准匹配</text>
+    <text x="479" y="290" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">语义级"岗→人 / 人→岗</text>
+    <text x="479" y="313" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">/ 人→人"多维映射,</text>
+    <text x="479" y="336" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">初筛效率大幅提升。</text>
+    <rect x="479" y="400" width="150" height="30" rx="6" fill="#0052A6" fill-opacity="0.12"/>
+    <text x="554" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0052A6" text-anchor="middle">匹配度 ↑50%+</text>
+  </g>
+
+  <g id="cap-3">
+    <rect x="850" y="185" width="370" height="290" rx="12" fill="#F4F7FC"/>
+    <circle cx="890" cy="225" r="24" fill="#246BFE"/>
+    <use data-icon="tabler-outline/robot" x="874" y="209" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="928" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE">能力 03</text>
+    <text x="928" y="244" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#17365D">AI 面试</text>
+    <text x="874" y="290" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">AI 数字人模拟真实面试,</text>
+    <text x="874" y="313" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">千人千面出题,自动生</text>
+    <text x="874" y="336" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">成多维评估报告。</text>
+    <rect x="874" y="400" width="150" height="30" rx="6" fill="#246BFE" fill-opacity="0.12"/>
+    <text x="949" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE" text-anchor="middle">流程自动化</text>
+  </g>
+
+  <g id="cap-4">
+    <rect x="60" y="490" width="570" height="62" rx="12" fill="#F4F7FC"/>
+    <circle cx="100" cy="521" r="20" fill="#0E9F6E"/>
+    <use data-icon="tabler-outline/headset" x="86" y="507" width="28" height="28" fill="#FFFFFF" stroke-width="2"/>
+    <text x="135" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0E9F6E">能力 04 · 招聘机器人</text>
+    <text x="135" y="538" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#25364A">自动登录平台筛选候选人并打招呼沟通,简历自动解析入库</text>
+  </g>
+
+  <g id="cap-5">
+    <rect x="650" y="490" width="570" height="62" rx="12" fill="#F4F7FC"/>
+    <circle cx="690" cy="521" r="20" fill="#0E9F6E"/>
+    <use data-icon="tabler-outline/report" x="676" y="507" width="28" height="28" fill="#FFFFFF" stroke-width="2"/>
+    <text x="725" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0E9F6E">能力 05 · 人才库沉淀</text>
+    <text x="725" y="538" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#25364A">多渠道简历统一存储,历史候选人智能复荐,人才资产复用</text>
+  </g>
+
+  <g id="value-banner">
+    <rect x="60" y="570" width="1160" height="72" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/chart-bar" x="84" y="588" width="36" height="36" fill="#518FEC" stroke-width="2"/>
+    <text x="135" y="596" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#518FEC" letter-spacing="1">价值(预估值)</text>
+    <text x="135" y="624" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">简历筛选效率 ↑50%+  ·  招聘周期 ↓40%  ·  简历采购成本 ↓30%</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">12</text>
+  </g>
+</svg>

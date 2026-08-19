@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">新角色 —— 从 Developer 到 Builder,Builder 负责交付闭环</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">人不再只负责某个狭窄环节,而是和 AI、Agent、平台、资产一起把业务问题构建成可运行的系统</text>
+  </g>
+
+  <g id="transition-bar">
+    <rect x="80" y="156" width="1120" height="64" rx="12" fill="#F4F7FC"/>
+    <text x="200" y="194" font-size="18" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Developer</text>
+    <use data-icon="tabler-outline/arrow-right" x="290" y="172" width="32" height="32" fill="#0052A6"/>
+    <text x="640" y="196" font-size="22" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Builder(产品构建者 · 应用构建者 · 智能体构建者)</text>
+    <use data-icon="tabler-outline/arrow-right" x="960" y="172" width="32" height="32" fill="#0052A6"/>
+    <text x="1100" y="194" font-size="18" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">+ Expert</text>
+  </g>
+
+  <g id="builder-1">
+    <rect x="80" y="236" width="216" height="320" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="236" width="216" height="6" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/target" x="100" y="258" width="32" height="32" fill="#0052A6"/>
+    <text x="188" y="284" font-size="16" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Product Builder</text>
+    <text x="188" y="306" font-size="12" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品构建者</text>
+    <line x1="100" y1="324" x2="276" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="100" y="354" font-size="13" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">来自产品经理</text>
+    <text x="100" y="390" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· AI 快速生成原型</text>
+    <text x="100" y="412" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 与业务讨论需求</text>
+    <text x="100" y="434" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 简单前端直接改</text>
+    <line x1="100" y1="460" x2="276" y2="460" stroke="#E3E9F2" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="100" y="490" font-size="12" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">需求管理者</text>
+    <text x="100" y="510" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">→ 产品构建者</text>
+    <text x="100" y="540" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">判断 + 快速原型</text>
+  </g>
+
+  <g id="builder-2">
+    <rect x="312" y="236" width="216" height="320" rx="14" fill="#F4F7FC"/>
+    <rect x="312" y="236" width="216" height="6" rx="3" fill="#246BFE"/>
+    <use data-icon="tabler-outline/code" x="332" y="258" width="32" height="32" fill="#246BFE"/>
+    <text x="420" y="284" font-size="16" font-weight="bold" fill="#246BFE" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Application Builder</text>
+    <text x="420" y="306" font-size="12" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">应用构建者</text>
+    <line x1="332" y1="324" x2="508" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="332" y="354" font-size="13" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Developer 主方向</text>
+    <text x="332" y="390" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 全栈化(前后端+</text>
+    <text x="332" y="408" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">  数据+算法一体)</text>
+    <text x="332" y="434" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 守护代码质量闭环</text>
+    <line x1="332" y1="460" x2="508" y2="460" stroke="#E3E9F2" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="332" y="490" font-size="12" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">写代码的人</text>
+    <text x="332" y="510" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">→ 应用系统构建者</text>
+    <text x="332" y="540" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">应用 + 质量 + 反馈</text>
+  </g>
+
+  <g id="builder-3">
+    <rect x="544" y="236" width="216" height="320" rx="14" fill="#F4F7FC"/>
+    <rect x="544" y="236" width="216" height="6" rx="3" fill="#518FEC"/>
+    <use data-icon="tabler-outline/robot" x="564" y="258" width="32" height="32" fill="#518FEC"/>
+    <text x="652" y="284" font-size="16" font-weight="bold" fill="#518FEC" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Agent Builder</text>
+    <text x="652" y="306" font-size="12" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">智能体构建者</text>
+    <line x1="564" y1="324" x2="740" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="564" y="354" font-size="13" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">不是写 Prompt 的人</text>
+    <text x="564" y="390" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 设计 Agent 工作流</text>
+    <text x="564" y="412" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 沉淀 Skill 资产</text>
+    <text x="564" y="434" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 管记忆/权限/版本</text>
+    <line x1="564" y1="460" x2="740" y2="460" stroke="#E3E9F2" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="564" y="490" font-size="12" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">使用 AI</text>
+    <text x="564" y="510" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">→ 构建 AI 能力</text>
+    <text x="564" y="540" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Agent = 执行主体</text>
+  </g>
+
+  <g id="builder-4">
+    <rect x="776" y="236" width="216" height="320" rx="14" fill="#F4F7FC"/>
+    <rect x="776" y="236" width="216" height="6" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/circle-check" x="796" y="258" width="32" height="32" fill="#0052A6"/>
+    <text x="884" y="284" font-size="16" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Test Builder</text>
+    <text x="884" y="306" font-size="12" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">质量基础设施构建者</text>
+    <line x1="796" y1="324" x2="972" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="796" y="354" font-size="13" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">测试不消失但重心变</text>
+    <text x="796" y="390" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 测试基础设施</text>
+    <text x="796" y="412" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 质量门禁</text>
+    <text x="796" y="434" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 自动化策略设计</text>
+    <line x1="796" y1="460" x2="972" y2="460" stroke="#E3E9F2" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="796" y="490" font-size="12" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">测试执行者</text>
+    <text x="796" y="510" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">→ 质量基础设施</text>
+    <text x="796" y="540" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">构建者</text>
+  </g>
+
+  <g id="builder-5">
+    <rect x="1008" y="236" width="192" height="320" rx="14" fill="#F4F7FC"/>
+    <rect x="1008" y="236" width="192" height="6" rx="3" fill="#246BFE"/>
+    <use data-icon="tabler-outline/server" x="1028" y="258" width="32" height="32" fill="#246BFE"/>
+    <text x="1104" y="284" font-size="16" font-weight="bold" fill="#246BFE" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Platform Builder</text>
+    <text x="1104" y="306" font-size="12" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">组织能力构建者</text>
+    <line x1="1028" y1="324" x2="1180" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1028" y="354" font-size="13" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">来自平台/架构团队</text>
+    <text x="1028" y="390" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 沉淀组织级能力</text>
+    <text x="1028" y="412" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· AI/数据/知识/工程</text>
+    <text x="1028" y="434" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">  平台底座</text>
+    <line x1="1028" y1="460" x2="1180" y2="460" stroke="#E3E9F2" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="1028" y="490" font-size="12" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">平台支撑者</text>
+    <text x="1028" y="510" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">→ 组织能力构建者</text>
+    <text x="1028" y="540" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">让 FDE 小队低成本复用</text>
+  </g>
+
+  <g id="expert-block">
+    <rect x="80" y="576" width="1120" height="72" rx="14" fill="#0052A6"/>
+    <use data-icon="tabler-outline/bulb" x="104" y="596" width="32" height="32" fill="#FFFFFF"/>
+    <text x="148" y="612" font-size="16" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">Builder 化 ≠ 专家消失</text>
+    <text x="148" y="636" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">架构/性能/安全/UX/前端/后端/测试/数据 Expert 仍在,从"审批关口"变成"能力中心",负责定义标准、沉淀资产、建设工具链和质量门禁</text>
+    <text x="1170" y="624" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">Builder 交付闭环 · Expert 能力沉淀</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第三章 · 组织重塑</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">11 / 30</text>
+  </g>
+</svg>

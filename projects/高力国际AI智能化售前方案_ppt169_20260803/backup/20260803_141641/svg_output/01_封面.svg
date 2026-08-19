@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="coverBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E"/>
+      <stop offset="60%" stop-color="#0E367A"/>
+      <stop offset="100%" stop-color="#17365D"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC"/>
+    </linearGradient>
+    <radialGradient id="coverDecor" cx="85%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="coverDecor2" cx="12%" cy="88%" r="45%">
+      <stop offset="0%" stop-color="#518FEC" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="url(#coverBg)"/>
+    <rect width="1280" height="720" fill="url(#coverDecor)"/>
+    <rect width="1280" height="720" fill="url(#coverDecor2)"/>
+  </g>
+
+  <g id="bg-decor">
+    <circle cx="1120" cy="120" r="6" fill="#518FEC" fill-opacity="0.55"/>
+    <circle cx="1180" cy="180" r="3" fill="#246BFE" fill-opacity="0.7"/>
+    <circle cx="1080" cy="200" r="2.5" fill="#518FEC" fill-opacity="0.5"/>
+    <circle cx="160" cy="600" r="4" fill="#518FEC" fill-opacity="0.4"/>
+    <path d="M 0 720 L 0 560 Q 120 520 240 560 T 480 560 T 720 560 T 960 560 T 1280 560 L 1280 720 Z" fill="#0A2A5E" fill-opacity="0.35"/>
+  </g>
+
+  <g id="brand-mark">
+    <use data-icon="tabler-outline/brain" x="90" y="78" width="40" height="40" fill="#518FEC" stroke-width="2"/>
+    <text x="142" y="108" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">法本信息 · FarAI</text>
+  </g>
+
+  <g id="cover-title-block">
+    <rect x="90" y="250" width="72" height="6" rx="3" fill="url(#accentLine)"/>
+    <text x="90" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#518FEC" letter-spacing="3">FarAI × COLLIERS</text>
+    <text x="90" y="388" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF">商业地产 AI 智能化</text>
+    <text x="90" y="458" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="56" font-weight="bold" fill="url(#accentLine)">解决方案</text>
+    <text x="90" y="510" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#B8C7E0">一个平台 · 四大场景 · 一个闭环 —— 让 AI 成为增长新引擎</text>
+  </g>
+
+  <g id="cover-footer">
+    <line x1="90" y1="610" x2="190" y2="610" stroke="#518FEC" stroke-width="2"/>
+    <text x="90" y="645" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">深圳市法本信息技术股份有限公司</text>
+    <text x="90" y="672" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#8FA3C4">领先的软硬一体化、解决方案服务商 · 2026.08</text>
+  </g>
+</svg>

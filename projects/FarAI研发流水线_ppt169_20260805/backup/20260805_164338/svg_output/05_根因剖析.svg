@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="64" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="108" font-size="30" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">成本结构变了,但协作链路没变</text>
+    <text x="80" y="138" font-size="16" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">瓶颈从"开发产能"转移到"协作链路",链路不变则组织不变快</text>
+  </g>
+
+  <g id="step-1">
+    <rect x="80" y="172" width="780" height="116" rx="14" fill="#F4F7FC"/>
+    <circle cx="124" cy="208" r="22" fill="#0052A6"/>
+    <text x="124" y="216" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">1</text>
+    <use data-icon="tabler-outline/bolt" x="160" y="188" width="32" height="32" fill="#0052A6"/>
+    <text x="208" y="208" font-size="20" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">成本结构变了</text>
+    <text x="208" y="240" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">代码理解/生成、测试补充、缺陷分析的成本正在下降</text>
+    <text x="208" y="266" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">"写出代码"从最稀缺的能力,变成可被 AI 大幅放大的能力</text>
+  </g>
+
+  <g id="step-2">
+    <rect x="80" y="300" width="780" height="116" rx="14" fill="#F4F7FC"/>
+    <circle cx="124" cy="336" r="22" fill="#246BFE"/>
+    <text x="124" y="344" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">2</text>
+    <use data-icon="tabler-outline/target" x="160" y="316" width="32" height="32" fill="#246BFE"/>
+    <text x="208" y="336" font-size="20" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">瓶颈转移了</text>
+    <text x="208" y="368" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">新瓶颈在:需求是否清楚 · 架构边界是否合理</text>
+    <text x="208" y="394" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">测试能否自动验证 · 环境/数据能否快速准备 · 知识能否复用</text>
+  </g>
+
+  <g id="step-3">
+    <rect x="80" y="428" width="780" height="116" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="428" width="6" height="116" rx="3" fill="#F59E0B"/>
+    <circle cx="124" cy="464" r="22" fill="#F59E0B"/>
+    <text x="124" y="472" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">3</text>
+    <use data-icon="tabler-outline/git-branch" x="160" y="444" width="32" height="32" fill="#F59E0B"/>
+    <text x="208" y="464" font-size="20" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">协作链路没变 → 组织不变快</text>
+    <text x="208" y="496" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">软件交付是一条协作链:需求 → 评审 → 合入 → 验证 → 发布 → 运营</text>
+    <text x="208" y="522" font-size="15" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">只给每人加 AI 工具,链路不变 → 协作链路仍是瓶颈 → 组织不变快</text>
+  </g>
+
+  <g id="chain-card">
+    <rect x="890" y="172" width="310" height="372" rx="14" fill="#0E367A"/>
+    <text x="1045" y="210" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">软件交付协作链</text>
+    <line x1="920" y1="230" x2="1170" y2="230" stroke="#246BFE" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="912" y="252" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.1"/>
+    <text x="972" y="278" font-size="14" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">需求</text>
+    <rect x="1058" y="252" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.1"/>
+    <text x="1118" y="278" font-size="14" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">方案</text>
+    <rect x="912" y="320" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.1"/>
+    <text x="972" y="346" font-size="14" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">编码</text>
+    <rect x="1058" y="320" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.1"/>
+    <text x="1118" y="346" font-size="14" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">测试</text>
+    <rect x="912" y="388" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.1"/>
+    <text x="972" y="414" font-size="14" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">发布</text>
+    <rect x="1058" y="388" width="120" height="40" rx="20" fill="#246BFE"/>
+    <text x="1118" y="414" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">运营</text>
+    <text x="1045" y="478" font-size="13" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">协作链不变</text>
+    <text x="1045" y="500" font-size="13" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">个人变快被链路吃掉</text>
+    <text x="1045" y="524" font-size="14" font-weight="bold" fill="#518FEC" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">→ 必须重构生产关系</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第一章 · 核心命题</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">05 / 27</text>
+  </g>
+</svg>

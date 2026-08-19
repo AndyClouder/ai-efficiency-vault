@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine14" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">最怕的不是做不成，是变成「换名字的外包」</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine14)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">五类系统性风险，决定了 FDE 能不能从「项目」变成「生意」</text>
+  </g>
+
+  <!-- 上排 卡1 本体缺失（核心·橙） -->
+  <g id="risk-ontology">
+    <rect x="60" y="175" width="360" height="210" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="392" y="235" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="46" font-weight="bold" fill="#F59E0B" fill-opacity="0.12">01</text>
+    <rect x="84" y="199" width="52" height="52" rx="14" fill="#F59E0B" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/refresh" x="92" y="207" width="36" height="36" fill="#F59E0B" stroke-width="2"/>
+    <text x="84" y="288" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">本体缺失恶性循环</text>
+    <text x="84" y="318" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">没沉淀 → 每单从零开始</text>
+    <text x="84" y="342" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">→ 更没时间沉淀</text>
+    <rect x="84" y="354" width="180" height="22" rx="11" fill="#F59E0B"/>
+    <text x="174" y="370" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" font-weight="bold" fill="#FFFFFF">最核心 · 边际成本</text>
+  </g>
+
+  <!-- 上排 卡2 组织归属 -->
+  <g id="risk-org">
+    <rect x="460" y="175" width="360" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="792" y="235" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">02</text>
+    <rect x="484" y="199" width="52" height="52" rx="14" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/network" x="492" y="207" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="484" y="288" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">组织归属两难</text>
+    <text x="484" y="318" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">放销售 / 交付 / 产品体系</text>
+    <text x="484" y="342" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">每种归属各有陷阱</text>
+  </g>
+
+  <!-- 上排 卡3 落地易扩展难 -->
+  <g id="risk-scale">
+    <rect x="860" y="175" width="360" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1192" y="235" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">03</text>
+    <rect x="884" y="199" width="52" height="52" rx="14" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/chart-bar" x="892" y="207" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="884" y="288" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">落地易、扩展难</text>
+    <text x="884" y="318" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">新鲜感退去之后</text>
+    <text x="884" y="342" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">使用率持续下滑</text>
+  </g>
+
+  <!-- 下排 卡4 利润率（居中左） -->
+  <g id="risk-margin">
+    <rect x="260" y="402" width="360" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="592" y="462" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">04</text>
+    <rect x="284" y="426" width="52" height="52" rx="14" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/cash" x="292" y="434" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="284" y="515" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">利润率结构性偏重</text>
+    <text x="284" y="545" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">依赖人力的交付模式</text>
+    <text x="284" y="569" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">价值定价在国内有障碍</text>
+  </g>
+
+  <!-- 下排 卡5 模型厂商竞争（居中右） -->
+  <g id="risk-vendor">
+    <rect x="660" y="402" width="360" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="992" y="462" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">05</text>
+    <rect x="684" y="426" width="52" height="52" rx="14" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/robot" x="692" y="434" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="684" y="515" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">伙伴也是竞争者</text>
+    <text x="684" y="545" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">模型厂商既是合作伙伴</text>
+    <text x="684" y="569" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">也随时可能下场替代</text>
+  </g>
+
+  <!-- 底部强调带 -->
+  <g id="summary-band">
+    <rect x="60" y="630" width="1160" height="48" rx="12" fill="#F59E0B" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/alert-triangle" x="80" y="640" width="28" height="28" fill="#F59E0B" stroke-width="2"/>
+    <text x="120" y="660" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#B45309">所有风险本质上都指向同一个问题——能不能持续降低边际成本</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">14 / 26</text>
+  </g>
+</svg>

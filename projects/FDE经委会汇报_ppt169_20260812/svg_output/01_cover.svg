@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="coverBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E"/>
+      <stop offset="60%" stop-color="#0E367A"/>
+      <stop offset="100%" stop-color="#17365D"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC"/>
+    </linearGradient>
+    <linearGradient id="titleUnderline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="bgDecor" cx="86%" cy="16%" r="55%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgDecor2" cx="8%" cy="92%" r="45%">
+      <stop offset="0%" stop-color="#518FEC" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g id="background">
+    <rect width="1280" height="720" fill="url(#coverBg)"/>
+    <rect width="1280" height="720" fill="url(#bgDecor)"/>
+    <rect width="1280" height="720" fill="url(#bgDecor2)"/>
+  </g>
+
+  <g id="cover-decoration">
+    <circle cx="1075" cy="195" r="118" fill="none" stroke="#518FEC" stroke-width="1.5" stroke-opacity="0.18"/>
+    <circle cx="1075" cy="195" r="92" fill="none" stroke="#246BFE" stroke-width="1.5" stroke-opacity="0.32"/>
+    <circle cx="1075" cy="195" r="64" fill="#246BFE" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/brain" x="1031" y="151" width="88" height="88" fill="#518FEC" stroke-width="2"/>
+    <circle cx="1192" cy="338" r="5" fill="#246BFE" fill-opacity="0.5"/>
+    <circle cx="958" cy="92" r="4" fill="#518FEC" fill-opacity="0.6"/>
+    <circle cx="1210" cy="120" r="3" fill="#518FEC" fill-opacity="0.45"/>
+  </g>
+
+  <g id="cover-accent-bar">
+    <rect x="90" y="232" width="6" height="200" rx="3" fill="url(#accentBar)"/>
+  </g>
+
+  <g id="cover-eyebrow">
+    <text x="120" y="262" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="600" fill="#8FA3C4" letter-spacing="4">FDE 认知拉齐 · 经分会汇报</text>
+  </g>
+
+  <g id="cover-title">
+    <text x="118" y="345" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="56" font-weight="bold" fill="#FFFFFF">FDE：AI 落地的「最后一公里」</text>
+    <rect x="120" y="370" width="300" height="4" rx="2" fill="url(#titleUnderline)"/>
+  </g>
+
+  <g id="cover-subtitle">
+    <text x="120" y="425" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="26" font-weight="600" fill="#B8C7E0">值钱在人，难也在人</text>
+    <text x="120" y="465" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="400" fill="#DCE6FB">战略重视 · 节奏稳妥 · 人才优先</text>
+  </g>
+
+  <g id="cover-footer">
+    <line x1="120" y1="640" x2="320" y2="640" stroke="#518FEC" stroke-width="1" stroke-opacity="0.35"/>
+    <text x="120" y="668" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#8FA3C4">法本信息 ｜ 2026-08-12 ｜ 经分会汇报</text>
+    <text x="1200" y="668" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#8FA3C4">01 / 26</text>
+  </g>
+</svg>

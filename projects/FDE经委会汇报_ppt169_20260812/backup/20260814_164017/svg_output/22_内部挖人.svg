@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine22" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+    <marker id="arrow22" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,1 L8,5 L0,9 Z" fill="#518FEC"/>
+    </marker>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">05 · 人才与组织</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">从内部挖人：4 特质选人 + 项目制培养</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine22)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">市场上几乎招不到——行业 SA、交付、行业专家最接近，选人只看 4 项特质，不看原有岗位</text>
+  </g>
+
+  <!-- 4 特质选人卡 -->
+  <g id="trait-1">
+    <rect x="60" y="165" width="275" height="130" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="60" y="165" width="275" height="6" rx="3" fill="#0052A6"/>
+    <rect x="80" y="186" width="60" height="24" rx="12" fill="#0052A6" fill-opacity="0.10"/>
+    <text x="110" y="203" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#0052A6">特质 1</text>
+    <use data-icon="tabler-outline/briefcase" x="258" y="184" width="32" height="32" fill="#0052A6" stroke-width="2"/>
+    <text x="80" y="243" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#25364A">懂业务</text>
+    <text x="80" y="272" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">知道业务怎么运转、价值在哪</text>
+  </g>
+
+  <g id="trait-2">
+    <rect x="355" y="165" width="275" height="130" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="355" y="165" width="275" height="6" rx="3" fill="#246BFE"/>
+    <rect x="375" y="186" width="60" height="24" rx="12" fill="#246BFE" fill-opacity="0.10"/>
+    <text x="405" y="203" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#246BFE">特质 2</text>
+    <use data-icon="tabler-outline/robot" x="553" y="184" width="32" height="32" fill="#246BFE" stroke-width="2"/>
+    <text x="375" y="243" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#25364A">能动手实操</text>
+    <text x="375" y="272" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">不只出方案，能下场做出来</text>
+  </g>
+
+  <g id="trait-3">
+    <rect x="650" y="165" width="275" height="130" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="650" y="165" width="275" height="6" rx="3" fill="#518FEC"/>
+    <rect x="670" y="186" width="60" height="24" rx="12" fill="#518FEC" fill-opacity="0.12"/>
+    <text x="700" y="203" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#518FEC">特质 3</text>
+    <use data-icon="tabler-outline/brain" x="848" y="184" width="32" height="32" fill="#518FEC" stroke-width="2"/>
+    <text x="670" y="243" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#25364A">懂 AI</text>
+    <text x="670" y="272" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">知道 AI 能干什么、边界在哪</text>
+  </g>
+
+  <g id="trait-4">
+    <rect x="945" y="165" width="275" height="130" rx="12" fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5"/>
+    <rect x="945" y="165" width="275" height="6" rx="3" fill="#0E9F6E"/>
+    <rect x="965" y="186" width="60" height="24" rx="12" fill="#0E9F6E" fill-opacity="0.12"/>
+    <text x="995" y="203" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#0E9F6E">特质 4</text>
+    <use data-icon="tabler-outline/target" x="1143" y="184" width="32" height="32" fill="#0E9F6E" stroke-width="2"/>
+    <text x="965" y="243" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#25364A">对结果负责</text>
+    <text x="965" y="272" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">盯业务结果，不只交付验收</text>
+  </g>
+
+  <!-- 培养阶梯标题 -->
+  <g id="ladder-title">
+    <text x="60" y="370" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">培养是项目制，不是课堂制</text>
+    <text x="330" y="370" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#6B7785">FDE 能力不是培训出来的，是在真实项目里长出来的</text>
+  </g>
+
+  <!-- 培养阶梯 3 阶段 -->
+  <g id="ladder-arrows">
+    <line x1="400" y1="455" x2="436" y2="455" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow22)"/>
+    <line x1="780" y1="455" x2="816" y2="455" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow22)"/>
+  </g>
+
+  <g id="stage-1">
+    <rect x="60" y="385" width="340" height="140" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="60" y="385" width="340" height="6" rx="3" fill="#518FEC"/>
+    <rect x="80" y="404" width="92" height="28" rx="14" fill="#518FEC" fill-opacity="0.14"/>
+    <text x="126" y="423" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#518FEC">0–3 个月</text>
+    <text x="80" y="462" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">打基础</text>
+    <text x="80" y="492" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">工具链 · 方法论 · 跟岗实习</text>
+    <text x="80" y="514" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">建立 FDE 的基本手感</text>
+  </g>
+
+  <g id="stage-2">
+    <rect x="440" y="385" width="340" height="140" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="440" y="385" width="340" height="6" rx="3" fill="#246BFE"/>
+    <rect x="460" y="404" width="110" height="28" rx="14" fill="#246BFE" fill-opacity="0.14"/>
+    <text x="515" y="423" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#246BFE">9–18 个月</text>
+    <text x="460" y="462" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#25364A">独立交付</text>
+    <text x="460" y="492" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">独立带客户、端到端落地</text>
+    <text x="460" y="514" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">成为可上战场的 FDE</text>
+  </g>
+
+  <g id="stage-3">
+    <rect x="820" y="385" width="340" height="140" rx="12" fill="#0052A6" fill-opacity="0.05" stroke="#0052A6" stroke-width="1.5"/>
+    <rect x="820" y="385" width="340" height="6" rx="3" fill="#0052A6"/>
+    <rect x="840" y="404" width="100" height="28" rx="14" fill="#0052A6"/>
+    <text x="890" y="423" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#FFFFFF">18 个月+</text>
+    <text x="840" y="462" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#0052A6">能定义问题</text>
+    <text x="840" y="492" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A">从解决问题到定义问题</text>
+    <text x="840" y="514" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A">接近创业的能力</text>
+  </g>
+
+  <!-- 底部失血警示 -->
+  <g id="bleed-warning">
+    <rect x="60" y="545" width="1160" height="62" rx="12" fill="#F59E0B" fill-opacity="0.10"/>
+    <rect x="60" y="545" width="6" height="62" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="84" y="559" width="34" height="34" fill="#F59E0B" stroke-width="2"/>
+    <text x="132" y="575" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309">一线失血陷阱</text>
+    <text x="132" y="597" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#25364A">警惕「干得好就调回总部」——刚培养成熟就被抽走，是 FDE 团队最大的隐性损耗</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">22 / 26</text>
+  </g>
+</svg>

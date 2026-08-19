@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine9" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">02 · 机会与销毛潜力</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">不是只讲故事的赔本买卖，有真实的高毛利逻辑</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine9)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">标杆毛利 82％，国内已有真金白银验证 FDE 可独立定价</text>
+  </g>
+
+  <!-- 卡1 Palantir 毛利率 -->
+  <g id="kpi-palantir">
+    <rect x="60" y="180" width="560" height="205" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="76" y="200" width="6" height="80" rx="3" fill="#246BFE"/>
+    <text x="100" y="222" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">Palantir 毛利率</text>
+    <text x="100" y="244" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">Forward Deployed 标杆</text>
+    <rect x="500" y="200" width="100" height="28" rx="14" fill="#246BFE" fill-opacity="0.12"/>
+    <text x="550" y="219" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#246BFE">海外标杆</text>
+    <text x="100" y="320" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="66" font-weight="bold" fill="#246BFE">82<tspan font-size="30" fill="#246BFE">％</tspan></text>
+    <text x="100" y="360" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">接近纯软件公司 · 远高于咨询业 <tspan font-weight="bold" fill="#25364A">30–40％</tspan></text>
+  </g>
+
+  <!-- 卡2 Bootcamp 转化率 -->
+  <g id="kpi-bootcamp">
+    <rect x="660" y="180" width="560" height="205" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="676" y="200" width="6" height="80" rx="3" fill="#0E9F6E"/>
+    <text x="700" y="222" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">Bootcamp 5 天驻场 · 转化率</text>
+    <text x="700" y="244" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">现场培训 + 工具落地</text>
+    <rect x="1100" y="200" width="100" height="28" rx="14" fill="#0E9F6E" fill-opacity="0.12"/>
+    <text x="1150" y="219" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#0E9F6E">海外案例</text>
+    <text x="700" y="320" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="66" font-weight="bold" fill="#0E9F6E">70<tspan font-size="30" fill="#0E9F6E">％</tspan></text>
+    <text x="700" y="360" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">同时获客成本降低 <tspan font-weight="bold" fill="#25364A">40–60％</tspan></text>
+  </g>
+
+  <!-- 卡3 腾讯云 客单价 -->
+  <g id="kpi-tencent">
+    <rect x="60" y="400" width="560" height="205" rx="12" fill="#0052A6" fill-opacity="0.04" stroke="#0052A6" stroke-width="1.5"/>
+    <rect x="76" y="420" width="6" height="80" rx="3" fill="#0052A6"/>
+    <text x="100" y="442" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">腾讯云 FDE 服务 · 头部客单价</text>
+    <text x="100" y="464" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">已被验证可独立定价</text>
+    <rect x="500" y="420" width="100" height="28" rx="14" fill="#0052A6"/>
+    <text x="550" y="439" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#FFFFFF">国内验证</text>
+    <text x="100" y="535" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="54" font-weight="bold" fill="#0052A6">100–500<tspan font-size="26" fill="#0052A6"> 万元</tspan></text>
+    <text x="100" y="572" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">头部客户年合同量级 · FDE 作为服务单独定价</text>
+  </g>
+
+  <!-- 卡4 收入逻辑 -->
+  <g id="kpi-logic">
+    <rect x="660" y="400" width="560" height="205" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="676" y="420" width="6" height="80" rx="3" fill="#20A7B8"/>
+    <text x="700" y="442" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">收入逻辑 · 长期引擎</text>
+    <text x="700" y="464" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">席位费是入口，不是终局</text>
+    <rect x="1100" y="420" width="100" height="28" rx="14" fill="#20A7B8" fill-opacity="0.14"/>
+    <text x="1150" y="439" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#20A7B8">商业模式</text>
+    <circle cx="724" cy="525" r="22" fill="#20A7B8" fill-opacity="0.12"/>
+    <use data-icon="tabler-outline/refresh" x="706" y="507" width="36" height="36" fill="#20A7B8" stroke-width="2"/>
+    <text x="762" y="520" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#20A7B8">持续消耗</text>
+    <text x="762" y="550" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">客户越用越深，消耗才是长期收入引擎</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="660" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#6B7785">数据来源：公开财报与行业案例整理 · 数字为量级参考</text>
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">09 / 25</text>
+  </g>
+</svg>

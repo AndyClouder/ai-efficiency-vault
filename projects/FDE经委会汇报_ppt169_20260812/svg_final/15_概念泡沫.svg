@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine15" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">很多 FDE 是「挂羊头」</text>
+    <path fill="url(#accentLine15)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">名义上是 FDE，实质还是实施 / 部署 / 培训——这是当前最普遍的泡沫</text>
+  </g>
+
+  
+  <g id="core-warning">
+    <path fill="#0052A6" d="M72,170 H1208 A12,12 0 0 1 1220,182 V238 A12,12 0 0 1 1208,250 H72 A12,12 0 0 1 60,238 V182 A12,12 0 0 1 72,170 Z" />
+    
+  <g transform="translate(84.0, 188.0) scale(1.8333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="148" y="208" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#DCE6FB">核心判断</text>
+    <text x="148" y="236" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">国内大量岗位挂着 FDE 的名，干的还是驻场实施、系统部署、操作培训</text>
+  </g>
+
+  
+  <g id="diag-1">
+    <path fill="#F4F7FC" d="M72,265 H1208 A12,12 0 0 1 1220,277 V337 A12,12 0 0 1 1208,349 H72 A12,12 0 0 1 60,337 V277 A12,12 0 0 1 72,265 Z" />
+    <path fill="#F59E0B" d="M63,265 H63 A3,3 0 0 1 66,268 V346 A3,3 0 0 1 63,349 H63 A3,3 0 0 1 60,346 V268 A3,3 0 0 1 63,265 Z" />
+    <circle cx="110" cy="307" r="24" fill="#F59E0B" fill-opacity="0.14" />
+    
+  <g transform="translate(92.0, 289.0) scale(1.5)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+  </g>
+    <text x="156" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#25364A">岗位认知易与驻场外包混淆</text>
+    <text x="156" y="328" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">招的 title 是 FDE，实际干的是按文档实施、上线收尾</text>
+    <path fill="#F59E0B" fill-opacity="0.14" d="M1076,289 H1182 A16,16 0 0 1 1198,305 V305 A16,16 0 0 1 1182,321 H1076 A16,16 0 0 1 1060,305 V305 A16,16 0 0 1 1076,289 Z" />
+    <text x="1129" y="310" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  
+  <g id="diag-2">
+    <path fill="#F4F7FC" d="M72,359 H1208 A12,12 0 0 1 1220,371 V431 A12,12 0 0 1 1208,443 H72 A12,12 0 0 1 60,431 V371 A12,12 0 0 1 72,359 Z" />
+    <path fill="#F59E0B" d="M63,359 H63 A3,3 0 0 1 66,362 V440 A3,3 0 0 1 63,443 H63 A3,3 0 0 1 60,440 V362 A3,3 0 0 1 63,359 Z" />
+    <circle cx="110" cy="401" r="24" fill="#F59E0B" fill-opacity="0.14" />
+    
+  <g transform="translate(92.0, 383.0) scale(1.5)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="156" y="394" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#25364A">组织授权不足</text>
+    <text x="156" y="422" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">没有改模型、调流程的授权，FDE 沦为传话筒，离一线决策太远</text>
+    <path fill="#F59E0B" fill-opacity="0.14" d="M1076,383 H1182 A16,16 0 0 1 1198,399 V399 A16,16 0 0 1 1182,415 H1076 A16,16 0 0 1 1060,399 V399 A16,16 0 0 1 1076,383 Z" />
+    <text x="1129" y="404" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  
+  <g id="diag-3">
+    <path fill="#F4F7FC" d="M72,453 H1208 A12,12 0 0 1 1220,465 V525 A12,12 0 0 1 1208,537 H72 A12,12 0 0 1 60,525 V465 A12,12 0 0 1 72,453 Z" />
+    <path fill="#F59E0B" d="M63,453 H63 A3,3 0 0 1 66,456 V534 A3,3 0 0 1 63,537 H63 A3,3 0 0 1 60,534 V456 A3,3 0 0 1 63,453 Z" />
+    <circle cx="110" cy="495" r="24" fill="#F59E0B" fill-opacity="0.14" />
+    
+  <g transform="translate(92.0, 477.0) scale(1.5)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+    <text x="156" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#25364A">产品沉淀弱</text>
+    <text x="156" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">交付完即走，不留 Skill / 模板 / 本体，下一个客户又从零开始</text>
+    <path fill="#F59E0B" fill-opacity="0.14" d="M1076,477 H1182 A16,16 0 0 1 1198,493 V493 A16,16 0 0 1 1182,509 H1076 A16,16 0 0 1 1060,493 V493 A16,16 0 0 1 1076,477 Z" />
+    <text x="1129" y="498" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  
+  <g id="stance-band">
+    <path fill="#0E9F6E" fill-opacity="0.10" d="M72,552 H1208 A12,12 0 0 1 1220,564 V616 A12,12 0 0 1 1208,628 H72 A12,12 0 0 1 60,616 V564 A12,12 0 0 1 72,552 Z" />
+    <path fill="#0E9F6E" d="M63,552 H63 A3,3 0 0 1 66,555 V625 A3,3 0 0 1 63,628 H63 A3,3 0 0 1 60,625 V555 A3,3 0 0 1 63,552 Z" />
+    
+  <g transform="translate(84.0, 572.0) scale(1.5)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M9 12l2 2l4 -4" />
+  </g>
+    <text x="132" y="586" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">从业者类比「十年前的产品经理」——窗口期 5–10 年，会大浪淘沙</text>
+    <text x="132" y="614" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0E9F6E">我们的立场：做真 FDE，不做伪 FDE</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">15 / 26</text>
+  </g>
+</svg>

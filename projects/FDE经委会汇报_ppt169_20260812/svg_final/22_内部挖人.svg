@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine22" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15" />
+    </linearGradient>
+    <marker id="arrow22" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,1 L8,5 L0,9 Z" fill="#518FEC" />
+    </marker>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">05 · 人才与组织</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">从内部挖人：4 特质选人 + 项目制培养</text>
+    <path fill="url(#accentLine22)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">市场上几乎招不到——行业 SA、交付、行业专家最接近，选人只看 4 项特质，不看原有岗位</text>
+  </g>
+
+  
+  <g id="trait-1">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M72,165 H323 A12,12 0 0 1 335,177 V283 A12,12 0 0 1 323,295 H72 A12,12 0 0 1 60,283 V177 A12,12 0 0 1 72,165 Z" />
+    <path fill="#0052A6" d="M63,165 H332 A3,3 0 0 1 335,168 V168 A3,3 0 0 1 332,171 H63 A3,3 0 0 1 60,168 V168 A3,3 0 0 1 63,165 Z" />
+    <path fill="#0052A6" fill-opacity="0.10" d="M92,186 H128 A12,12 0 0 1 140,198 V198 A12,12 0 0 1 128,210 H92 A12,12 0 0 1 80,198 V198 A12,12 0 0 1 92,186 Z" />
+    <text x="110" y="203" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0052A6">特质 1</text>
+    
+  <g transform="translate(258.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="80" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#25364A">懂业务</text>
+    <text x="80" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">知道业务怎么运转、价值在哪</text>
+  </g>
+
+  <g id="trait-2">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M367,165 H618 A12,12 0 0 1 630,177 V283 A12,12 0 0 1 618,295 H367 A12,12 0 0 1 355,283 V177 A12,12 0 0 1 367,165 Z" />
+    <path fill="#246BFE" d="M358,165 H627 A3,3 0 0 1 630,168 V168 A3,3 0 0 1 627,171 H358 A3,3 0 0 1 355,168 V168 A3,3 0 0 1 358,165 Z" />
+    <path fill="#246BFE" fill-opacity="0.10" d="M387,186 H423 A12,12 0 0 1 435,198 V198 A12,12 0 0 1 423,210 H387 A12,12 0 0 1 375,198 V198 A12,12 0 0 1 387,186 Z" />
+    <text x="405" y="203" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE">特质 2</text>
+    
+  <g transform="translate(553.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+    <path d="M12 2v2" />
+    <path d="M9 12v9" />
+    <path d="M15 12v9" />
+    <path d="M5 16l4 -2" />
+    <path d="M15 14l4 2" />
+    <path d="M9 18h6" />
+    <path d="M10 8v.01" />
+    <path d="M14 8v.01" />
+  </g>
+    <text x="375" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#25364A">能动手实操</text>
+    <text x="375" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">不只出方案，能下场做出来</text>
+  </g>
+
+  <g id="trait-3">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M662,165 H913 A12,12 0 0 1 925,177 V283 A12,12 0 0 1 913,295 H662 A12,12 0 0 1 650,283 V177 A12,12 0 0 1 662,165 Z" />
+    <path fill="#518FEC" d="M653,165 H922 A3,3 0 0 1 925,168 V168 A3,3 0 0 1 922,171 H653 A3,3 0 0 1 650,168 V168 A3,3 0 0 1 653,165 Z" />
+    <path fill="#518FEC" fill-opacity="0.12" d="M682,186 H718 A12,12 0 0 1 730,198 V198 A12,12 0 0 1 718,210 H682 A12,12 0 0 1 670,198 V198 A12,12 0 0 1 682,186 Z" />
+    <text x="700" y="203" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC">特质 3</text>
+    
+  <g transform="translate(848.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M15.5 13a3.5 3.5 0 0 0 -3.5 3.5v1a3.5 3.5 0 0 0 7 0v-1.8" />
+    <path d="M8.5 13a3.5 3.5 0 0 1 3.5 3.5v1a3.5 3.5 0 0 1 -7 0v-1.8" />
+    <path d="M17.5 16a3.5 3.5 0 0 0 0 -7h-.5" />
+    <path d="M19 9.3v-2.8a3.5 3.5 0 0 0 -7 0" />
+    <path d="M6.5 16a3.5 3.5 0 0 1 0 -7h.5" />
+    <path d="M5 9.3v-2.8a3.5 3.5 0 0 1 7 0v10" />
+  </g>
+    <text x="670" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#25364A">懂 AI</text>
+    <text x="670" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">知道 AI 能干什么、边界在哪</text>
+  </g>
+
+  <g id="trait-4">
+    <path fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5" d="M957,165 H1208 A12,12 0 0 1 1220,177 V283 A12,12 0 0 1 1208,295 H957 A12,12 0 0 1 945,283 V177 A12,12 0 0 1 957,165 Z" />
+    <path fill="#0E9F6E" d="M948,165 H1217 A3,3 0 0 1 1220,168 V168 A3,3 0 0 1 1217,171 H948 A3,3 0 0 1 945,168 V168 A3,3 0 0 1 948,165 Z" />
+    <path fill="#0E9F6E" fill-opacity="0.12" d="M977,186 H1013 A12,12 0 0 1 1025,198 V198 A12,12 0 0 1 1013,210 H977 A12,12 0 0 1 965,198 V198 A12,12 0 0 1 977,186 Z" />
+    <text x="995" y="203" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0E9F6E">特质 4</text>
+    
+  <g transform="translate(1143.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  </g>
+    <text x="965" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#25364A">对结果负责</text>
+    <text x="965" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">盯业务结果，不只交付验收</text>
+  </g>
+
+  
+  <g id="ladder-title">
+    <text x="60" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#25364A">培养是项目制，不是课堂制</text>
+    <text x="330" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#6B7785">FDE 能力不是培训出来的，是在真实项目里长出来的</text>
+  </g>
+
+  
+  <g id="ladder-arrows">
+    <line x1="400" y1="455" x2="436" y2="455" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow22)" />
+    <line x1="780" y1="455" x2="816" y2="455" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow22)" />
+  </g>
+
+  <g id="stage-1">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M72,385 H388 A12,12 0 0 1 400,397 V513 A12,12 0 0 1 388,525 H72 A12,12 0 0 1 60,513 V397 A12,12 0 0 1 72,385 Z" />
+    <path fill="#518FEC" d="M63,385 H397 A3,3 0 0 1 400,388 V388 A3,3 0 0 1 397,391 H63 A3,3 0 0 1 60,388 V388 A3,3 0 0 1 63,385 Z" />
+    <path fill="#518FEC" fill-opacity="0.14" d="M94,404 H158 A14,14 0 0 1 172,418 V418 A14,14 0 0 1 158,432 H94 A14,14 0 0 1 80,418 V418 A14,14 0 0 1 94,404 Z" />
+    <text x="126" y="423" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC">0–3 个月</text>
+    <text x="80" y="462" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">打基础</text>
+    <text x="80" y="492" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">工具链 · 方法论 · 跟岗实习</text>
+    <text x="80" y="514" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">建立 FDE 的基本手感</text>
+  </g>
+
+  <g id="stage-2">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M452,385 H768 A12,12 0 0 1 780,397 V513 A12,12 0 0 1 768,525 H452 A12,12 0 0 1 440,513 V397 A12,12 0 0 1 452,385 Z" />
+    <path fill="#246BFE" d="M443,385 H777 A3,3 0 0 1 780,388 V388 A3,3 0 0 1 777,391 H443 A3,3 0 0 1 440,388 V388 A3,3 0 0 1 443,385 Z" />
+    <path fill="#246BFE" fill-opacity="0.14" d="M474,404 H556 A14,14 0 0 1 570,418 V418 A14,14 0 0 1 556,432 H474 A14,14 0 0 1 460,418 V418 A14,14 0 0 1 474,404 Z" />
+    <text x="515" y="423" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#246BFE">9–18 个月</text>
+    <text x="460" y="462" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">独立交付</text>
+    <text x="460" y="492" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">独立带客户、端到端落地</text>
+    <text x="460" y="514" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">成为可上战场的 FDE</text>
+  </g>
+
+  <g id="stage-3">
+    <path fill="#0052A6" fill-opacity="0.05" stroke="#0052A6" stroke-width="1.5" d="M832,385 H1148 A12,12 0 0 1 1160,397 V513 A12,12 0 0 1 1148,525 H832 A12,12 0 0 1 820,513 V397 A12,12 0 0 1 832,385 Z" />
+    <path fill="#0052A6" d="M823,385 H1157 A3,3 0 0 1 1160,388 V388 A3,3 0 0 1 1157,391 H823 A3,3 0 0 1 820,388 V388 A3,3 0 0 1 823,385 Z" />
+    <path fill="#0052A6" d="M854,404 H926 A14,14 0 0 1 940,418 V418 A14,14 0 0 1 926,432 H854 A14,14 0 0 1 840,418 V418 A14,14 0 0 1 854,404 Z" />
+    <text x="890" y="423" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">18 个月+</text>
+    <text x="840" y="462" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0052A6">能定义问题</text>
+    <text x="840" y="492" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">从解决问题到定义问题</text>
+    <text x="840" y="514" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">接近创业的能力</text>
+  </g>
+
+  
+  <g id="bleed-warning">
+    <path fill="#F59E0B" fill-opacity="0.10" d="M72,545 H1208 A12,12 0 0 1 1220,557 V595 A12,12 0 0 1 1208,607 H72 A12,12 0 0 1 60,595 V557 A12,12 0 0 1 72,545 Z" />
+    <path fill="#F59E0B" d="M63,545 H63 A3,3 0 0 1 66,548 V604 A3,3 0 0 1 63,607 H63 A3,3 0 0 1 60,604 V548 A3,3 0 0 1 63,545 Z" />
+    
+  <g transform="translate(84.0, 559.0) scale(1.4166666666666667)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="132" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B45309">一线失血陷阱</text>
+    <text x="132" y="597" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#25364A">警惕「干得好就调回总部」——刚培养成熟就被抽走，是 FDE 团队最大的隐性损耗</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">22 / 26</text>
+  </g>
+</svg>

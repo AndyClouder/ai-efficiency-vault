@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine12" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">FDE 是真机会，但三条约束决定了「能做、不能急」</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine12)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">这三条是市场的客观规律，不是保守——风险不在做不成，在用错节奏</text>
+  </g>
+
+  <!-- 风险卡① 新兴行业 -->
+  <g id="risk-1">
+    <rect x="60" y="175" width="360" height="380" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.45"/>
+    <path d="M 72 175 h 336 a 12 12 0 0 1 12 12 v 88 h -360 v -88 a 12 12 0 0 1 12 -12 Z" fill="#F59E0B" fill-opacity="0.10"/>
+    <circle cx="240" cy="215" r="30" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/alert-triangle" x="216" y="191" width="48" height="48" fill="#F59E0B" stroke-width="2"/>
+    <text x="240" y="262" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309" letter-spacing="2">风险 ①</text>
+    <text x="240" y="312" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="22" font-weight="bold" fill="#25364A">新兴行业无规范</text>
+    <line x1="92" y1="338" x2="388" y2="338" stroke="#FBD9A0" stroke-width="1.5"/>
+    <text x="92" y="378" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 业务流程无行业标准</text>
+    <text x="92" y="412" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 商业化路径尚不成熟</text>
+    <text x="92" y="446" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 成功案例可复制性待验证</text>
+    <rect x="92" y="478" width="296" height="52" rx="8" fill="#F59E0B" fill-opacity="0.08"/>
+    <text x="240" y="510" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#B45309">没有现成作业可抄</text>
+  </g>
+
+  <!-- 风险卡② 人才 -->
+  <g id="risk-2">
+    <rect x="460" y="175" width="360" height="380" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.45"/>
+    <path d="M 472 175 h 336 a 12 12 0 0 1 12 12 v 88 h -360 v -88 a 12 12 0 0 1 12 -12 Z" fill="#F59E0B" fill-opacity="0.10"/>
+    <circle cx="640" cy="215" r="30" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/users" x="616" y="191" width="48" height="48" fill="#F59E0B" stroke-width="2"/>
+    <text x="640" y="262" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309" letter-spacing="2">风险 ②</text>
+    <text x="640" y="312" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="22" font-weight="bold" fill="#25364A">人才苛刻到招不到</text>
+    <line x1="492" y1="338" x2="788" y2="338" stroke="#FBD9A0" stroke-width="1.5"/>
+    <text x="492" y="378" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 复合人才极度稀缺，几乎招不到</text>
+    <text x="492" y="412" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 内部转型需「意愿 + 培训 + 工具」</text>
+    <text x="492" y="446" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 培养周期长达 9–18 个月</text>
+    <rect x="492" y="478" width="296" height="52" rx="8" fill="#F59E0B" fill-opacity="0.08"/>
+    <text x="640" y="510" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#B45309">瓶颈在人，且是长周期</text>
+  </g>
+
+  <!-- 风险卡③ 客户门槛 -->
+  <g id="risk-3">
+    <rect x="860" y="175" width="360" height="380" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.45"/>
+    <path d="M 872 175 h 336 a 12 12 0 0 1 12 12 v 88 h -360 v -88 a 12 12 0 0 1 12 -12 Z" fill="#F59E0B" fill-opacity="0.10"/>
+    <circle cx="1040" cy="215" r="30" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/building-factory" x="1016" y="191" width="48" height="48" fill="#F59E0B" stroke-width="2"/>
+    <text x="1040" y="262" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309" letter-spacing="2">风险 ③</text>
+    <text x="1040" y="312" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="22" font-weight="bold" fill="#25364A">客户门槛高</text>
+    <line x1="892" y1="338" x2="1188" y2="338" stroke="#FBD9A0" stroke-width="1.5"/>
+    <text x="892" y="378" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 需客户 IT 成熟度 + AI 接受度</text>
+    <text x="892" y="412" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 需客户侧配备 FDE 协同</text>
+    <text x="892" y="446" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78"><tspan fill="#F59E0B" font-weight="bold">·</tspan> 行业壁垒明显，非普适</text>
+    <rect x="892" y="478" width="296" height="52" rx="8" fill="#F59E0B" fill-opacity="0.08"/>
+    <text x="1040" y="510" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#B45309">双边市场，难以快速起量</text>
+  </g>
+
+  <!-- 逻辑链条收口：把顾虑翻译为事实推导，让结论自己浮现 -->
+  <g id="logic-chain">
+    <rect x="60" y="575" width="1160" height="66" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="575" width="6" height="66" rx="3" fill="#0052A6"/>
+    <text x="84" y="616" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#0052A6">逻辑链条</text>
+    <rect x="180" y="591" width="120" height="34" rx="17" fill="#0E9F6E" fill-opacity="0.14"/>
+    <text x="240" y="613" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#0E9F6E">真机会</text>
+    <text x="316" y="615" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="22" fill="#6B7785">→</text>
+    <rect x="344" y="591" width="232" height="34" rx="17" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="460" y="613" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#B45309">三条结构性约束（客观规律）</text>
+    <text x="592" y="615" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="22" fill="#6B7785">→</text>
+    <rect x="620" y="589" width="304" height="38" rx="19" fill="#0052A6"/>
+    <text x="772" y="614" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#FFFFFF">战略重视 · 节奏稳妥</text>
+    <text x="944" y="614" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">潜力真实，约束也真实</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">12 / 25</text>
+  </g>
+</svg>

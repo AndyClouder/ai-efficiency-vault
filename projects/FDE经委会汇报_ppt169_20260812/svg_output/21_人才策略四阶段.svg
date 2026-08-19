@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine21s" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">05 · 人才与组织</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">人才策略跟着阶段走：先想能力，不想岗位</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine21s)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">第一步不是「要不要招 FDE」，而是「谁对 AI 落地结果负责」——需要的是一套能力，不是一个岗位名称</text>
+  </g>
+
+  <!-- 四阶段 chevron 箭头链 -->
+  <g id="chevron-stages">
+    <polygon points="60,180 320,180 350,225 320,270 60,270" fill="#0052A6"/>
+    <text x="195" y="216" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">① 先借能力</text>
+    <text x="195" y="244" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#FFFFFF" fill-opacity="0.85">探索期</text>
+
+    <polygon points="350,180 610,180 640,225 610,270 350,270 380,225" fill="#246BFE"/>
+    <text x="485" y="216" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">② 内部孵化</text>
+    <text x="485" y="244" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#FFFFFF" fill-opacity="0.85">已有成功项目</text>
+
+    <polygon points="640,180 900,180 930,225 900,270 640,270 670,225" fill="#518FEC"/>
+    <text x="775" y="216" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">③ 正式招聘</text>
+    <text x="775" y="244" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#FFFFFF" fill-opacity="0.85">多项目推进</text>
+
+    <polygon points="930,180 1180,180 1180,270 930,270 960,225" fill="#0E9F6E"/>
+    <text x="1055" y="216" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">④ 内外协同</text>
+    <text x="1055" y="244" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="12" fill="#FFFFFF" fill-opacity="0.85">复杂大型企业</text>
+  </g>
+
+  <!-- 卡1 先借能力 -->
+  <g id="stage-1">
+    <rect x="60" y="300" width="275" height="215" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="60" y="300" width="275" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="98" cy="340" r="19" fill="#0052A6" fill-opacity="0.12"/>
+    <use data-icon="tabler-outline/route" x="83" y="325" width="30" height="30" fill="#0052A6" stroke-width="2"/>
+    <text x="128" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">先借能力</text>
+    <line x1="80" y1="370" x2="315" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="80" y="400" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 刚开始探索、场景少</text>
+    <text x="80" y="428" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 外部 FDE + 内部负责人</text>
+    <text x="80" y="456" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 不急着建团队</text>
+    <rect x="80" y="472" width="235" height="28" rx="14" fill="#0052A6" fill-opacity="0.08"/>
+    <text x="197" y="491" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="600" fill="#0052A6">目标：跑通第一个项目</text>
+  </g>
+
+  <!-- 卡2 内部孵化 -->
+  <g id="stage-2">
+    <rect x="355" y="300" width="275" height="215" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="355" y="300" width="275" height="6" rx="3" fill="#246BFE"/>
+    <circle cx="393" cy="340" r="19" fill="#246BFE" fill-opacity="0.12"/>
+    <use data-icon="tabler-outline/users" x="378" y="325" width="30" height="30" fill="#246BFE" stroke-width="2"/>
+    <text x="423" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">内部孵化</text>
+    <line x1="375" y1="370" x2="610" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="375" y="400" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 首个项目跑通之后</text>
+    <text x="375" y="428" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 内部筛选苗子、不扩张</text>
+    <text x="375" y="456" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 选人不看原有岗位</text>
+    <rect x="375" y="472" width="235" height="28" rx="14" fill="#246BFE" fill-opacity="0.10"/>
+    <text x="492" y="491" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="600" fill="#246BFE">目标：把经验沉淀成人</text>
+  </g>
+
+  <!-- 卡3 正式招聘 -->
+  <g id="stage-3">
+    <rect x="650" y="300" width="275" height="215" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="650" y="300" width="275" height="6" rx="3" fill="#518FEC"/>
+    <circle cx="688" cy="340" r="19" fill="#518FEC" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/briefcase" x="673" y="325" width="30" height="30" fill="#518FEC" stroke-width="2"/>
+    <text x="718" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">正式招聘</text>
+    <line x1="670" y1="370" x2="905" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="670" y="400" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#518FEC" font-weight="bold">·</tspan> 多项目并行、需求爆发</text>
+    <text x="670" y="428" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#518FEC" font-weight="bold">·</tspan> 招专职 + 建团队</text>
+    <text x="670" y="456" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#518FEC" font-weight="bold">·</tspan> AI 进入关键业务流程</text>
+    <rect x="670" y="472" width="235" height="28" rx="14" fill="#518FEC" fill-opacity="0.12"/>
+    <text x="787" y="491" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="600" fill="#518FEC">从项目能力到组织能力</text>
+  </g>
+
+  <!-- 卡4 内外协同 -->
+  <g id="stage-4">
+    <rect x="945" y="300" width="275" height="215" rx="12" fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5"/>
+    <rect x="945" y="300" width="275" height="6" rx="3" fill="#0E9F6E"/>
+    <circle cx="983" cy="340" r="19" fill="#0E9F6E" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/network" x="968" y="325" width="30" height="30" fill="#0E9F6E" stroke-width="2"/>
+    <text x="1013" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">内外协同</text>
+    <line x1="965" y1="370" x2="1200" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="965" y="400" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 复杂大型企业</text>
+    <text x="965" y="428" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 内部团队 + 外部伙伴</text>
+    <text x="965" y="456" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 权限与系统复杂度高</text>
+    <rect x="965" y="472" width="235" height="28" rx="14" fill="#0E9F6E"/>
+    <text x="1082" y="491" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#FFFFFF">规模 × 专业 × 变革速度</text>
+  </g>
+
+  <!-- 底部双视角带 -->
+  <g id="dual-view">
+    <rect x="60" y="545" width="570" height="78" rx="12" fill="#0052A6" fill-opacity="0.05" stroke="#0052A6" stroke-width="1" stroke-opacity="0.35"/>
+    <use data-icon="tabler-outline/target" x="84" y="567" width="34" height="34" fill="#0052A6" stroke-width="2"/>
+    <text x="132" y="578" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#0052A6">客户视角 · 我们的市场窗口</text>
+    <text x="132" y="602" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#25364A">客户正处在阶段 1–2「先借能力」——正是外部 FDE 的切入机会</text>
+
+    <rect x="650" y="545" width="570" height="78" rx="12" fill="#246BFE" fill-opacity="0.05" stroke="#246BFE" stroke-width="1" stroke-opacity="0.35"/>
+    <use data-icon="tabler-outline/user" x="674" y="567" width="34" height="34" fill="#246BFE" stroke-width="2"/>
+    <text x="722" y="578" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#246BFE">自身视角 · 我们的人才策略</text>
+    <text x="722" y="602" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#25364A">人招不到，就更不能从招聘入手——先借力验证、再内部转型</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">21 / 26</text>
+  </g>
+</svg>

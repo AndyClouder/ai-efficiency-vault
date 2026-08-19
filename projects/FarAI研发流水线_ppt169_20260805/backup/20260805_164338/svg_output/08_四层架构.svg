@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">四层架构 —— 从底座到治理的人智协同平台</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 以智能系统为中枢,让研发组织的人、智能体、资产、数据和治理协同运转</text>
+  </g>
+
+  <g id="layer-4">
+    <rect x="80" y="156" width="1000" height="100" rx="14" fill="#0052A6"/>
+    <rect x="80" y="156" width="8" height="100" rx="4" fill="#DCE6FB"/>
+    <use data-icon="tabler-outline/shield" x="108" y="180" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="192" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">④ 治理与度量层</text>
+    <text x="156" y="220" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">风险分级 · Human-in-Loop · AI FinOps · 效能度量</text>
+    <text x="156" y="242" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度</text>
+  </g>
+
+  <g id="layer-3">
+    <rect x="80" y="270" width="1000" height="100" rx="14" fill="#246BFE"/>
+    <rect x="80" y="270" width="8" height="100" rx="4" fill="#DCE6FB"/>
+    <use data-icon="tabler-outline/users" x="108" y="294" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="306" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">③ 人智协同平台 (Delivery Workbench)</text>
+    <text x="156" y="334" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">桌面智能体 · 云端智能体 · 任务/权限/审计 · Skill 治理</text>
+    <text x="156" y="356" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">连接人、任务、代码、智能体</text>
+  </g>
+
+  <g id="layer-2">
+    <rect x="80" y="384" width="1000" height="100" rx="14" fill="#518FEC"/>
+    <rect x="80" y="384" width="8" height="100" rx="4" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/settings" x="108" y="408" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="420" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">② Harness 驾驭框架(工程底座)</text>
+    <text x="156" y="448" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">CLI 化 · fullcheck · CLI E2E · hooks · traceId · Agent OS</text>
+    <text x="156" y="470" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可控的前提</text>
+  </g>
+
+  <g id="layer-1">
+    <rect x="80" y="498" width="1000" height="100" rx="14" fill="#0A2A5E"/>
+    <rect x="80" y="498" width="8" height="100" rx="4" fill="#246BFE"/>
+    <use data-icon="tabler-outline/database" x="108" y="522" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="534" font-size="14" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">① 知识与本体底座</text>
+    <text x="156" y="562" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">本体网络 · 语义连接 · Agent 记忆 · 经验进化</text>
+    <text x="156" y="584" font-size="13" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">让知识可被人和 Agent 共同理解</text>
+  </g>
+
+  <g id="side-note">
+    <rect x="1100" y="156" width="100" height="442" rx="14" fill="#F4F7FC"/>
+    <text x="1150" y="220" font-size="13" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">向上</text>
+    <text x="1150" y="240" font-size="11" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">承载场景</text>
+    <line x1="1140" y1="370" x2="1160" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1150" y="500" font-size="13" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">向下</text>
+    <text x="1150" y="520" font-size="11" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">沉淀能力</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第二章 · 产品全景</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">08 / 27</text>
+  </g>
+</svg>

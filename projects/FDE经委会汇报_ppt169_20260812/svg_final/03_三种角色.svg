@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">01 · FDE 到底是什么</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">咨询、外包、FDE，解决的是不同层面的问题</text>
+    <path fill="url(#accentLine3)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">同一案例（银行信贷自动化）下，三种角色的做法与留下东西完全不同</text>
+  </g>
+
+  
+  <g id="card-consulting">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M82,185 H418 A12,12 0 0 1 430,197 V603 A12,12 0 0 1 418,615 H82 A12,12 0 0 1 70,603 V197 A12,12 0 0 1 82,185 Z" />
+    <path fill="#20A7B8" d="M97,205 H147 A3,3 0 0 1 150,208 V208 A3,3 0 0 1 147,211 H97 A3,3 0 0 1 94,208 V208 A3,3 0 0 1 97,205 Z" />
+    
+  <g transform="translate(362.0, 200.0) scale(1.8333333333333333)" fill="none" stroke="#20A7B8" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="94" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#25364A">咨询顾问</text>
+    <line x1="94" y1="292" x2="406" y2="292" stroke="#E3E9F2" stroke-width="1" />
+    <text x="94" y="330" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">驻场两周，产出 80 页诊断 PPT</text>
+    <text x="94" y="362" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">画出转型路线图与优先级</text>
+    <text x="94" y="394" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">交付报告后撤出，不碰系统</text>
+    <path fill="#20A7B8" fill-opacity="0.08" d="M102,528 H398 A8,8 0 0 1 406,536 V582 A8,8 0 0 1 398,590 H102 A8,8 0 0 1 94,582 V536 A8,8 0 0 1 102,528 Z" />
+    <text x="110" y="556" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#20A7B8" font-weight="600">本质</text>
+    <text x="110" y="578" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#25364A">买的是建议，不是结果</text>
+  </g>
+
+  
+  <g id="card-outsourcing">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M472,185 H808 A12,12 0 0 1 820,197 V603 A12,12 0 0 1 808,615 H472 A12,12 0 0 1 460,603 V197 A12,12 0 0 1 472,185 Z" />
+    <path fill="#6B7785" d="M487,205 H537 A3,3 0 0 1 540,208 V208 A3,3 0 0 1 537,211 H487 A3,3 0 0 1 484,208 V208 A3,3 0 0 1 487,205 Z" />
+    
+  <g transform="translate(752.0, 200.0) scale(1.8333333333333333)" fill="none" stroke="#6B7785" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="484" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#25364A">外包工程师</text>
+    <line x1="484" y1="292" x2="796" y2="292" stroke="#E3E9F2" stroke-width="1" />
+    <text x="484" y="330" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">等待需求文档到位</text>
+    <text x="484" y="362" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">按文档编码、上线、收尾款</text>
+    <text x="484" y="394" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#5E6A78">交付一套系统后撤场</text>
+    <path fill="#6B7785" fill-opacity="0.08" d="M492,528 H788 A8,8 0 0 1 796,536 V582 A8,8 0 0 1 788,590 H492 A8,8 0 0 1 484,582 V536 A8,8 0 0 1 492,528 Z" />
+    <text x="500" y="556" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785" font-weight="600">本质</text>
+    <text x="500" y="578" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#25364A">买的是工时，不是能力</text>
+  </g>
+
+  
+  <g id="card-fde">
+    <path fill="#0052A6" fill-opacity="0.04" stroke="#0052A6" stroke-width="1.5" d="M862,185 H1198 A12,12 0 0 1 1210,197 V603 A12,12 0 0 1 1198,615 H862 A12,12 0 0 1 850,603 V197 A12,12 0 0 1 862,185 Z" />
+    <path fill="#0052A6" d="M878,205 H934 A4,4 0 0 1 938,209 V209 A4,4 0 0 1 934,213 H878 A4,4 0 0 1 874,209 V209 A4,4 0 0 1 878,205 Z" />
+    
+  <g transform="translate(1142.0, 200.0) scale(1.8333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  </g>
+    <path fill="#0052A6" d="M1077,206 H1163 A15,15 0 0 1 1178,221 V221 A15,15 0 0 1 1163,236 H1077 A15,15 0 0 1 1062,221 V221 A15,15 0 0 1 1077,206 Z" />
+    <text x="1120" y="226" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">我们的方向</text>
+    <text x="874" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#0052A6">FDE 现场工程师</text>
+    <line x1="874" y1="292" x2="1186" y2="292" stroke="#B8C7E0" stroke-width="1" />
+    <text x="874" y="330" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#25364A">坐到风控经理旁边</text>
+    <text x="874" y="362" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#25364A">第一周就动手改模型</text>
+    <text x="874" y="394" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#25364A">把一线问题回流给产品团队</text>
+    <path fill="#0052A6" d="M882,528 H1178 A8,8 0 0 1 1186,536 V582 A8,8 0 0 1 1178,590 H882 A8,8 0 0 1 874,582 V536 A8,8 0 0 1 882,528 Z" />
+    <text x="890" y="556" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB" font-weight="600">本质</text>
+    <text x="890" y="578" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">买的是结果，还留下资产</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="690" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">案例：银行信贷自动化 · 三种角色对同一问题的不同介入层面</text>
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">03 / 26</text>
+  </g>
+</svg>

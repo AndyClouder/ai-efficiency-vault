@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chBg19" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E"/>
+      <stop offset="100%" stop-color="#17365D"/>
+    </linearGradient>
+    <radialGradient id="chDecor19" cx="78%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="url(#chBg19)"/>
+    <rect width="1280" height="720" fill="url(#chDecor19)"/>
+  </g>
+
+  <g id="bg-grid">
+    <circle cx="1050" cy="150" r="5" fill="#518FEC" fill-opacity="0.25"/>
+    <circle cx="1110" cy="210" r="3" fill="#246BFE" fill-opacity="0.3"/>
+    <circle cx="990" cy="230" r="2.5" fill="#518FEC" fill-opacity="0.2"/>
+    <circle cx="200" cy="560" r="4" fill="#518FEC" fill-opacity="0.18"/>
+  </g>
+
+  <g id="chapter-number">
+    <text x="90" y="380" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="220" font-weight="bold" fill="#246BFE" fill-opacity="0.22">04</text>
+  </g>
+
+  <g id="chapter-title">
+    <rect x="90" y="290" width="72" height="6" rx="3" fill="#518FEC"/>
+    <text x="90" y="345" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#518FEC" letter-spacing="3">CHAPTER 04</text>
+    <text x="90" y="415" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF">价值、实施与保障</text>
+    <text x="90" y="465" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#B8C7E0">商业价值矩阵 · 落地路径 · 法本保障</text>
+  </g>
+
+  <g id="chapter-footer">
+    <line x1="90" y1="620" x2="180" y2="620" stroke="#518FEC" stroke-width="2"/>
+    <text x="90" y="655" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">FarAI × Colliers · 商业地产 AI 智能化解决方案</text>
+  </g>
+</svg>

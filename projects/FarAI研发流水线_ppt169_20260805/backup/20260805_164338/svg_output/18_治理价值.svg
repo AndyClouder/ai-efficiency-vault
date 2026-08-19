@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="118" cy="92" r="14" fill="#0A2A5E"/>
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S4</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度,让速度质量责任价值同时可控</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">风险分级决定自主度,效能度量决定投入产出</text>
+  </g>
+
+  <g id="capability-block">
+    <rect x="80" y="160" width="640" height="460" rx="16" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/shield" x="108" y="184" width="32" height="32" fill="#0052A6"/>
+    <text x="150" y="208" font-size="20" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 能力</text>
+    <line x1="108" y1="232" x2="692" y2="232" stroke="#E3E9F2" stroke-width="1"/>
+
+    <g id="cap-1">
+      <circle cx="124" cy="280" r="14" fill="#0052A6"/>
+      <text x="124" y="286" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">1</text>
+      <use data-icon="tabler-outline/route" x="148" y="264" width="26" height="26" fill="#246BFE"/>
+      <text x="182" y="284" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">风险分级行权</text>
+      <text x="182" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">低风险 Agent 自主 · 中风险确认 · 高风险(资金/权限/隐私)人工把关</text>
+    </g>
+
+    <g id="cap-2">
+      <circle cx="124" cy="360" r="14" fill="#0052A6"/>
+      <text x="124" y="366" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">2</text>
+      <use data-icon="tabler-outline/cash" x="148" y="344" width="26" height="26" fill="#246BFE"/>
+      <text x="182" y="364" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">AI FinOps</text>
+      <text x="182" y="388" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Token/Agent 执行成本/成功率/返工率/缺陷率全量度量</text>
+    </g>
+
+    <g id="cap-3">
+      <circle cx="124" cy="440" r="14" fill="#0052A6"/>
+      <text x="124" y="446" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">3</text>
+      <use data-icon="tabler-outline/chart-bar" x="148" y="424" width="26" height="26" fill="#246BFE"/>
+      <text x="182" y="444" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">效能度量</text>
+      <text x="182" y="468" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">交付周期/吞吐/测试覆盖/上线后价值,工具使用量 → 真实影响</text>
+    </g>
+
+    <g id="cap-4">
+      <circle cx="124" cy="520" r="14" fill="#0052A6"/>
+      <text x="124" y="526" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">4</text>
+      <use data-icon="tabler-outline/eye" x="148" y="504" width="26" height="26" fill="#246BFE"/>
+      <text x="182" y="524" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">能力差异洞察</text>
+      <text x="182" y="548" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">同样工具不同用法,定位培训/Skill 复用/团队建设重点</text>
+    </g>
+  </g>
+
+  <g id="value-block">
+    <rect x="740" y="160" width="460" height="460" rx="16" fill="#0A2A5E"/>
+    <use data-icon="tabler-outline/trending-up" x="768" y="184" width="32" height="32" fill="#FFFFFF"/>
+    <text x="810" y="208" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">价值</text>
+    <line x1="768" y1="232" x2="1172" y2="232" stroke="#246BFE" stroke-width="1" stroke-opacity="0.4"/>
+
+    <g id="val-1">
+      <use data-icon="tabler-outline/circle-check" x="768" y="270" width="32" height="32" fill="#518FEC"/>
+      <text x="812" y="294" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">AI 投入产出可度量</text>
+      <text x="768" y="326" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">从"用了多少"到"带来什么"(预估)</text>
+    </g>
+
+    <line x1="768" y1="350" x2="1172" y2="350" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15"/>
+
+    <g id="val-2">
+      <text x="768" y="420" font-size="40" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">↓30-50%</text>
+      <text x="768" y="452" font-size="16" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">高风险变更漏审风险</text>
+      <text x="768" y="474" font-size="12" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">(预估)</text>
+    </g>
+
+    <line x1="768" y1="500" x2="1172" y2="500" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15"/>
+
+    <g id="val-3">
+      <use data-icon="tabler-outline/coin" x="768" y="528" width="30" height="30" fill="#518FEC"/>
+      <text x="808" y="552" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">Token ROI 可视化</text>
+      <text x="768" y="584" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">成本-收益持续追踪(预估)</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第三章 · S4 智能治理与 FinOps</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">18 / 27</text>
+  </g>
+</svg>

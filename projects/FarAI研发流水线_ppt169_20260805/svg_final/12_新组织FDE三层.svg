@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowFlowDown" markerWidth="10" markerHeight="10" refX="5" refY="9" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L5,9 L10,0 Z" fill="#246BFE" />
+    </marker>
+    <marker id="arrowFlowUp" markerWidth="10" markerHeight="10" refX="5" refY="1" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,10 L5,1 L10,10 Z" fill="#0E9F6E" />
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">新组织 —— FDE 团队、产品团队、平台团队三层协同</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">三层不是上下级审批关系,而是基于资产和智能体协同的能力流动关系</text>
+  </g>
+
+  <g id="layer-fde">
+    <path fill="#0052A6" d="M94,160 H1066 A14,14 0 0 1 1080,174 V274 A14,14 0 0 1 1066,288 H94 A14,14 0 0 1 80,274 V174 A14,14 0 0 1 94,160 Z" />
+    <path fill="#DCE6FB" d="M83,160 H83 A3,3 0 0 1 86,163 V285 A3,3 0 0 1 83,288 H83 A3,3 0 0 1 80,285 V163 A3,3 0 0 1 83,160 Z" />
+    
+  <g transform="translate(108.0, 182.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M13 3l0 7l6 0l-8 11l0 -7l-6 0l8 -11" />
+  </g>
+    <text x="156" y="194" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第一层 · 前置到业务</text>
+    <text x="156" y="226" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">FDE 团队(快速交付探索)</text>
+    <text x="156" y="256" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">3-5 人小队,前置到业务场景,围绕需求澄清 · 快速原型 · 契约驱动开发 · 交付验收 · 价值反馈形成闭环</text>
+    <text x="156" y="278" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">含 Product/Application/Agent Builder,临时引入 Test/Platform 支持 · 多个小队组成 FDE 领域团队</text>
+
+    <g id="fde-tag">
+      <path fill="#FFFFFF" fill-opacity="0.15" d="M916,184 H1044 A16,16 0 0 1 1060,200 V200 A16,16 0 0 1 1044,216 H916 A16,16 0 0 1 900,200 V200 A16,16 0 0 1 916,184 Z" />
+      <text x="980" y="206" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">让业务变化快速变软件</text>
+    </g>
+  </g>
+
+  <g id="flow-down-1">
+    <line x1="580" y1="292" x2="580" y2="316" stroke="#246BFE" stroke-width="2" marker-end="url(#arrowFlowDown)" />
+    <text x="600" y="308" font-size="11" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">代码贡献 + 场景经验</text>
+  </g>
+
+  <g id="layer-product">
+    <path fill="#246BFE" d="M94,320 H1066 A14,14 0 0 1 1080,334 V434 A14,14 0 0 1 1066,448 H94 A14,14 0 0 1 80,434 V334 A14,14 0 0 1 94,320 Z" />
+    <path fill="#FFFFFF" d="M83,320 H83 A3,3 0 0 1 86,323 V445 A3,3 0 0 1 83,448 H83 A3,3 0 0 1 80,445 V323 A3,3 0 0 1 83,320 Z" />
+    
+  <g transform="translate(108.0, 342.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+    <path d="M4 15a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 17a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+  </g>
+    <text x="156" y="354" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第二层 · 面向业务应用</text>
+    <text x="156" y="386" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">产品团队(产品化沉淀 · 复审熵减)</text>
+    <text x="156" y="416" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">负责产品架构 · 复杂共性需求 · 代码复审 · 重构优化 · 技术债治理 · 测试强化 · 版本发布</text>
+    <text x="156" y="438" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">FDE 的快速修改不能停留在局部最优 → 产品团队复审、吸收、重构、熵减,把一线创新沉淀为产品能力</text>
+
+    <g id="product-tag">
+      <path fill="#FFFFFF" fill-opacity="0.15" d="M916,344 H1044 A16,16 0 0 1 1060,360 V360 A16,16 0 0 1 1044,376 H916 A16,16 0 0 1 900,360 V360 A16,16 0 0 1 916,344 Z" />
+      <text x="980" y="366" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">承担产品长期健康</text>
+    </g>
+  </g>
+
+  <g id="flow-down-2">
+    <line x1="580" y1="452" x2="580" y2="476" stroke="#246BFE" stroke-width="2" marker-end="url(#arrowFlowDown)" />
+    <text x="600" y="468" font-size="11" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">共性能力 + 平台改动</text>
+  </g>
+
+  <g id="layer-platform">
+    <path fill="#518FEC" d="M94,480 H1066 A14,14 0 0 1 1080,494 V594 A14,14 0 0 1 1066,608 H94 A14,14 0 0 1 80,594 V494 A14,14 0 0 1 94,480 Z" />
+    <path fill="#FFFFFF" d="M83,480 H83 A3,3 0 0 1 86,483 V605 A3,3 0 0 1 83,608 H83 A3,3 0 0 1 80,605 V483 A3,3 0 0 1 83,480 Z" />
+    
+  <g transform="translate(108.0, 502.0) scale(1.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3" />
+    <path d="M3 15a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3l0 -2" />
+    <path d="M7 8l0 .01" />
+    <path d="M7 16l0 .01" />
+  </g>
+    <text x="156" y="514" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第三层 · 提供底座能力</text>
+    <text x="156" y="546" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">平台团队(底座化沉淀 · 组织级复用)</text>
+    <text x="156" y="576" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">AI 平台 · 数据平台 · 知识平台 · 应用平台 · 工程平台,以工具、接口、Skill、规则、服务方式提供</text>
+    <text x="156" y="598" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">多个小队组成,围绕一类平台能力持续演进 · 让组织不必在每个产品、每个小队重复建设底层</text>
+
+    <g id="platform-tag">
+      <path fill="#FFFFFF" fill-opacity="0.2" d="M916,504 H1044 A16,16 0 0 1 1060,520 V520 A16,16 0 0 1 1044,536 H916 A16,16 0 0 1 900,520 V520 A16,16 0 0 1 916,504 Z" />
+      <text x="980" y="526" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">组织级能力复用</text>
+    </g>
+  </g>
+
+  <g id="side-flow">
+    <path fill="#F4F7FC" d="M1114,160 H1186 A14,14 0 0 1 1200,174 V594 A14,14 0 0 1 1186,608 H1114 A14,14 0 0 1 1100,594 V174 A14,14 0 0 1 1114,160 Z" />
+    <text x="1150" y="200" font-size="13" font-weight="bold" fill="#246BFE" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">↓ 沉淀</text>
+    <line x1="1140" y1="370" x2="1160" y2="370" stroke="#E3E9F2" stroke-width="1" />
+    <text x="1150" y="396" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">一线变化</text>
+    <text x="1150" y="414" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">→ 产品能力</text>
+    <text x="1150" y="432" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">→ 平台能力</text>
+    <line x1="1140" y1="470" x2="1160" y2="470" stroke="#E3E9F2" stroke-width="1" />
+    <text x="1150" y="540" font-size="13" font-weight="bold" fill="#0E9F6E" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">↑ 反哺</text>
+    <text x="1150" y="566" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">平台推回产品</text>
+    <text x="1150" y="584" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品推回一线</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第三章 · 组织重塑 · FDE 是把"个人提效"转化为"组织系统提效"的组织载体</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">12 / 30</text>
+  </g>
+</svg>

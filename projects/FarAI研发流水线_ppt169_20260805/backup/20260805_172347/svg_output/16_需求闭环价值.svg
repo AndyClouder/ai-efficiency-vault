@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="118" cy="92" r="14" fill="#0052A6"/>
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S1</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">让需求在进入开发前,就和真实系统发生碰撞</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">编码 Agent 反向提问,把需求缺陷消灭在开发前</text>
+  </g>
+
+  <g id="capability-block">
+    <rect x="80" y="160" width="640" height="460" rx="16" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/bolt" x="108" y="184" width="32" height="32" fill="#0052A6"/>
+    <text x="150" y="208" font-size="20" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 能力</text>
+    <line x1="108" y1="232" x2="692" y2="232" stroke="#E3E9F2" stroke-width="1"/>
+
+    <g id="cap-1">
+      <circle cx="124" cy="280" r="14" fill="#0052A6"/>
+      <text x="124" y="286" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">1</text>
+      <use data-icon="tabler-outline/code" x="148" y="264" width="28" height="28" fill="#246BFE"/>
+      <text x="184" y="284" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">编码 Agent 反读代码库</text>
+      <text x="184" y="308" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">读取接口契约、数据结构、历史需求、现有配置</text>
+    </g>
+
+    <g id="cap-2">
+      <circle cx="124" cy="360" r="14" fill="#0052A6"/>
+      <text x="124" y="366" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">2</text>
+      <use data-icon="tabler-outline/search" x="148" y="344" width="28" height="28" fill="#246BFE"/>
+      <text x="184" y="364" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">自动识别需求缺陷</text>
+      <text x="184" y="388" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">歧义、边界缺失、验收标准不全</text>
+    </g>
+
+    <g id="cap-3">
+      <circle cx="124" cy="440" r="14" fill="#0052A6"/>
+      <text x="124" y="446" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">3</text>
+      <use data-icon="tabler-outline/message" x="148" y="424" width="28" height="28" fill="#246BFE"/>
+      <text x="184" y="444" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">生成澄清问题清单</text>
+      <text x="184" y="468" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">反向推动产品澄清边界、异常、权限、状态流</text>
+    </g>
+
+    <g id="cap-4">
+      <circle cx="124" cy="520" r="14" fill="#0052A6"/>
+      <text x="124" y="526" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">4</text>
+      <use data-icon="tabler-outline/file-text" x="148" y="504" width="28" height="28" fill="#246BFE"/>
+      <text x="184" y="524" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">输出可验证需求契约</text>
+      <text x="184" y="548" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">契约驱动开发,需求即测试基线</text>
+    </g>
+  </g>
+
+  <g id="value-block">
+    <rect x="740" y="160" width="460" height="460" rx="16" fill="#0052A6"/>
+    <use data-icon="tabler-outline/trending-up" x="768" y="184" width="32" height="32" fill="#FFFFFF"/>
+    <text x="810" y="208" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">价值</text>
+    <line x1="768" y1="232" x2="1172" y2="232" stroke="#246BFE" stroke-width="1"/>
+
+    <g id="val-1">
+      <text x="768" y="300" font-size="40" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">↓40-50%</text>
+      <text x="768" y="332" font-size="16" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">需求返工率</text>
+      <text x="768" y="354" font-size="12" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">(预估)</text>
+    </g>
+
+    <line x1="768" y1="380" x2="1172" y2="380" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15"/>
+
+    <g id="val-2">
+      <text x="768" y="440" font-size="40" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">↑2-3 倍</text>
+      <text x="768" y="472" font-size="16" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">需求一次澄清通过率</text>
+      <text x="768" y="494" font-size="12" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">(预估)</text>
+    </g>
+
+    <line x1="768" y1="520" x2="1172" y2="520" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15"/>
+
+    <g id="val-3">
+      <text x="768" y="572" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">开发前消缺</text>
+      <text x="768" y="596" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">隐形成本节省(预估)</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第四章 · S1 智能需求闭环</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">16 / 30</text>
+  </g>
+</svg>

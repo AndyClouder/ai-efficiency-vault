@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chapBg11" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E"/>
+      <stop offset="60%" stop-color="#0E367A"/>
+      <stop offset="100%" stop-color="#17365D"/>
+    </linearGradient>
+    <linearGradient id="chapBar11" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#246BFE"/>
+    </linearGradient>
+    <radialGradient id="chapDecor11" cx="80%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g id="background">
+    <rect width="1280" height="720" fill="url(#chapBg11)"/>
+    <rect width="1280" height="720" fill="url(#chapDecor11)"/>
+  </g>
+
+  <g id="chapter-bignum">
+    <text x="1170" y="500" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="220" font-weight="bold" fill="#FFFFFF" fill-opacity="0.10">03</text>
+  </g>
+
+  <g id="chapter-eyebrow">
+    <rect x="120" y="280" width="6" height="28" rx="3" fill="url(#chapBar11)"/>
+    <text x="140" y="302" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="600" fill="#F59E0B" letter-spacing="5">CHAPTER 03 · 重头</text>
+  </g>
+
+  <g id="chapter-title">
+    <text x="120" y="390" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="44" font-weight="bold" fill="#FFFFFF">真相与风险</text>
+    <rect x="122" y="415" width="220" height="4" rx="2" fill="#F59E0B"/>
+    <text x="120" y="465" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" fill="#B8C7E0">值钱，但绝不是马上能变现的数字</text>
+  </g>
+
+  <g id="chapter-footer">
+    <text x="120" y="668" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#8FA3C4">FDE 经委会汇报 · 第三章（全场最关键）</text>
+    <text x="1200" y="668" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#8FA3C4">11 / 25</text>
+  </g>
+</svg>

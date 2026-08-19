@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine25" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#0E9F6E" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">收尾 · 下一步</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">从「认知拉齐」走向「具体行动」</text>
+    <path fill="url(#accentLine25)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">三个起步动作，方向性推进——具体经营方案留后续专题</text>
+  </g>
+
+  
+  <g id="action-1">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M72,185 H388 A12,12 0 0 1 400,197 V568 A12,12 0 0 1 388,580 H72 A12,12 0 0 1 60,568 V197 A12,12 0 0 1 72,185 Z" />
+    <path fill="#0052A6" d="M87,205 H145 A3,3 0 0 1 148,208 V209 A3,3 0 0 1 145,212 H87 A3,3 0 0 1 84,209 V208 A3,3 0 0 1 87,205 Z" />
+    <text x="84" y="270" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="60" font-weight="bold" fill="#0052A6" fill-opacity="0.14">01</text>
+    
+  <g transform="translate(316.0, 200.0) scale(2.0)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M22 9l-10 -4l-10 4l10 4l10 -4v6" />
+    <path d="M6 10.6v5.4a6 3 0 0 0 12 0v-5.4" />
+  </g>
+    <text x="84" y="312" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="23" font-weight="bold" fill="#25364A">验证试点</text>
+    <line x1="84" y1="332" x2="376" y2="332" stroke="#E3E9F2" stroke-width="1" />
+    <text x="84" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 选 1–2 个高容错行业</text>
+    <text x="84" y="402" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 教育 / 传媒 / 文旅</text>
+    <text x="84" y="434" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 跑出可复制的标杆</text>
+    <path fill="#0052A6" fill-opacity="0.07" d="M92,490 H368 A8,8 0 0 1 376,498 V542 A8,8 0 0 1 368,550 H92 A8,8 0 0 1 84,542 V498 A8,8 0 0 1 92,490 Z" />
+    <text x="230" y="515" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="600" fill="#0052A6">第一步</text>
+    <text x="230" y="538" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#25364A">先打标杆</text>
+  </g>
+
+  
+  <g id="action-2">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M482,185 H798 A12,12 0 0 1 810,197 V568 A12,12 0 0 1 798,580 H482 A12,12 0 0 1 470,568 V197 A12,12 0 0 1 482,185 Z" />
+    <path fill="#246BFE" d="M497,205 H555 A3,3 0 0 1 558,208 V209 A3,3 0 0 1 555,212 H497 A3,3 0 0 1 494,209 V208 A3,3 0 0 1 497,205 Z" />
+    <text x="494" y="270" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="60" font-weight="bold" fill="#246BFE" fill-opacity="0.14">02</text>
+    
+  <g transform="translate(726.0, 200.0) scale(2.0)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="494" y="312" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="23" font-weight="bold" fill="#25364A">人才盘点</text>
+    <line x1="494" y1="332" x2="786" y2="332" stroke="#E3E9F2" stroke-width="1" />
+    <text x="494" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 按 4 特质盘人（业务/实操/AI/结果）</text>
+    <text x="494" y="402" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> SA / 交付 / 行业专家最接近</text>
+    <text x="494" y="434" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 启动转型培养</text>
+    <path fill="#246BFE" fill-opacity="0.08" d="M502,490 H778 A8,8 0 0 1 786,498 V542 A8,8 0 0 1 778,550 H502 A8,8 0 0 1 494,542 V498 A8,8 0 0 1 502,490 Z" />
+    <text x="640" y="515" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="600" fill="#246BFE">第二步</text>
+    <text x="640" y="538" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#25364A">人才优先</text>
+  </g>
+
+  
+  <g id="action-3">
+    <path fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5" d="M892,185 H1208 A12,12 0 0 1 1220,197 V568 A12,12 0 0 1 1208,580 H892 A12,12 0 0 1 880,568 V197 A12,12 0 0 1 892,185 Z" />
+    <path fill="#0E9F6E" d="M907,205 H965 A3,3 0 0 1 968,208 V209 A3,3 0 0 1 965,212 H907 A3,3 0 0 1 904,209 V208 A3,3 0 0 1 907,205 Z" />
+    <text x="904" y="270" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="60" font-weight="bold" fill="#0E9F6E" fill-opacity="0.16">03</text>
+    
+  <g transform="translate(1136.0, 200.0) scale(2.0)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+    <text x="904" y="312" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="23" font-weight="bold" fill="#25364A">建机制</text>
+    <line x1="904" y1="332" x2="1196" y2="332" stroke="#E3E9F2" stroke-width="1" />
+    <text x="904" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 沉淀 / 复用纳入绩效</text>
+    <text x="904" y="402" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 设 Skill / 本体沉淀专项</text>
+    <text x="904" y="434" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 让经验真正算进绩效</text>
+    <path fill="#0E9F6E" d="M912,490 H1188 A8,8 0 0 1 1196,498 V542 A8,8 0 0 1 1188,550 H912 A8,8 0 0 1 904,542 V498 A8,8 0 0 1 912,490 Z" />
+    <text x="1050" y="515" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">第三步</text>
+    <text x="1050" y="538" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">机制保障</text>
+  </g>
+
+  
+  <g id="cta-band">
+    <path fill="#0052A6" d="M72,600 H1208 A12,12 0 0 1 1220,612 V648 A12,12 0 0 1 1208,660 H72 A12,12 0 0 1 60,648 V612 A12,12 0 0 1 72,600 Z" />
+    
+  <g transform="translate(500.0, 616.0) scale(1.1666666666666667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    <text x="640" y="638" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">三个起步动作，方向性推进 · 具体经营方案留后续专题</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="690" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">法本信息 · FDE 经委会汇报 · 谢谢</text>
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">26 / 26</text>
+  </g>
+</svg>

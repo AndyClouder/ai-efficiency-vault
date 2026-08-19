@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">工程底座建成后的度量参考 —— 规模化 AI 协同的真实形态</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Harness 先行不是理论,以下是工程化 AI 协同的可观察度量参考</text>
+  </g>
+
+  <g id="metric-1">
+    <path fill="#F4F7FC" d="M96,172 H334 A16,16 0 0 1 350,188 V376 A16,16 0 0 1 334,392 H96 A16,16 0 0 1 80,376 V188 A16,16 0 0 1 96,172 Z" />
+    <path fill="#0052A6" d="M83,172 H83 A3,3 0 0 1 86,175 V389 A3,3 0 0 1 83,392 H83 A3,3 0 0 1 80,389 V175 A3,3 0 0 1 83,172 Z" />
+    
+  <g transform="translate(108.0, 196.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
+    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
+    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+  </g>
+    <text x="108" y="278" font-size="42" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">175 万+</text>
+    <text x="108" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">单库规模(行)</text>
+    <line x1="108" y1="324" x2="322" y2="324" stroke="#E3E9F2" stroke-width="1" />
+    <text x="108" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可协同的代码库</text>
+    <text x="108" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">量级参考</text>
+  </g>
+
+  <g id="metric-2">
+    <path fill="#F4F7FC" d="M386,172 H624 A16,16 0 0 1 640,188 V376 A16,16 0 0 1 624,392 H386 A16,16 0 0 1 370,376 V188 A16,16 0 0 1 386,172 Z" />
+    <path fill="#246BFE" d="M373,172 H373 A3,3 0 0 1 376,175 V389 A3,3 0 0 1 373,392 H373 A3,3 0 0 1 370,389 V175 A3,3 0 0 1 373,172 Z" />
+    
+  <g transform="translate(398.0, 196.0) scale(1.3333333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M5 7l5 5l-5 5" />
+    <path d="M12 19l7 0" />
+  </g>
+    <text x="398" y="278" font-size="42" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">34%+</text>
+    <text x="398" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">代码 CLI 化率</text>
+    <line x1="398" y1="324" x2="612" y2="324" stroke="#E3E9F2" stroke-width="1" />
+    <text x="398" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可调用的代码</text>
+    <text x="398" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">占比参考</text>
+  </g>
+
+  <g id="metric-3">
+    <path fill="#F4F7FC" d="M676,172 H914 A16,16 0 0 1 930,188 V376 A16,16 0 0 1 914,392 H676 A16,16 0 0 1 660,376 V188 A16,16 0 0 1 676,172 Z" />
+    <path fill="#518FEC" d="M663,172 H663 A3,3 0 0 1 666,175 V389 A3,3 0 0 1 663,392 H663 A3,3 0 0 1 660,389 V175 A3,3 0 0 1 663,172 Z" />
+    
+  <g transform="translate(688.0, 196.0) scale(1.3333333333333333)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M7 8l0 8" />
+    <path d="M9 18h6a2 2 0 0 0 2 -2v-5" />
+    <path d="M14 14l3 -3l3 3" />
+  </g>
+    <text x="688" y="278" font-size="42" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">35/天+</text>
+    <text x="688" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Agent 协同提交</text>
+    <line x1="688" y1="324" x2="902" y2="324" stroke="#E3E9F2" stroke-width="1" />
+    <text x="688" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">日均提交强度</text>
+    <text x="688" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">人智协同密度参考</text>
+  </g>
+
+  <g id="metric-4">
+    <path fill="#F4F7FC" d="M966,172 H1184 A16,16 0 0 1 1200,188 V376 A16,16 0 0 1 1184,392 H966 A16,16 0 0 1 950,376 V188 A16,16 0 0 1 966,172 Z" />
+    <path fill="#0052A6" d="M953,172 H953 A3,3 0 0 1 956,175 V389 A3,3 0 0 1 953,392 H953 A3,3 0 0 1 950,389 V175 A3,3 0 0 1 953,172 Z" />
+    
+  <g transform="translate(978.0, 196.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+    <path d="M4 15a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 17a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+  </g>
+    <text x="978" y="278" font-size="42" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">9 大</text>
+    <text x="978" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Harness 组件</text>
+    <line x1="978" y1="324" x2="1172" y2="324" stroke="#E3E9F2" stroke-width="1" />
+    <text x="978" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架的工程抓手</text>
+    <text x="978" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">CLI/fullcheck/E2E 等</text>
+  </g>
+
+  <g id="takeaway-box">
+    <path fill="#0A2A5E" d="M96,428 H1184 A16,16 0 0 1 1200,444 V596 A16,16 0 0 1 1184,612 H96 A16,16 0 0 1 80,596 V444 A16,16 0 0 1 96,428 Z" />
+    <text x="640" y="476" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Harness 先行的真实形态:规模化、可验证、高频协同</text>
+    <line x1="490" y1="500" x2="790" y2="500" stroke="#246BFE" stroke-width="1" stroke-opacity="0.5" />
+    <text x="640" y="540" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">百万行级代码库 · 三成以上 CLI 化 · 日均数十次 Agent 协同提交</text>
+    <text x="640" y="572" font-size="14" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">这才是"个人提效转化为组织级系统提效"的工程化形态</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">* 以上为行业工程化实践的参考量级,非客户承诺值;实际数值视代码库与团队规模校准</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">26 / 30</text>
+  </g>
+</svg>

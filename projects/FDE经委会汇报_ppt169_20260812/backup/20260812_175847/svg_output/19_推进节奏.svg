@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine19" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">04 · 怎么稳妥推进</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">原厂打样、伙伴复制，先易后难</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine19)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">0→1 原厂、1→N 伙伴——部署是「脚手架」不是「房子」</text>
+  </g>
+
+  <!-- 三阶段 chevron 箭头链 -->
+  <g id="chevrons">
+    <polygon points="160,235 460,235 490,280 460,325 160,325" fill="#0052A6"/>
+    <text x="310" y="274" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#FFFFFF">原厂打样</text>
+    <text x="310" y="298" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#FFFFFF" fill-opacity="0.85">0 → 1</text>
+
+    <polygon points="490,235 790,235 820,280 790,325 490,325 520,280" fill="#246BFE"/>
+    <text x="655" y="274" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#FFFFFF">伙伴复制</text>
+    <text x="655" y="298" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#FFFFFF" fill-opacity="0.85">1 → N</text>
+
+    <polygon points="820,235 1120,235 1150,280 1120,325 820,325 850,280" fill="#0E9F6E"/>
+    <text x="985" y="274" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#FFFFFF">客户自助</text>
+    <text x="985" y="298" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#FFFFFF" fill-opacity="0.85">自助化</text>
+  </g>
+
+  <!-- 卡1 原厂打样 -->
+  <g id="phase-1">
+    <rect x="170" y="360" width="280" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="170" y="360" width="280" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="206" cy="400" r="20" fill="#0052A6" fill-opacity="0.12"/>
+    <use data-icon="tabler-outline/route" x="190" y="384" width="32" height="32" fill="#0052A6" stroke-width="2"/>
+    <text x="238" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">原厂亲自做</text>
+    <line x1="190" y1="428" x2="430" y2="428" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="190" y="460" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 重点行业标杆跑通</text>
+    <text x="190" y="488" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 沉淀 Skill / 模板 / 连接器</text>
+    <text x="190" y="516" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 沉淀可复制的方法论</text>
+    <rect x="190" y="532" width="240" height="28" rx="14" fill="#0052A6" fill-opacity="0.08"/>
+    <text x="310" y="551" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="600" fill="#0052A6">把做法跑通、固化下来</text>
+  </g>
+
+  <!-- 卡2 伙伴复制 -->
+  <g id="phase-2">
+    <rect x="500" y="360" width="280" height="210" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="500" y="360" width="280" height="6" rx="3" fill="#246BFE"/>
+    <circle cx="536" cy="400" r="20" fill="#246BFE" fill-opacity="0.12"/>
+    <use data-icon="tabler-outline/network" x="520" y="384" width="32" height="32" fill="#246BFE" stroke-width="2"/>
+    <text x="568" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">伙伴规模化</text>
+    <line x1="520" y1="428" x2="760" y2="428" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="520" y="460" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> ISV / SI / 区域伙伴交付</text>
+    <text x="520" y="488" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 平台培训 + 认证体系</text>
+    <text x="520" y="516" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 从单点走向规模</text>
+    <rect x="520" y="532" width="240" height="28" rx="14" fill="#246BFE" fill-opacity="0.10"/>
+    <text x="640" y="551" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="600" fill="#246BFE">把能力交给伙伴</text>
+  </g>
+
+  <!-- 卡3 客户自助 -->
+  <g id="phase-3">
+    <rect x="830" y="360" width="280" height="210" rx="12" fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5"/>
+    <rect x="830" y="360" width="280" height="6" rx="3" fill="#0E9F6E"/>
+    <circle cx="866" cy="400" r="20" fill="#0E9F6E" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/circle-check" x="850" y="384" width="32" height="32" fill="#0E9F6E" stroke-width="2"/>
+    <text x="898" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" font-weight="bold" fill="#25364A">客户自服务</text>
+    <line x1="850" y1="428" x2="1090" y2="428" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="850" y="460" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 客户自助构建能力</text>
+    <text x="850" y="488" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 部署是脚手架，不是房子</text>
+    <text x="850" y="516" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 厂商逐步退到平台层</text>
+    <rect x="850" y="532" width="240" height="28" rx="14" fill="#0E9F6E"/>
+    <text x="970" y="551" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#FFFFFF">终态：客户自己跑</text>
+  </g>
+
+  <!-- 底部行业优先序带 -->
+  <g id="priority-band">
+    <rect x="60" y="592" width="1160" height="62" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="592" width="6" height="62" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/school" x="84" y="606" width="34" height="34" fill="#0052A6" stroke-width="2"/>
+    <text x="130" y="624" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#0052A6">行业优先序</text>
+    <text x="130" y="644" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A">先高容错（教育 / 传媒 / 文旅）</text>
+    <use data-icon="tabler-outline/arrow-right" x="560" y="612" width="28" height="28" fill="#6B7785" stroke-width="2"/>
+    <use data-icon="tabler-outline/building-factory" x="610" y="606" width="34" height="34" fill="#F59E0B" stroke-width="2"/>
+    <text x="656" y="624" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#F59E0B">后高精度</text>
+    <text x="656" y="644" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A">后高精度（工业 / 金融）</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">19 / 25</text>
+  </g>
+</svg>

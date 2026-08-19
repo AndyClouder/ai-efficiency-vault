@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">01 客户理解</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">高力国际 — 全球商业地产"五大行"之一</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">非传统物业公司,而是商业地产全生命周期服务商;FarAI 愿为其打造覆盖招聘—商机—投标—营销的 AI 闭环</text>
+  </g>
+
+  <g id="positioning">
+    
+  <g transform="translate(60.0, 185.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 21l18 0" />
+    <path d="M9 8l1 0" />
+    <path d="M9 12l1 0" />
+    <path d="M9 16l1 0" />
+    <path d="M14 8l1 0" />
+    <path d="M14 12l1 0" />
+    <path d="M14 16l1 0" />
+    <path d="M5 21v-16a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v16" />
+  </g>
+    <text x="104" y="209" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">行业定位</text>
+    <text x="60" y="245" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#25364A">高力国际(Colliers),全球商业地产 <tspan font-weight="bold" fill="#0052A6">"五大行"</tspan> 之一,</text>
+    <text x="60" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#25364A">围绕商业地产提供全生命周期服务。</text>
+  </g>
+
+  <g id="card-service">
+    <path fill="#F4F7FC" d="M72,305 H418 A12,12 0 0 1 430,317 V518 A12,12 0 0 1 418,530 H72 A12,12 0 0 1 60,518 V317 A12,12 0 0 1 72,305 Z" />
+    <path fill="#0052A6" d="M72,305 H418 A12,12 0 0 1 430,317 V341 A12,12 0 0 1 418,353 H72 A12,12 0 0 1 60,341 V317 A12,12 0 0 1 72,305 Z" />
+    <rect x="60" y="337" width="370" height="16" fill="#0052A6" />
+    
+  <g transform="translate(80.0, 316.0) scale(1.0833333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="116" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">全生命周期服务</text>
+    <circle cx="82" cy="388" r="3" fill="#246BFE" />
+    <text x="95" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">咨询策划 · 招商租赁</text>
+    <circle cx="82" cy="420" r="3" fill="#246BFE" />
+    <text x="95" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">买卖交易 · 资产评估</text>
+    <circle cx="82" cy="452" r="3" fill="#246BFE" />
+    <text x="95" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">工程项目管理</text>
+    <circle cx="82" cy="484" r="3" fill="#246BFE" />
+    <text x="95" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">物业及资产管理</text>
+  </g>
+
+  <g id="card-clients">
+    <path fill="#F4F7FC" d="M467,305 H813 A12,12 0 0 1 825,317 V518 A12,12 0 0 1 813,530 H467 A12,12 0 0 1 455,518 V317 A12,12 0 0 1 467,305 Z" />
+    <path fill="#246BFE" d="M467,305 H813 A12,12 0 0 1 825,317 V341 A12,12 0 0 1 813,353 H467 A12,12 0 0 1 455,341 V317 A12,12 0 0 1 467,305 Z" />
+    <rect x="455" y="337" width="370" height="16" fill="#246BFE" />
+    
+  <g transform="translate(475.0, 316.0) scale(1.0833333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="511" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">服务对象</text>
+    <circle cx="477" cy="388" r="3" fill="#0052A6" />
+    <text x="490" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">地产开发商</text>
+    <circle cx="477" cy="420" r="3" fill="#0052A6" />
+    <text x="490" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">楼宇园区业主 · 投资机构</text>
+    <circle cx="477" cy="452" r="3" fill="#0052A6" />
+    <text x="490" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">政府部门</text>
+    <circle cx="477" cy="484" r="3" fill="#0052A6" />
+    <text x="490" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">大型企业</text>
+  </g>
+
+  <g id="card-traits">
+    <path fill="#F4F7FC" d="M862,305 H1208 A12,12 0 0 1 1220,317 V518 A12,12 0 0 1 1208,530 H862 A12,12 0 0 1 850,518 V317 A12,12 0 0 1 862,305 Z" />
+    <path fill="#518FEC" d="M862,305 H1208 A12,12 0 0 1 1220,317 V341 A12,12 0 0 1 1208,353 H862 A12,12 0 0 1 850,341 V317 A12,12 0 0 1 862,305 Z" />
+    <rect x="850" y="337" width="370" height="16" fill="#518FEC" />
+    
+  <g transform="translate(870.0, 316.0) scale(1.0833333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="906" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">业务特点</text>
+    <circle cx="872" cy="388" r="3" fill="#0052A6" />
+    <text x="885" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">管理项目多 · 信息分散</text>
+    <circle cx="872" cy="420" r="3" fill="#0052A6" />
+    <text x="885" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">销售跟进周期长</text>
+    <circle cx="872" cy="452" r="3" fill="#0052A6" />
+    <text x="885" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">客户决策链复杂</text>
+    <circle cx="872" cy="484" r="3" fill="#0052A6" />
+    <text x="885" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">一线招聘需求量大</text>
+  </g>
+
+  <g id="value-banner">
+    <path fill="#0052A6" d="M72,555 H1208 A12,12 0 0 1 1220,567 V635 A12,12 0 0 1 1208,647 H72 A12,12 0 0 1 60,635 V567 A12,12 0 0 1 72,555 Z" />
+    
+  <g transform="translate(84.0, 580.0) scale(1.75)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  </g>
+    <text x="146" y="589" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">价值主张</text>
+    <text x="146" y="620" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">FarAI 以 "一个平台 + 四大场景 + 一个闭环",让 AI 成为高力国际的增长新引擎</text>
+    <text x="146" y="640" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#B8C7E0">打通"信息发现—商机识别—客户归并—决策链分析—销售跟进—投标支持—结果复盘"完整链路</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">04</text>
+  </g>
+</svg>

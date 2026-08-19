@@ -1,0 +1,1 @@
+Harness 一共九大组件,是驾驭 Agent 的工程抓手。第一,CLI Harness,CLI 化是基础,让 Agent 能调用代码。第二,fullcheck 全量检查,AI 改完即验证。第三,CLI E2E 端到端自动化。第四,Agent traceId,执行全链路可追踪。第五,Agent OS,Agent 的操作系统。第六,UI Harness,UI 自动化驾驭。第七,API Harness,接口契约可验证。第八,SOP Harness,高频任务沉淀成标准作业流程。第九,Harness flake,驾驭框架自身的稳定性治理。这九个组件,把"Agent 能跑"升级为"Agent 可控、可验证、可追溯"。

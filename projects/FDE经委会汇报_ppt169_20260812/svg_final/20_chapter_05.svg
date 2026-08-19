@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chapBg20" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E" />
+      <stop offset="60%" stop-color="#0E367A" />
+      <stop offset="100%" stop-color="#17365D" />
+    </linearGradient>
+    <linearGradient id="chapBar20" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#0E9F6E" />
+    </linearGradient>
+    <radialGradient id="chapDecor20" cx="80%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <g id="background">
+    <rect width="1280" height="720" fill="url(#chapBg20)" />
+    <rect width="1280" height="720" fill="url(#chapDecor20)" />
+  </g>
+
+  <g id="chapter-bignum">
+    <text x="1170" y="500" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="220" font-weight="bold" fill="#FFFFFF" fill-opacity="0.10">05</text>
+  </g>
+
+  <g id="chapter-eyebrow">
+    <path fill="url(#chapBar20)" d="M123,280 H123 A3,3 0 0 1 126,283 V305 A3,3 0 0 1 123,308 H123 A3,3 0 0 1 120,305 V283 A3,3 0 0 1 123,280 Z" />
+    <text x="140" y="302" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="600" fill="#518FEC" letter-spacing="5">CHAPTER 05</text>
+  </g>
+
+  <g id="chapter-title">
+    <text x="120" y="390" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF">人才与组织</text>
+    <path fill="#246BFE" d="M124,415 H340 A2,2 0 0 1 342,417 V417 A2,2 0 0 1 340,419 H124 A2,2 0 0 1 122,417 V417 A2,2 0 0 1 124,415 Z" />
+    <text x="120" y="465" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#B8C7E0">价值在人，瓶颈也在人</text>
+  </g>
+
+  <g id="chapter-footer">
+    <text x="120" y="668" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">FDE 经委会汇报 · 第五章</text>
+    <text x="1200" y="668" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">20 / 26</text>
+  </g>
+</svg>

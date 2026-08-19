@@ -1,0 +1,1 @@
+Harness 先行原则是这一章的核心。正确顺序是三步:Harness 先建,Agent 在 Harness 内跑 Loop 和 Graph,Agent 的 feedback 反哺 Harness 持续强化。这样可控、可验证、可持续放大自主度。反过来,有两种典型反模式。一种是 Loop Engineering,先让 Agent 跑循环再补约束,结果循环失控,事故已经发生,补不回来。另一种是 Graph Engineering,先让 Agent 跑任务图再补治理,治理滞后于破坏。共性是顺序错了,后期补 Harness 成本极高。所以,先建安全网,再放大自主度。

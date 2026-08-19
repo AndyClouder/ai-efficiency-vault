@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine14" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">最怕的不是做不成，是变成「换名字的外包」</text>
+    <path fill="url(#accentLine14)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">五类系统性风险，决定了 FDE 能不能从「项目」变成「生意」</text>
+  </g>
+
+  
+  <g id="risk-ontology">
+    <path fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" d="M72,175 H408 A12,12 0 0 1 420,187 V373 A12,12 0 0 1 408,385 H72 A12,12 0 0 1 60,373 V187 A12,12 0 0 1 72,175 Z" />
+    <text x="392" y="235" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="46" font-weight="bold" fill="#F59E0B" fill-opacity="0.12">01</text>
+    <path fill="#F59E0B" fill-opacity="0.14" d="M98,199 H122 A14,14 0 0 1 136,213 V237 A14,14 0 0 1 122,251 H98 A14,14 0 0 1 84,237 V213 A14,14 0 0 1 98,199 Z" />
+    
+  <g transform="translate(92.0, 207.0) scale(1.5)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+    <text x="84" y="288" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">本体缺失恶性循环</text>
+    <text x="84" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">没沉淀 → 每单从零开始</text>
+    <text x="84" y="342" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">→ 更没时间沉淀</text>
+    <path fill="#F59E0B" d="M95,354 H253 A11,11 0 0 1 264,365 V365 A11,11 0 0 1 253,376 H95 A11,11 0 0 1 84,365 V365 A11,11 0 0 1 95,354 Z" />
+    <text x="174" y="370" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">最核心 · 边际成本</text>
+  </g>
+
+  
+  <g id="risk-org">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M472,175 H808 A12,12 0 0 1 820,187 V373 A12,12 0 0 1 808,385 H472 A12,12 0 0 1 460,373 V187 A12,12 0 0 1 472,175 Z" />
+    <text x="792" y="235" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">02</text>
+    <path fill="#0052A6" fill-opacity="0.10" d="M498,199 H522 A14,14 0 0 1 536,213 V237 A14,14 0 0 1 522,251 H498 A14,14 0 0 1 484,237 V213 A14,14 0 0 1 498,199 Z" />
+    
+  <g transform="translate(492.0, 207.0) scale(1.5)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="484" y="288" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">组织归属两难</text>
+    <text x="484" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">放销售 / 交付 / 产品体系</text>
+    <text x="484" y="342" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">每种归属各有陷阱</text>
+  </g>
+
+  
+  <g id="risk-scale">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M872,175 H1208 A12,12 0 0 1 1220,187 V373 A12,12 0 0 1 1208,385 H872 A12,12 0 0 1 860,373 V187 A12,12 0 0 1 872,175 Z" />
+    <text x="1192" y="235" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">03</text>
+    <path fill="#0052A6" fill-opacity="0.10" d="M898,199 H922 A14,14 0 0 1 936,213 V237 A14,14 0 0 1 922,251 H898 A14,14 0 0 1 884,237 V213 A14,14 0 0 1 898,199 Z" />
+    
+  <g transform="translate(892.0, 207.0) scale(1.5)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 13a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -6" />
+    <path d="M15 9a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -10" />
+    <path d="M9 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -14" />
+    <path d="M4 20h14" />
+  </g>
+    <text x="884" y="288" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">落地易、扩展难</text>
+    <text x="884" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">新鲜感退去之后</text>
+    <text x="884" y="342" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">使用率持续下滑</text>
+  </g>
+
+  
+  <g id="risk-margin">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M272,402 H608 A12,12 0 0 1 620,414 V600 A12,12 0 0 1 608,612 H272 A12,12 0 0 1 260,600 V414 A12,12 0 0 1 272,402 Z" />
+    <text x="592" y="462" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">04</text>
+    <path fill="#0052A6" fill-opacity="0.10" d="M298,426 H322 A14,14 0 0 1 336,440 V464 A14,14 0 0 1 322,478 H298 A14,14 0 0 1 284,464 V440 A14,14 0 0 1 298,426 Z" />
+    
+  <g transform="translate(292.0, 434.0) scale(1.5)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M7 15h-3a1 1 0 0 1 -1 -1v-8a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v3" />
+    <path d="M7 10a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -8" />
+    <path d="M12 14a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+  </g>
+    <text x="284" y="515" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">利润率结构性偏重</text>
+    <text x="284" y="545" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">依赖人力的交付模式</text>
+    <text x="284" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">价值定价在国内有障碍</text>
+  </g>
+
+  
+  <g id="risk-vendor">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M672,402 H1008 A12,12 0 0 1 1020,414 V600 A12,12 0 0 1 1008,612 H672 A12,12 0 0 1 660,600 V414 A12,12 0 0 1 672,402 Z" />
+    <text x="992" y="462" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="46" font-weight="bold" fill="#0052A6" fill-opacity="0.10">05</text>
+    <path fill="#0052A6" fill-opacity="0.10" d="M698,426 H722 A14,14 0 0 1 736,440 V464 A14,14 0 0 1 722,478 H698 A14,14 0 0 1 684,464 V440 A14,14 0 0 1 698,426 Z" />
+    
+  <g transform="translate(692.0, 434.0) scale(1.5)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M6 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2l0 -4" />
+    <path d="M12 2v2" />
+    <path d="M9 12v9" />
+    <path d="M15 12v9" />
+    <path d="M5 16l4 -2" />
+    <path d="M15 14l4 2" />
+    <path d="M9 18h6" />
+    <path d="M10 8v.01" />
+    <path d="M14 8v.01" />
+  </g>
+    <text x="684" y="515" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">伙伴也是竞争者</text>
+    <text x="684" y="545" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">模型厂商既是合作伙伴</text>
+    <text x="684" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">也随时可能下场替代</text>
+  </g>
+
+  
+  <g id="summary-band">
+    <path fill="#F59E0B" fill-opacity="0.10" d="M72,630 H1208 A12,12 0 0 1 1220,642 V666 A12,12 0 0 1 1208,678 H72 A12,12 0 0 1 60,666 V642 A12,12 0 0 1 72,630 Z" />
+    
+  <g transform="translate(80.0, 640.0) scale(1.1666666666666667)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="120" y="660" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#B45309">所有风险本质上都指向同一个问题——能不能持续降低边际成本</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">14 / 26</text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">01 · FDE 到底是什么</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">带产品找问题 ≠ 现场解决问题</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine5)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">很多公司只是「把员工扔到一线」，FDE 的本质是接近创业的能力</text>
+  </g>
+
+  <!-- 左卡：伪 FDE -->
+  <g id="card-fake">
+    <rect x="60" y="180" width="560" height="395" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.5"/>
+    <rect x="84" y="204" width="104" height="34" rx="17" fill="#F59E0B"/>
+    <text x="136" y="227" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#FFFFFF">伪 FDE</text>
+    <use data-icon="tabler-outline/alert-triangle" x="552" y="198" width="48" height="48" fill="#F59E0B" stroke-width="2"/>
+    <text x="84" y="296" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="28" font-weight="bold" fill="#25364A">带产品找问题</text>
+    <rect x="84" y="320" width="512" height="132" rx="8" fill="#F59E0B" fill-opacity="0.07"/>
+    <text x="104" y="352" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#B45309">案例：协同办公团队进工厂</text>
+    <text x="104" y="384" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78">第一件事：装摄像头抓员工抽烟</text>
+    <text x="104" y="416" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#5E6A78">盯着细枝末节，绕开了核心业务</text>
+    <text x="84" y="500" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="600" fill="#F59E0B">· 既不触及核心业务</text>
+    <text x="84" y="534" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="600" fill="#F59E0B">· 又没有技术门槛</text>
+  </g>
+
+  <!-- 中间对比符 -->
+  <g id="versus">
+    <circle cx="640" cy="377" r="40" fill="#FFFFFF" stroke="#0052A6" stroke-width="3"/>
+    <text x="640" y="392" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="40" font-weight="bold" fill="#0052A6">≠</text>
+  </g>
+
+  <!-- 右卡：真 FDE -->
+  <g id="card-real">
+    <rect x="660" y="180" width="560" height="395" rx="12" fill="#0052A6" fill-opacity="0.04" stroke="#0052A6" stroke-width="1.5"/>
+    <rect x="684" y="204" width="104" height="34" rx="17" fill="#0052A6"/>
+    <text x="736" y="227" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#FFFFFF">真 FDE</text>
+    <use data-icon="tabler-outline/search" x="1152" y="198" width="48" height="48" fill="#0052A6" stroke-width="2"/>
+    <text x="684" y="296" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="28" font-weight="bold" fill="#0052A6">现场重新看业务</text>
+    <rect x="684" y="320" width="512" height="132" rx="8" fill="#0052A6" fill-opacity="0.07"/>
+    <text x="704" y="352" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#0052A6">做法：到一线重新定义问题</text>
+    <text x="704" y="384" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#25364A">找产品良率、订单延期、库存周转</text>
+    <text x="704" y="416" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#25364A">盯住「真问题」而不是好交付的问题</text>
+    <text x="684" y="500" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="600" fill="#0052A6">· 定义问题、快速试错</text>
+    <text x="684" y="534" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="600" fill="#0052A6">· 本质接近创业的能力</text>
+  </g>
+
+  <!-- 底部概念泡沫警示带 -->
+  <g id="warning-band">
+    <rect x="60" y="595" width="1160" height="66" rx="12" fill="#F59E0B" fill-opacity="0.10"/>
+    <rect x="60" y="595" width="6" height="66" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="84" y="611" width="34" height="34" fill="#F59E0B" stroke-width="2"/>
+    <text x="132" y="625" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#B45309">概念泡沫警示</text>
+    <text x="132" y="650" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="17" fill="#25364A">ABC 满天飞，但「FDE 就死了」——挂名 FDE 多、真 FDE 少，做了不如不做</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">05 / 25</text>
+  </g>
+</svg>

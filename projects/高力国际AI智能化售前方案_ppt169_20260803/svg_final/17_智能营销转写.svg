@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="marketingArrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M 0,0 L 9,4.5 L 0,9 Z" fill="#20A7B8" />
+    </marker>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">03 场景方案 · 营销</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">智能营销与销售录音分析 — 从录音到洞察</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">销售录音自动转写并多维分析,把停留在录音里的信息变成可行动的客户洞察</text>
+  </g>
+
+  <g id="pains">
+    <text x="60" y="190" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B" letter-spacing="1">五大痛点 · PAIN POINTS</text>
+    <path fill="#F4F7FC" d="M70,205 H270 A10,10 0 0 1 280,215 V263 A10,10 0 0 1 270,273 H70 A10,10 0 0 1 60,263 V215 A10,10 0 0 1 70,205 Z" />
+    <path fill="#F59E0B" d="M62,205 H62 A2,2 0 0 1 64,207 V271 A2,2 0 0 1 62,273 H62 A2,2 0 0 1 60,271 V207 A2,2 0 0 1 62,205 Z" />
+    <text x="78" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">录音量大</text>
+    <text x="78" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">无法逐条回听</text>
+
+    <path fill="#F4F7FC" d="M304,205 H504 A10,10 0 0 1 514,215 V263 A10,10 0 0 1 504,273 H304 A10,10 0 0 1 294,263 V215 A10,10 0 0 1 304,205 Z" />
+    <path fill="#F59E0B" d="M296,205 H296 A2,2 0 0 1 298,207 V271 A2,2 0 0 1 296,273 H296 A2,2 0 0 1 294,271 V207 A2,2 0 0 1 296,205 Z" />
+    <text x="312" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">缺统一标准</text>
+    <text x="312" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">沟通质量难评</text>
+
+    <path fill="#F4F7FC" d="M538,205 H738 A10,10 0 0 1 748,215 V263 A10,10 0 0 1 738,273 H538 A10,10 0 0 1 528,263 V215 A10,10 0 0 1 538,205 Z" />
+    <path fill="#F59E0B" d="M530,205 H530 A2,2 0 0 1 532,207 V271 A2,2 0 0 1 530,273 H530 A2,2 0 0 1 528,271 V207 A2,2 0 0 1 530,205 Z" />
+    <text x="546" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">需求被忽略</text>
+    <text x="546" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">商机难识别</text>
+
+    <path fill="#F4F7FC" d="M772,205 H972 A10,10 0 0 1 982,215 V263 A10,10 0 0 1 972,273 H772 A10,10 0 0 1 762,263 V215 A10,10 0 0 1 772,205 Z" />
+    <path fill="#F59E0B" d="M764,205 H764 A2,2 0 0 1 766,207 V271 A2,2 0 0 1 764,273 H764 A2,2 0 0 1 762,271 V207 A2,2 0 0 1 764,205 Z" />
+    <text x="780" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">经验难沉淀</text>
+    <text x="780" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">优秀话术流失</text>
+
+    <path fill="#F4F7FC" d="M1006,205 H1210 A10,10 0 0 1 1220,215 V263 A10,10 0 0 1 1210,273 H1006 A10,10 0 0 1 996,263 V215 A10,10 0 0 1 1006,205 Z" />
+    <path fill="#F59E0B" d="M998,205 H998 A2,2 0 0 1 1000,207 V271 A2,2 0 0 1 998,273 H998 A2,2 0 0 1 996,271 V207 A2,2 0 0 1 998,205 Z" />
+    <text x="1014" y="233" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#17365D">数据未关联</text>
+    <text x="1014" y="257" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78">录音客户脱节</text>
+  </g>
+
+  <g id="transcribe-flow">
+    <text x="60" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#20A7B8" letter-spacing="1">转写分析流程 · TRANSCRIBE &amp; ANALYZE</text>
+    <path fill="#F4F7FC" d="M72,335 H1208 A12,12 0 0 1 1220,347 V503 A12,12 0 0 1 1208,515 H72 A12,12 0 0 1 60,503 V347 A12,12 0 0 1 72,335 Z" />
+
+    <line x1="320" y1="425" x2="388" y2="425" stroke="#20A7B8" stroke-width="3" marker-end="url(#marketingArrow)" />
+    <line x1="620" y1="425" x2="688" y2="425" stroke="#20A7B8" stroke-width="3" marker-end="url(#marketingArrow)" />
+    <line x1="920" y1="425" x2="988" y2="425" stroke="#20A7B8" stroke-width="3" marker-end="url(#marketingArrow)" />
+
+    <g id="t1">
+      <circle cx="190" cy="425" r="100" fill="#FFFFFF" stroke="#20A7B8" stroke-width="2" />
+      
+  <g transform="translate(160.0, 365.0) scale(2.5)" fill="none" stroke="#20A7B8" stroke-width="2">
+    <path d="M4 14v-3a8 8 0 1 1 16 0v3" />
+    <path d="M18 19c0 1.657 -2.686 3 -6 3" />
+    <path d="M4 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+    <path d="M15 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+  </g>
+      <text x="190" y="450" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17365D" text-anchor="middle">销售录音</text>
+      <text x="190" y="475" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78" text-anchor="middle">电话 · 会议录音</text>
+    </g>
+    <g id="t2">
+      <circle cx="490" cy="425" r="100" fill="#20A7B8" />
+      
+  <g transform="translate(460.0, 365.0) scale(2.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M9 5a3 3 0 0 1 3 -3a3 3 0 0 1 3 3v5a3 3 0 0 1 -3 3a3 3 0 0 1 -3 -3l0 -5" />
+    <path d="M5 10a7 7 0 0 0 14 0" />
+    <path d="M8 21l8 0" />
+    <path d="M12 17l0 4" />
+  </g>
+      <text x="490" y="450" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">语音转文字</text>
+      <text x="490" y="475" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#DCE6FB" text-anchor="middle">ASR 自动转写</text>
+    </g>
+    <g id="t3">
+      <circle cx="790" cy="425" r="100" fill="#FFFFFF" stroke="#20A7B8" stroke-width="2" />
+      
+  <g transform="translate(760.0, 365.0) scale(2.5)" fill="none" stroke="#20A7B8" stroke-width="2">
+    <path d="M15.5 13a3.5 3.5 0 0 0 -3.5 3.5v1a3.5 3.5 0 0 0 7 0v-1.8" />
+    <path d="M8.5 13a3.5 3.5 0 0 1 3.5 3.5v1a3.5 3.5 0 0 1 -7 0v-1.8" />
+    <path d="M17.5 16a3.5 3.5 0 0 0 0 -7h-.5" />
+    <path d="M19 9.3v-2.8a3.5 3.5 0 0 0 -7 0" />
+    <path d="M6.5 16a3.5 3.5 0 0 1 0 -7h.5" />
+    <path d="M5 9.3v-2.8a3.5 3.5 0 0 1 7 0v10" />
+  </g>
+      <text x="790" y="450" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#17365D" text-anchor="middle">智能分析</text>
+      <text x="790" y="475" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#5E6A78" text-anchor="middle">按规则多维筛选</text>
+    </g>
+    <g id="t4">
+      <circle cx="1090" cy="425" r="100" fill="#0E9F6E" />
+      
+  <g transform="translate(1060.0, 365.0) scale(2.5)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7" />
+    <path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3" />
+    <path d="M9.7 17l4.6 0" />
+  </g>
+      <text x="1090" y="450" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">客户洞察</text>
+      <text x="1090" y="475" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#DCE6FB" text-anchor="middle">可行动建议</text>
+    </g>
+  </g>
+
+  <g id="linkage-banner">
+    <path fill="#17365D" d="M72,540 H1208 A12,12 0 0 1 1220,552 V628 A12,12 0 0 1 1208,640 H72 A12,12 0 0 1 60,628 V552 A12,12 0 0 1 72,540 Z" />
+    
+  <g transform="translate(84.0, 563.0) scale(1.4166666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="130" y="572" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC" letter-spacing="1">自动联动 · 关联与回灌</text>
+    <text x="130" y="602" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">录音信息自动关联 客户 / 项目 / 联系人 / 销售</text>
+    <text x="130" y="628" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#B8C7E0">→ 补入客户档案与决策链,避免重要信息只停留在录音或销售个人认知中</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">17</text>
+  </g>
+</svg>

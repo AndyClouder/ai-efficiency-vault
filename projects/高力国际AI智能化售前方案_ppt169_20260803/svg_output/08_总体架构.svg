@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">02 总体方案</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">总体架构 — FarAI 底座 × 四大场景 × 系统集成</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">以 FarAgent 平台为统一底座,向上承载四大场景,向下集成客户现有系统,形成端到端能力</text>
+  </g>
+
+  <g id="layer-integration">
+    <text x="60" y="192" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC" letter-spacing="2">集成层 · INTEGRATION</text>
+    <rect x="60" y="205" width="1160" height="62" rx="10" fill="#F4F7FC" stroke="#518FEC" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <use data-icon="tabler-outline/briefcase" x="140" y="223" width="28" height="28" fill="#518FEC" stroke-width="2"/>
+    <text x="178" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">CRM 系统</text>
+    <use data-icon="tabler-outline/users" x="370" y="223" width="28" height="28" fill="#518FEC" stroke-width="2"/>
+    <text x="408" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">招聘系统</text>
+    <use data-icon="tabler-outline/file-text" x="600" y="223" width="28" height="28" fill="#518FEC" stroke-width="2"/>
+    <text x="638" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">投标系统</text>
+    <use data-icon="tabler-outline/message" x="830" y="223" width="28" height="28" fill="#518FEC" stroke-width="2"/>
+    <text x="868" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">企业微信 / OA</text>
+  </g>
+
+  <g id="connector-up">
+    <line x1="640" y1="267" x2="640" y2="298" stroke="#518FEC" stroke-width="2" stroke-dasharray="4 3"/>
+  </g>
+
+  <g id="layer-scenarios">
+    <text x="60" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE" letter-spacing="2">场景层 · SCENARIOS</text>
+    <rect x="60" y="331" width="278" height="135" rx="12" fill="#246BFE"/>
+    <use data-icon="tabler-outline/users" x="80" y="351" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+    <text x="120" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能招聘</text>
+    <text x="80" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">JD生成·简历匹配</text>
+    <text x="80" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">AI面试·招聘机器人</text>
+    <text x="80" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">人才库沉淀</text>
+
+    <rect x="354" y="331" width="278" height="135" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/search" x="374" y="351" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+    <text x="414" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能商机</text>
+    <text x="374" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">多源采集·解析</text>
+    <text x="374" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">商机评分·自动分配</text>
+    <text x="374" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">去重·来源追溯</text>
+
+    <rect x="648" y="331" width="278" height="135" rx="12" fill="#246BFE"/>
+    <use data-icon="tabler-outline/file-text" x="668" y="351" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+    <text x="708" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能投标+客户归并</text>
+    <text x="668" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">标书全流程</text>
+    <text x="668" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">主体识别·决策链</text>
+    <text x="668" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">统一客户视图</text>
+
+    <rect x="942" y="331" width="278" height="135" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/headset" x="962" y="351" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+    <text x="1002" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能营销录音</text>
+    <text x="962" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">转写·十维分析</text>
+    <text x="962" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">话术沉淀·质量评分</text>
+    <text x="962" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">客户档案联动</text>
+  </g>
+
+  <g id="connector-down">
+    <line x1="640" y1="466" x2="640" y2="497" stroke="#246BFE" stroke-width="2" stroke-dasharray="4 3"/>
+  </g>
+
+  <g id="layer-base">
+    <text x="60" y="517" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0052A6" letter-spacing="2">底座 · FarAgent PLATFORM</text>
+    <rect x="60" y="530" width="1160" height="100" rx="12" fill="#17365D"/>
+    <use data-icon="tabler-outline/brain" x="90" y="552" width="34" height="34" fill="#518FEC" stroke-width="2"/>
+    <text x="134" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">FarAgent 平台</text>
+    <text x="134" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">任务调度 · 分层记忆 · 进化引擎</text>
+
+    <use data-icon="tabler-outline/bulb" x="380" y="552" width="34" height="34" fill="#518FEC" stroke-width="2"/>
+    <text x="424" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">大模型</text>
+    <text x="424" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">语义理解 · 推理 · 生成</text>
+
+    <use data-icon="tabler-outline/report" x="650" y="552" width="34" height="34" fill="#518FEC" stroke-width="2"/>
+    <text x="694" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">企业知识库</text>
+    <text x="694" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">资质·标书·人才·客户资产</text>
+
+    <use data-icon="tabler-outline/network" x="940" y="552" width="34" height="34" fill="#518FEC" stroke-width="2"/>
+    <text x="984" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">数据接入</text>
+    <text x="984" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">多平台采集 · 工作流编排</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">08</text>
+  </g>
+</svg>

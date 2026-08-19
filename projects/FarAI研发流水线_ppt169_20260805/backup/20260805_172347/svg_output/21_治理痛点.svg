@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowS4" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L9,4.5 L0,9 Z" fill="#0052A6"/>
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="118" cy="92" r="14" fill="#0A2A5E"/>
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S4</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">AI 效能说不清,Token 钱花得没底;管太死又把速度抵消</text>
+  </g>
+
+  <g id="pain-section">
+    <rect x="80" y="136" width="1120" height="132" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="136" width="6" height="132" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="110" y="158" width="30" height="30" fill="#F59E0B"/>
+    <text x="150" y="180" font-size="18" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">痛点:治理两难 + 效能黑箱</text>
+    <text x="150" y="212" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">两难:不管 → 怕 AI 乱跑出事(质量/安全/合规);管太死 → 每步人工审批,速度优势被抵消</text>
+    <text x="150" y="238" font-size="14" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">黑箱:Token 成本/模型调用成本/Agent 执行成本没有度量</text>
+    <text x="150" y="260" font-size="14" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">→ "用了多少 AI"清楚,"带来什么收益"说不清</text>
+  </g>
+
+  <g id="staircase-label">
+    <text x="80" y="316" font-size="16" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">治理五步阶梯:先建安全网,再放大自主度</text>
+    <text x="80" y="338" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">不是让 AI 慢下来,而是让 AI 在可控边界内跑得更快</text>
+  </g>
+
+  <g id="step-1">
+    <rect x="80" y="370" width="200" height="76" rx="10" fill="#0052A6"/>
+    <text x="100" y="394" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">STEP 1</text>
+    <text x="100" y="416" font-size="14" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">多层自动化测试</text>
+    <text x="100" y="436" font-size="11" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">安全网起点</text>
+  </g>
+  <line x1="282" y1="408" x2="302" y2="408" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowS4)"/>
+
+  <g id="step-2">
+    <rect x="304" y="396" width="200" height="76" rx="10" fill="#0052A6"/>
+    <text x="324" y="420" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">STEP 2</text>
+    <text x="324" y="442" font-size="14" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">AI 参与评审</text>
+    <text x="324" y="462" font-size="11" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">前置发现 + 并行辅助</text>
+  </g>
+  <line x1="506" y1="434" x2="526" y2="434" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowS4)"/>
+
+  <g id="step-3">
+    <rect x="528" y="422" width="200" height="76" rx="10" fill="#246BFE"/>
+    <text x="548" y="446" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">STEP 3</text>
+    <text x="548" y="468" font-size="14" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">规则守护与熵减</text>
+    <text x="548" y="488" font-size="11" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">规则 as Code + 技术债治理</text>
+  </g>
+  <line x1="730" y1="460" x2="750" y2="460" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowS4)"/>
+
+  <g id="step-4">
+    <rect x="752" y="448" width="200" height="76" rx="10" fill="#246BFE"/>
+    <text x="772" y="472" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">STEP 4</text>
+    <text x="772" y="494" font-size="14" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">风险分级 + HITL</text>
+    <text x="772" y="514" font-size="11" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">低/中/高分级行权</text>
+  </g>
+  <line x1="954" y1="486" x2="974" y2="486" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowS4)"/>
+
+  <g id="step-5">
+    <rect x="976" y="474" width="224" height="76" rx="10" fill="#518FEC"/>
+    <text x="996" y="498" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">STEP 5</text>
+    <text x="996" y="520" font-size="14" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">效能度量 + AI FinOps</text>
+    <text x="996" y="540" font-size="11" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">Token ROI / 业务价值</text>
+  </g>
+
+  <g id="takeaway">
+    <rect x="80" y="576" width="1120" height="64" rx="12" fill="#0052A6"/>
+    <text x="640" y="616" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">不是堆审批,而是先建安全网,再放大自主度</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第四章 · S4 智能治理与 FinOps</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">21 / 30</text>
+  </g>
+</svg>

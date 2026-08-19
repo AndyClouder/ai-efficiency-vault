@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">工程底座建成后的度量参考 —— 规模化 AI 协同的真实形态</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Harness 先行不是理论,以下是工程化 AI 协同的可观察度量参考</text>
+  </g>
+
+  <g id="metric-1">
+    <rect x="80" y="172" width="270" height="220" rx="16" fill="#F4F7FC"/>
+    <rect x="80" y="172" width="6" height="220" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/database" x="108" y="196" width="32" height="32" fill="#0052A6"/>
+    <text x="108" y="278" font-size="42" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">175 万+</text>
+    <text x="108" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">单库规模(行)</text>
+    <line x1="108" y1="324" x2="322" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="108" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可协同的代码库</text>
+    <text x="108" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">量级参考</text>
+  </g>
+
+  <g id="metric-2">
+    <rect x="370" y="172" width="270" height="220" rx="16" fill="#F4F7FC"/>
+    <rect x="370" y="172" width="6" height="220" rx="3" fill="#246BFE"/>
+    <use data-icon="tabler-outline/terminal" x="398" y="196" width="32" height="32" fill="#246BFE"/>
+    <text x="398" y="278" font-size="42" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">34%+</text>
+    <text x="398" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">代码 CLI 化率</text>
+    <line x1="398" y1="324" x2="612" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="398" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 可调用的代码</text>
+    <text x="398" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">占比参考</text>
+  </g>
+
+  <g id="metric-3">
+    <rect x="660" y="172" width="270" height="220" rx="16" fill="#F4F7FC"/>
+    <rect x="660" y="172" width="6" height="220" rx="3" fill="#518FEC"/>
+    <use data-icon="tabler-outline/git-branch" x="688" y="196" width="32" height="32" fill="#518FEC"/>
+    <text x="688" y="278" font-size="42" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">35/天+</text>
+    <text x="688" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Agent 协同提交</text>
+    <line x1="688" y1="324" x2="902" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="688" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">日均提交强度</text>
+    <text x="688" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">人智协同密度参考</text>
+  </g>
+
+  <g id="metric-4">
+    <rect x="950" y="172" width="250" height="220" rx="16" fill="#F4F7FC"/>
+    <rect x="950" y="172" width="6" height="220" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/layout-2" x="978" y="196" width="32" height="32" fill="#0052A6"/>
+    <text x="978" y="278" font-size="42" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">9 大</text>
+    <text x="978" y="308" font-size="16" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Harness 组件</text>
+    <line x1="978" y1="324" x2="1172" y2="324" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="978" y="350" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架的工程抓手</text>
+    <text x="978" y="372" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">CLI/fullcheck/E2E 等</text>
+  </g>
+
+  <g id="takeaway-box">
+    <rect x="80" y="428" width="1120" height="184" rx="16" fill="#0A2A5E"/>
+    <text x="640" y="476" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Harness 先行的真实形态:规模化、可验证、高频协同</text>
+    <line x1="490" y1="500" x2="790" y2="500" stroke="#246BFE" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="640" y="540" font-size="16" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">百万行级代码库 · 三成以上 CLI 化 · 日均数十次 Agent 协同提交</text>
+    <text x="640" y="572" font-size="14" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">这才是"个人提效转化为组织级系统提效"的工程化形态</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">* 以上为行业工程化实践的参考量级,非客户承诺值;实际数值视代码库与团队规模校准</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">22 / 27</text>
+  </g>
+</svg>

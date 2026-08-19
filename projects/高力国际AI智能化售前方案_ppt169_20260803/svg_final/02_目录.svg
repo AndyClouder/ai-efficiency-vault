@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chNumGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#0052A6" />
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="8" fill="#0052A6" />
+    <path fill="#F4F7FC" d="M102,170 H458 A12,12 0 0 1 470,182 V588 A12,12 0 0 1 458,600 H102 A12,12 0 0 1 90,588 V182 A12,12 0 0 1 102,170 Z" />
+  </g>
+
+  <g id="header">
+    <text x="90" y="90" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="3">CONTENTS</text>
+    <text x="90" y="135" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">目录</text>
+  </g>
+
+  <g id="left-intro">
+    <path fill="#246BFE" d="M122,210 H166 A2,2 0 0 1 168,212 V212 A2,2 0 0 1 166,214 H122 A2,2 0 0 1 120,212 V212 A2,2 0 0 1 122,210 Z" />
+    <text x="120" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#17365D">四大章节</text>
+    <text x="120" y="278" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#17365D">构成完整方案叙事</text>
+    <text x="120" y="330" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">从客户理解出发,经总体架构</text>
+    <text x="120" y="354" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">与场景方案,落到价值与实施</text>
+    <text x="120" y="378" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">—— 一条完整的决策支持链。</text>
+    
+  <g transform="translate(120.0, 500.0) scale(1.5)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    <text x="120" y="565" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785">©法本信息版权所有</text>
+  </g>
+
+  <g id="chapter-01">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1.5" d="M522,195 H1178 A12,12 0 0 1 1190,207 V275 A12,12 0 0 1 1178,287 H522 A12,12 0 0 1 510,275 V207 A12,12 0 0 1 522,195 Z" />
+    <path fill="#246BFE" d="M513,195 H513 A3,3 0 0 1 516,198 V284 A3,3 0 0 1 513,287 H513 A3,3 0 0 1 510,284 V198 A3,3 0 0 1 513,195 Z" />
+    <text x="540" y="232" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#chNumGrad)">01</text>
+    <text x="615" y="232" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">客户理解与价值主张</text>
+    <text x="615" y="266" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">Customer Insight · 高力国际定位、四大痛点、价值闭环</text>
+    <text x="1150" y="252" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785" text-anchor="end">P03 — P06</text>
+  </g>
+
+  <g id="chapter-02">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1.5" d="M522,302 H1178 A12,12 0 0 1 1190,314 V382 A12,12 0 0 1 1178,394 H522 A12,12 0 0 1 510,382 V314 A12,12 0 0 1 522,302 Z" />
+    <path fill="#246BFE" d="M513,302 H513 A3,3 0 0 1 516,305 V391 A3,3 0 0 1 513,394 H513 A3,3 0 0 1 510,391 V305 A3,3 0 0 1 513,302 Z" />
+    <text x="540" y="339" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#chNumGrad)">02</text>
+    <text x="615" y="339" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">总体方案架构</text>
+    <text x="615" y="373" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">Overall Solution · 三层架构 + FarAI 产品矩阵映射</text>
+    <text x="1150" y="359" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785" text-anchor="end">P07 — P09</text>
+  </g>
+
+  <g id="chapter-03">
+    <path fill="#0052A6" d="M522,409 H1178 A12,12 0 0 1 1190,421 V489 A12,12 0 0 1 1178,501 H522 A12,12 0 0 1 510,489 V421 A12,12 0 0 1 522,409 Z" />
+    <path fill="#246BFE" d="M513,409 H513 A3,3 0 0 1 516,412 V498 A3,3 0 0 1 513,501 H513 A3,3 0 0 1 510,498 V412 A3,3 0 0 1 513,409 Z" />
+    <text x="540" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#518FEC">03</text>
+    <text x="615" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">四大场景方案</text>
+    <text x="615" y="480" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#B8C7E0">Scenario Solutions · 招聘 / 商机 / 投标 / 营销</text>
+    <text x="1150" y="466" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4" text-anchor="end">P10 — P18</text>
+  </g>
+
+  <g id="chapter-04">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1.5" d="M522,516 H1178 A12,12 0 0 1 1190,528 V596 A12,12 0 0 1 1178,608 H522 A12,12 0 0 1 510,596 V528 A12,12 0 0 1 522,516 Z" />
+    <path fill="#246BFE" d="M513,516 H513 A3,3 0 0 1 516,519 V605 A3,3 0 0 1 513,608 H513 A3,3 0 0 1 510,605 V519 A3,3 0 0 1 513,516 Z" />
+    <text x="540" y="553" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#chNumGrad)">04</text>
+    <text x="615" y="553" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">价值、实施与保障</text>
+    <text x="615" y="587" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">Value &amp; Delivery · 价值矩阵、实施路径、法本保障</text>
+    <text x="1150" y="573" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785" text-anchor="end">P19 — P23</text>
+  </g>
+</svg>

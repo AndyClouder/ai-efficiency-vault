@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine17" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+    <marker id="arrow17" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,1 L8,5 L0,9 Z" fill="#518FEC"/>
+    </marker>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">04 · 怎么稳妥推进</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">先证明价值，再谈规模</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine17)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">卖成果，不卖软件——客户为业务真的变好付费</text>
+  </g>
+
+  <!-- 流程节点 + 箭头 -->
+  <g id="flow-nodes">
+    <line x1="247" y1="225" x2="453" y2="225" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow17)"/>
+    <line x1="537" y1="225" x2="743" y2="225" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow17)"/>
+    <line x1="827" y1="225" x2="1033" y2="225" stroke="#518FEC" stroke-width="3" marker-end="url(#arrow17)"/>
+
+    <circle cx="205" cy="225" r="42" fill="#0052A6"/>
+    <text x="205" y="234" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="24" font-weight="bold" fill="#FFFFFF">01</text>
+
+    <circle cx="495" cy="225" r="42" fill="#0052A6"/>
+    <text x="495" y="234" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="24" font-weight="bold" fill="#FFFFFF">02</text>
+
+    <circle cx="785" cy="225" r="42" fill="#0052A6"/>
+    <text x="785" y="234" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="24" font-weight="bold" fill="#FFFFFF">03</text>
+
+    <circle cx="1075" cy="225" r="42" fill="#0052A6"/>
+    <text x="1075" y="234" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="24" font-weight="bold" fill="#FFFFFF">04</text>
+  </g>
+
+  <!-- 节点到卡的连接虚线 -->
+  <g id="node-card-link">
+    <line x1="205" y1="267" x2="205" y2="300" stroke="#B8C7E0" stroke-width="2" stroke-dasharray="4,4"/>
+    <line x1="495" y1="267" x2="495" y2="300" stroke="#B8C7E0" stroke-width="2" stroke-dasharray="4,4"/>
+    <line x1="785" y1="267" x2="785" y2="300" stroke="#B8C7E0" stroke-width="2" stroke-dasharray="4,4"/>
+    <line x1="1075" y1="267" x2="1075" y2="300" stroke="#B8C7E0" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+
+  <!-- 卡1 业务理解 -->
+  <g id="step-1">
+    <rect x="80" y="300" width="250" height="250" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <circle cx="120" cy="340" r="22" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/search" x="102" y="322" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="156" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">业务理解</text>
+    <line x1="100" y1="372" x2="310" y2="372" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="100" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 钱从哪里来</text>
+    <text x="100" y="436" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 业务卡在哪里</text>
+    <text x="100" y="466" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> AI 该撬哪个环节</text>
+    <rect x="100" y="492" width="210" height="40" rx="8" fill="#0052A6" fill-opacity="0.06"/>
+    <text x="205" y="517" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#0052A6">先找准真问题</text>
+  </g>
+
+  <!-- 卡2 协作搭建 -->
+  <g id="step-2">
+    <rect x="370" y="300" width="250" height="250" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <circle cx="410" cy="340" r="22" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/users" x="392" y="322" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="446" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">协作搭建</text>
+    <line x1="390" y1="372" x2="600" y2="372" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="390" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 业务专家 + FDE 共建</text>
+    <text x="390" y="436" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 搭 Agent / 工作流</text>
+    <text x="390" y="466" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 边搭边用、快速迭代</text>
+    <rect x="390" y="492" width="210" height="40" rx="8" fill="#0052A6" fill-opacity="0.06"/>
+    <text x="495" y="517" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#0052A6">共建而非代建</text>
+  </g>
+
+  <!-- 卡3 质量保障 -->
+  <g id="step-3">
+    <rect x="660" y="300" width="250" height="250" rx="12" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <circle cx="700" cy="340" r="22" fill="#0052A6" fill-opacity="0.10"/>
+    <use data-icon="tabler-outline/circle-check" x="682" y="322" width="36" height="36" fill="#0052A6" stroke-width="2"/>
+    <text x="736" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">质量保障</text>
+    <line x1="680" y1="372" x2="890" y2="372" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="680" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 真实数据生成测试集</text>
+    <text x="680" y="436" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 自动评测体系</text>
+    <text x="680" y="466" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> A/B 对照</text>
+    <rect x="680" y="492" width="210" height="40" rx="8" fill="#0052A6" fill-opacity="0.06"/>
+    <text x="785" y="517" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#0052A6">用数据说话</text>
+  </g>
+
+  <!-- 卡4 结果验证 -->
+  <g id="step-4">
+    <rect x="950" y="300" width="250" height="250" rx="12" fill="#0052A6" fill-opacity="0.05" stroke="#0052A6" stroke-width="1.5"/>
+    <circle cx="990" cy="340" r="22" fill="#0052A6"/>
+    <use data-icon="tabler-outline/target" x="972" y="322" width="36" height="36" fill="#FFFFFF" stroke-width="2"/>
+    <text x="1026" y="347" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#0052A6">结果验证</text>
+    <line x1="970" y1="372" x2="1180" y2="372" stroke="#B8C7E0" stroke-width="1"/>
+    <text x="970" y="406" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A"><tspan fill="#0052A6" font-weight="bold">·</tspan> AI 组 vs 人工组</text>
+    <text x="970" y="436" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A"><tspan fill="#0052A6" font-weight="bold">·</tspan> 逐环节对比</text>
+    <text x="970" y="466" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#25364A"><tspan fill="#0052A6" font-weight="bold">·</tspan> 用业务结果证明价值</text>
+    <rect x="970" y="492" width="210" height="40" rx="8" fill="#0052A6"/>
+    <text x="1075" y="517" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" font-weight="bold" fill="#FFFFFF">客户为变好付费</text>
+  </g>
+
+  <!-- 底部死亡之谷警示带 -->
+  <g id="valley-of-death">
+    <rect x="60" y="572" width="1160" height="72" rx="12" fill="#F59E0B" fill-opacity="0.10"/>
+    <rect x="60" y="572" width="6" height="72" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="84" y="588" width="40" height="40" fill="#F59E0B" stroke-width="2"/>
+    <text x="140" y="604" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" font-weight="bold" fill="#B45309">死亡之谷：试点 → 生产</text>
+    <text x="140" y="630" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#25364A">多数项目死在这里——数据质量被回避、审批流程未打通，Demo 永远停在「挺好用」</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">17 / 26</text>
+  </g>
+</svg>

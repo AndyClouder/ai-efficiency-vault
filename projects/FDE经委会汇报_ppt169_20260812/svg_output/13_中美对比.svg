@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine13" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">硅谷的赚钱模式，国内还远达不到</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine13)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">国内 FDE 和国外「根本不是一回事」——核心挑战是经济性</text>
+  </g>
+
+  <!-- 表头 -->
+  <g id="table-header">
+    <rect x="60" y="165" width="220" height="56" rx="8" fill="#E3E9F2"/>
+    <text x="170" y="199" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#5E6A78">对比维度</text>
+    <rect x="300" y="165" width="440" height="56" rx="8" fill="#0052A6"/>
+    <use data-icon="tabler-outline/star" x="330" y="177" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="540" y="199" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">硅谷标杆</text>
+    <rect x="760" y="165" width="460" height="56" rx="8" fill="#6B7785"/>
+    <text x="990" y="199" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">国内现实</text>
+  </g>
+
+  <!-- 行1 客单价 -->
+  <g id="row-price">
+    <rect x="60" y="231" width="220" height="78" rx="8" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/cash" x="157" y="243" width="26" height="26" fill="#0052A6" stroke-width="2"/>
+    <text x="170" y="293" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#25364A">客单价</text>
+    <rect x="300" y="231" width="440" height="78" rx="8" fill="#0052A6" fill-opacity="0.05"/>
+    <text x="520" y="263" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">六七位数美元 / 年合同</text>
+    <text x="520" y="289" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">单客户百万美元级</text>
+    <rect x="760" y="231" width="460" height="78" rx="8" fill="#F59E0B" fill-opacity="0.07"/>
+    <text x="990" y="263" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#B45309">十万 – 百万人民币</text>
+    <text x="990" y="289" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">差距约 10–100 倍</text>
+  </g>
+
+  <!-- 行2 数据底子 -->
+  <g id="row-data">
+    <rect x="60" y="317" width="220" height="78" rx="8" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/chart-bar" x="157" y="329" width="26" height="26" fill="#0052A6" stroke-width="2"/>
+    <text x="170" y="379" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#25364A">数据底子</text>
+    <rect x="300" y="317" width="440" height="78" rx="8" fill="#0052A6" fill-opacity="0.05"/>
+    <text x="520" y="349" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">ERP / CRM / ITSM 完善</text>
+    <text x="520" y="375" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">数据沉淀深厚、可结构化</text>
+    <rect x="760" y="317" width="460" height="78" rx="8" fill="#F59E0B" fill-opacity="0.07"/>
+    <text x="990" y="349" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#B45309">流程写在默契里</text>
+    <text x="990" y="375" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">数据散落、未结构化</text>
+  </g>
+
+  <!-- 行3 标杆投入 -->
+  <g id="row-benchmark">
+    <rect x="60" y="403" width="220" height="78" rx="8" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/building-factory" x="157" y="415" width="26" height="26" fill="#0052A6" stroke-width="2"/>
+    <text x="170" y="465" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#25364A">标杆投入</text>
+    <rect x="300" y="403" width="440" height="78" rx="8" fill="#0052A6" fill-opacity="0.05"/>
+    <text x="520" y="435" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">Palantir 本体层 10+ 年</text>
+    <text x="520" y="461" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">数百工程师 · 0.3％ 录用率</text>
+    <rect x="760" y="403" width="460" height="78" rx="8" fill="#F59E0B" fill-opacity="0.07"/>
+    <text x="990" y="435" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#B45309">无法复制</text>
+    <text x="990" y="461" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">投入差几个数量级</text>
+  </g>
+
+  <!-- 行4 核心挑战 -->
+  <g id="row-challenge">
+    <rect x="60" y="489" width="220" height="78" rx="8" fill="#F4F7FC"/>
+    <use data-icon="tabler-outline/target" x="157" y="501" width="26" height="26" fill="#0052A6" stroke-width="2"/>
+    <text x="170" y="551" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" font-weight="bold" fill="#25364A">核心挑战</text>
+    <rect x="300" y="489" width="440" height="78" rx="8" fill="#0E9F6E" fill-opacity="0.08"/>
+    <text x="520" y="521" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#0E9F6E">高毛利已验证</text>
+    <text x="520" y="547" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">82％ 标杆成立</text>
+    <rect x="760" y="489" width="460" height="78" rx="8" fill="#F59E0B" fill-opacity="0.07"/>
+    <text x="990" y="521" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#B45309">经济性</text>
+    <text x="990" y="547" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="13" fill="#6B7785">账要算得过来</text>
+  </g>
+
+  <!-- 底部强调 -->
+  <g id="summary-band">
+    <rect x="60" y="585" width="1160" height="60" rx="12" fill="#25364A"/>
+    <text x="640" y="622" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#FFFFFF">结论：硅谷模式不能照搬，国内 FDE 必须找到自己的经济模型</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">13 / 26</text>
+  </g>
+</svg>

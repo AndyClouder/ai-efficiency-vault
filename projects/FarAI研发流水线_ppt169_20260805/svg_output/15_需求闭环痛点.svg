@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowSmall1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L9,4.5 L0,9 Z" fill="#0052A6"/>
+    </marker>
+    <marker id="arrowWarn1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L9,4.5 L0,9 Z" fill="#F59E0B"/>
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <circle cx="118" cy="92" r="14" fill="#0052A6"/>
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S1</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">需求不清反复返工,PRD 进开发前没和真实系统碰撞</text>
+  </g>
+
+  <g id="pain-section">
+    <rect x="80" y="136" width="1120" height="116" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="136" width="6" height="116" rx="3" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="110" y="156" width="30" height="30" fill="#F59E0B"/>
+    <text x="150" y="178" font-size="18" font-weight="bold" fill="#F59E0B" font-family="Microsoft YaHei, Arial, sans-serif">痛点</text>
+    <text x="150" y="210" font-size="15" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">产品闭门写 PRD → 进开发才发现接口不存在 / 数据结构不符 / 边界没想清 → 返工 → 排期延误</text>
+    <text x="150" y="236" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">需求阶段的返工,是组织提效最大的隐形漏斗</text>
+  </g>
+
+  <g id="flow-label">
+    <text x="80" y="292" font-size="16" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">现状流程 vs FarAI 流程</text>
+  </g>
+
+  <g id="current-flow">
+    <text x="80" y="328" font-size="14" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">现状</text>
+    <rect x="130" y="312" width="100" height="36" rx="6" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="180" y="336" font-size="13" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品写PRD</text>
+    <line x1="232" y1="330" x2="252" y2="330" stroke="#F59E0B" stroke-width="2" marker-end="url(#arrowWarn1)"/>
+    <rect x="252" y="312" width="100" height="36" rx="6" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="302" y="336" font-size="13" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">评审</text>
+    <line x1="354" y1="330" x2="374" y2="330" stroke="#F59E0B" stroke-width="2" marker-end="url(#arrowWarn1)"/>
+    <rect x="374" y="312" width="100" height="36" rx="6" fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="424" y="336" font-size="13" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">开发</text>
+    <line x1="476" y1="330" x2="496" y2="330" stroke="#F59E0B" stroke-width="2" marker-end="url(#arrowWarn1)"/>
+    <rect x="496" y="312" width="120" height="36" rx="6" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+    <text x="556" y="336" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">发现问题</text>
+    <line x1="618" y1="330" x2="638" y2="330" stroke="#F59E0B" stroke-width="2" marker-end="url(#arrowWarn1)"/>
+    <rect x="638" y="312" width="100" height="36" rx="6" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2"/>
+    <text x="688" y="336" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">返工</text>
+  </g>
+
+  <g id="farai-flow">
+    <text x="80" y="416" font-size="14" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">FarAI</text>
+    <rect x="130" y="400" width="110" height="36" rx="6" fill="#0052A6"/>
+    <text x="185" y="424" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品提需求</text>
+    <line x1="242" y1="418" x2="262" y2="418" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowSmall1)"/>
+    <rect x="262" y="400" width="180" height="36" rx="6" fill="#246BFE"/>
+    <text x="352" y="424" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">编码 Agent 反读代码</text>
+    <line x1="444" y1="418" x2="464" y2="418" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowSmall1)"/>
+    <rect x="464" y="400" width="180" height="36" rx="6" fill="#246BFE"/>
+    <text x="554" y="424" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Agent 反向提问</text>
+    <line x1="646" y1="418" x2="666" y2="418" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowSmall1)"/>
+    <rect x="666" y="400" width="190" height="36" rx="6" fill="#0052A6"/>
+    <text x="761" y="424" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品澄清边界/异常</text>
+    <line x1="858" y1="418" x2="878" y2="418" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowSmall1)"/>
+    <rect x="878" y="400" width="280" height="36" rx="6" fill="#0E9F6E"/>
+    <text x="1018" y="424" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">高质量 PRD + 验收标准 + 契约</text>
+  </g>
+
+  <g id="output-card">
+    <rect x="80" y="468" width="1120" height="160" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="468" width="6" height="160" rx="3" fill="#0052A6"/>
+    <use data-icon="tabler-outline/file-text" x="110" y="488" width="28" height="28" fill="#0052A6"/>
+    <text x="148" y="510" font-size="16" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">输出物</text>
+    <line x1="110" y1="528" x2="1180" y2="528" stroke="#E3E9F2" stroke-width="1"/>
+    <rect x="110" y="548" width="220" height="56" rx="10" fill="#FFFFFF"/>
+    <text x="220" y="572" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">高质量 PRD</text>
+    <text x="220" y="592" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">边界/异常/状态流已澄清</text>
+    <rect x="350" y="548" width="220" height="56" rx="10" fill="#FFFFFF"/>
+    <text x="460" y="572" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">澄清问题清单</text>
+    <text x="460" y="592" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">Agent 反向推动</text>
+    <rect x="590" y="548" width="220" height="56" rx="10" fill="#FFFFFF"/>
+    <text x="700" y="572" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">验收标准</text>
+    <text x="700" y="592" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">可验证的验收点</text>
+    <rect x="830" y="548" width="240" height="56" rx="10" fill="#FFFFFF"/>
+    <text x="950" y="572" font-size="14" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">需求契约</text>
+    <text x="950" y="592" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">契约驱动开发</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第四章 · S1 智能需求闭环</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">15 / 30</text>
+  </g>
+</svg>

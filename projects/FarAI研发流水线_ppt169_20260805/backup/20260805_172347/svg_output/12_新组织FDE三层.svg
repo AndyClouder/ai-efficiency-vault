@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowFlowDown" markerWidth="10" markerHeight="10" refX="5" refY="9" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L5,9 L10,0 Z" fill="#246BFE"/>
+    </marker>
+    <marker id="arrowFlowUp" markerWidth="10" markerHeight="10" refX="5" refY="1" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,10 L5,1 L10,10 Z" fill="#0E9F6E"/>
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">新组织 —— FDE 团队、产品团队、平台团队三层协同</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">三层不是上下级审批关系,而是基于资产和智能体协同的能力流动关系</text>
+  </g>
+
+  <g id="layer-fde">
+    <rect x="80" y="160" width="1000" height="128" rx="14" fill="#0052A6"/>
+    <rect x="80" y="160" width="6" height="128" rx="3" fill="#DCE6FB"/>
+    <use data-icon="tabler-outline/bolt" x="108" y="182" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="194" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第一层 · 前置到业务</text>
+    <text x="156" y="226" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">FDE 团队(快速交付探索)</text>
+    <text x="156" y="256" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">3-5 人小队,前置到业务场景,围绕需求澄清 · 快速原型 · 契约驱动开发 · 交付验收 · 价值反馈形成闭环</text>
+    <text x="156" y="278" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">含 Product/Application/Agent Builder,临时引入 Test/Platform 支持 · 多个小队组成 FDE 领域团队</text>
+
+    <g id="fde-tag">
+      <rect x="900" y="184" width="160" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.15"/>
+      <text x="980" y="206" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">让业务变化快速变软件</text>
+    </g>
+  </g>
+
+  <g id="flow-down-1">
+    <line x1="580" y1="292" x2="580" y2="316" stroke="#246BFE" stroke-width="2" marker-end="url(#arrowFlowDown)"/>
+    <text x="600" y="308" font-size="11" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">代码贡献 + 场景经验</text>
+  </g>
+
+  <g id="layer-product">
+    <rect x="80" y="320" width="1000" height="128" rx="14" fill="#246BFE"/>
+    <rect x="80" y="320" width="6" height="128" rx="3" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/layout-2" x="108" y="342" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="354" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第二层 · 面向业务应用</text>
+    <text x="156" y="386" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">产品团队(产品化沉淀 · 复审熵减)</text>
+    <text x="156" y="416" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">负责产品架构 · 复杂共性需求 · 代码复审 · 重构优化 · 技术债治理 · 测试强化 · 版本发布</text>
+    <text x="156" y="438" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">FDE 的快速修改不能停留在局部最优 → 产品团队复审、吸收、重构、熵减,把一线创新沉淀为产品能力</text>
+
+    <g id="product-tag">
+      <rect x="900" y="344" width="160" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.15"/>
+      <text x="980" y="366" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">承担产品长期健康</text>
+    </g>
+  </g>
+
+  <g id="flow-down-2">
+    <line x1="580" y1="452" x2="580" y2="476" stroke="#246BFE" stroke-width="2" marker-end="url(#arrowFlowDown)"/>
+    <text x="600" y="468" font-size="11" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">共性能力 + 平台改动</text>
+  </g>
+
+  <g id="layer-platform">
+    <rect x="80" y="480" width="1000" height="128" rx="14" fill="#518FEC"/>
+    <rect x="80" y="480" width="6" height="128" rx="3" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/server" x="108" y="502" width="36" height="36" fill="#FFFFFF"/>
+    <text x="156" y="514" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">第三层 · 提供底座能力</text>
+    <text x="156" y="546" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">平台团队(底座化沉淀 · 组织级复用)</text>
+    <text x="156" y="576" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">AI 平台 · 数据平台 · 知识平台 · 应用平台 · 工程平台,以工具、接口、Skill、规则、服务方式提供</text>
+    <text x="156" y="598" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">多个小队组成,围绕一类平台能力持续演进 · 让组织不必在每个产品、每个小队重复建设底层</text>
+
+    <g id="platform-tag">
+      <rect x="900" y="504" width="160" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.2"/>
+      <text x="980" y="526" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">组织级能力复用</text>
+    </g>
+  </g>
+
+  <g id="side-flow">
+    <rect x="1100" y="160" width="100" height="448" rx="14" fill="#F4F7FC"/>
+    <text x="1150" y="200" font-size="13" font-weight="bold" fill="#246BFE" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">↓ 沉淀</text>
+    <line x1="1140" y1="370" x2="1160" y2="370" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1150" y="396" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">一线变化</text>
+    <text x="1150" y="414" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">→ 产品能力</text>
+    <text x="1150" y="432" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">→ 平台能力</text>
+    <line x1="1140" y1="470" x2="1160" y2="470" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1150" y="540" font-size="13" font-weight="bold" fill="#0E9F6E" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">↑ 反哺</text>
+    <text x="1150" y="566" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">平台推回产品</text>
+    <text x="1150" y="584" font-size="11" fill="#6B7785" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">产品推回一线</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第三章 · 组织重塑 · FDE 是把"个人提效"转化为"组织系统提效"的组织载体</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">12 / 30</text>
+  </g>
+</svg>

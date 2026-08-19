@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">01 客户理解</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">四大业务痛点 — 高力国际的 AI 切入点</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">招聘、商机、客户、营销四个环节存在明确的人工瓶颈,正是 AI 的高价值切入点</text>
+  </g>
+
+  <g id="pain-1">
+    <rect x="60" y="180" width="570" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="180" width="6" height="225" rx="3" fill="#246BFE"/>
+    <circle cx="108" cy="228" r="26" fill="#246BFE"/>
+    <use data-icon="tabler-outline/users" x="92" y="212" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="150" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE">痛点 01 · 招聘</text>
+    <text x="150" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">招聘量大、流动频繁</text>
+    <text x="92" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">保安、保洁等基层岗位 <tspan font-weight="bold" fill="#0052A6">量大、流动性高</tspan>,</text>
+    <text x="92" y="325" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">招聘人员需长期在 58 同城等平台</text>
+    <text x="92" y="350" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">重复发布岗位、筛选人员和沟通邀约。</text>
+    <rect x="92" y="370" width="120" height="22" rx="11" fill="#246BFE" fill-opacity="0.12"/>
+    <text x="152" y="385" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#246BFE" text-anchor="middle">→ 智能招聘</text>
+  </g>
+
+  <g id="pain-2">
+    <rect x="650" y="180" width="570" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="650" y="180" width="6" height="225" rx="3" fill="#0E9F6E"/>
+    <circle cx="698" cy="228" r="26" fill="#0E9F6E"/>
+    <use data-icon="tabler-outline/search" x="682" y="212" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="740" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0E9F6E">痛点 02 · 商机</text>
+    <text x="740" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">商机分散、人工易漏</text>
+    <text x="682" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">商业地产商机分散在政府网站、招投标</text>
+    <text x="682" y="325" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">平台、短视频、招聘等多渠道, <tspan font-weight="bold" fill="#0052A6">人工收集</tspan></text>
+    <text x="682" y="350" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A"><tspan font-weight="bold" fill="#0052A6">效率低、易遗漏</tspan> 重要项目。</text>
+    <rect x="682" y="370" width="120" height="22" rx="11" fill="#0E9F6E" fill-opacity="0.12"/>
+    <text x="742" y="385" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#0E9F6E" text-anchor="middle">→ 智能商机</text>
+  </g>
+
+  <g id="pain-3">
+    <rect x="60" y="425" width="570" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="425" width="6" height="225" rx="3" fill="#F59E0B"/>
+    <circle cx="108" cy="473" r="26" fill="#F59E0B"/>
+    <use data-icon="tabler-outline/network" x="92" y="457" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="150" y="467" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">痛点 03 · 客户</text>
+    <text x="150" y="495" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">客户分散、难归并</text>
+    <text x="92" y="545" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">同一楼宇/园区被多名销售分散跟进,</text>
+    <text x="92" y="570" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A"><tspan font-weight="bold" fill="#0052A6">难识别同一客户</tspan>、<tspan font-weight="bold" fill="#0052A6">难还原决策链</tspan>。</text>
+    <rect x="92" y="595" width="158" height="22" rx="11" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="171" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B" text-anchor="middle">→ 投标+客户归并</text>
+  </g>
+
+  <g id="pain-4">
+    <rect x="650" y="425" width="570" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="650" y="425" width="6" height="225" rx="3" fill="#20A7B8"/>
+    <circle cx="698" cy="473" r="26" fill="#20A7B8"/>
+    <use data-icon="tabler-outline/headset" x="682" y="457" width="32" height="32" fill="#FFFFFF" stroke-width="2"/>
+    <text x="740" y="467" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#20A7B8">痛点 04 · 营销</text>
+    <text x="740" y="495" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">录音量大、难回听</text>
+    <text x="682" y="545" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">销售录音数量大,依赖人工回听,</text>
+    <text x="682" y="570" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">话术规范、客户意向、商机 <tspan font-weight="bold" fill="#0052A6">难快速判断</tspan>。</text>
+    <rect x="682" y="595" width="120" height="22" rx="11" fill="#20A7B8" fill-opacity="0.14"/>
+    <text x="742" y="610" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#20A7B8" text-anchor="middle">→ 智能营销</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">05</text>
+  </g>
+</svg>

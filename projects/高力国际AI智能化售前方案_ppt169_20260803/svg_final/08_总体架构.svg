@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">02 总体方案</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">总体架构 — FarAI 底座 × 四大场景 × 系统集成</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">以 FarAgent 平台为统一底座,向上承载四大场景,向下集成客户现有系统,形成端到端能力</text>
+  </g>
+
+  <g id="layer-integration">
+    <text x="60" y="192" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC" letter-spacing="2">集成层 · INTEGRATION</text>
+    <path fill="#F4F7FC" stroke="#518FEC" stroke-width="1.5" stroke-dasharray="6 4" d="M70,205 H1210 A10,10 0 0 1 1220,215 V257 A10,10 0 0 1 1210,267 H70 A10,10 0 0 1 60,257 V215 A10,10 0 0 1 70,205 Z" />
+    
+  <g transform="translate(140.0, 223.0) scale(1.1666666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="178" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">CRM 系统</text>
+    
+  <g transform="translate(370.0, 223.0) scale(1.1666666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="408" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">招聘系统</text>
+    
+  <g transform="translate(600.0, 223.0) scale(1.1666666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="638" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">投标系统</text>
+    
+  <g transform="translate(830.0, 223.0) scale(1.1666666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M8 9h8" />
+    <path d="M8 13h6" />
+    <path d="M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12" />
+  </g>
+    <text x="868" y="243" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#17365D">企业微信 / OA</text>
+  </g>
+
+  <g id="connector-up">
+    <line x1="640" y1="267" x2="640" y2="298" stroke="#518FEC" stroke-width="2" stroke-dasharray="4 3" />
+  </g>
+
+  <g id="layer-scenarios">
+    <text x="60" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE" letter-spacing="2">场景层 · SCENARIOS</text>
+    <path fill="#246BFE" d="M72,331 H326 A12,12 0 0 1 338,343 V454 A12,12 0 0 1 326,466 H72 A12,12 0 0 1 60,454 V343 A12,12 0 0 1 72,331 Z" />
+    
+  <g transform="translate(80.0, 351.0) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="120" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能招聘</text>
+    <text x="80" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">JD生成·简历匹配</text>
+    <text x="80" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">AI面试·招聘机器人</text>
+    <text x="80" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">人才库沉淀</text>
+
+    <path fill="#0052A6" d="M366,331 H620 A12,12 0 0 1 632,343 V454 A12,12 0 0 1 620,466 H366 A12,12 0 0 1 354,454 V343 A12,12 0 0 1 366,331 Z" />
+    
+  <g transform="translate(374.0, 351.0) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+  </g>
+    <text x="414" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能商机</text>
+    <text x="374" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">多源采集·解析</text>
+    <text x="374" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">商机评分·自动分配</text>
+    <text x="374" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">去重·来源追溯</text>
+
+    <path fill="#246BFE" d="M660,331 H914 A12,12 0 0 1 926,343 V454 A12,12 0 0 1 914,466 H660 A12,12 0 0 1 648,454 V343 A12,12 0 0 1 660,331 Z" />
+    
+  <g transform="translate(668.0, 351.0) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="708" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能投标+客户归并</text>
+    <text x="668" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">标书全流程</text>
+    <text x="668" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">主体识别·决策链</text>
+    <text x="668" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">统一客户视图</text>
+
+    <path fill="#0052A6" d="M954,331 H1208 A12,12 0 0 1 1220,343 V454 A12,12 0 0 1 1208,466 H954 A12,12 0 0 1 942,454 V343 A12,12 0 0 1 954,331 Z" />
+    
+  <g transform="translate(962.0, 351.0) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 14v-3a8 8 0 1 1 16 0v3" />
+    <path d="M18 19c0 1.657 -2.686 3 -6 3" />
+    <path d="M4 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+    <path d="M15 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+  </g>
+    <text x="1002" y="372" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">智能营销录音</text>
+    <text x="962" y="408" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">转写·十维分析</text>
+    <text x="962" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">话术沉淀·质量评分</text>
+    <text x="962" y="452" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#DCE6FB">客户档案联动</text>
+  </g>
+
+  <g id="connector-down">
+    <line x1="640" y1="466" x2="640" y2="497" stroke="#246BFE" stroke-width="2" stroke-dasharray="4 3" />
+  </g>
+
+  <g id="layer-base">
+    <text x="60" y="517" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0052A6" letter-spacing="2">底座 · FarAgent PLATFORM</text>
+    <path fill="#17365D" d="M72,530 H1208 A12,12 0 0 1 1220,542 V618 A12,12 0 0 1 1208,630 H72 A12,12 0 0 1 60,618 V542 A12,12 0 0 1 72,530 Z" />
+    
+  <g transform="translate(90.0, 552.0) scale(1.4166666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M15.5 13a3.5 3.5 0 0 0 -3.5 3.5v1a3.5 3.5 0 0 0 7 0v-1.8" />
+    <path d="M8.5 13a3.5 3.5 0 0 1 3.5 3.5v1a3.5 3.5 0 0 1 -7 0v-1.8" />
+    <path d="M17.5 16a3.5 3.5 0 0 0 0 -7h-.5" />
+    <path d="M19 9.3v-2.8a3.5 3.5 0 0 0 -7 0" />
+    <path d="M6.5 16a3.5 3.5 0 0 1 0 -7h.5" />
+    <path d="M5 9.3v-2.8a3.5 3.5 0 0 1 7 0v10" />
+  </g>
+    <text x="134" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">FarAgent 平台</text>
+    <text x="134" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">任务调度 · 分层记忆 · 进化引擎</text>
+
+    
+  <g transform="translate(380.0, 552.0) scale(1.4166666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7" />
+    <path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3" />
+    <path d="M9.7 17l4.6 0" />
+  </g>
+    <text x="424" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">大模型</text>
+    <text x="424" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">语义理解 · 推理 · 生成</text>
+
+    
+  <g transform="translate(650.0, 552.0) scale(1.4166666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M8 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h5.697" />
+    <path d="M18 14v4h4" />
+    <path d="M18 11v-4a2 2 0 0 0 -2 -2h-2" />
+    <path d="M8 5a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2" />
+    <path d="M14 18a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M8 11h4" />
+    <path d="M8 15h3" />
+  </g>
+    <text x="694" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">企业知识库</text>
+    <text x="694" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">资质·标书·人才·客户资产</text>
+
+    
+  <g transform="translate(940.0, 552.0) scale(1.4166666666666667)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="984" y="575" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">数据接入</text>
+    <text x="984" y="600" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">多平台采集 · 工作流编排</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">08</text>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="mapArrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M 0,0 L 9,4.5 L 0,9 Z" fill="#F59E0B"/>
+    </marker>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">02 总体方案</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">FarAI 1+4+X 产品矩阵 → 高力国际四大场景</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">法本 FarAI 现成的四大产品能力直接映射高力四大需求,无需从零建设</text>
+  </g>
+
+  <g id="card-1">
+    <rect x="60" y="185" width="278" height="335" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="185" width="278" height="54" rx="12" fill="#246BFE"/>
+    <rect x="60" y="225" width="278" height="14" fill="#246BFE"/>
+    <text x="80" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FARAI 产品</text>
+    <use data-icon="tabler-outline/users" x="240" y="197" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+
+    <text x="80" y="275" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">GPTRecruit</text>
+    <text x="80" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">招聘全流程产品</text>
+    <line x1="80" y1="315" x2="150" y2="315" stroke="#246BFE" stroke-width="2"/>
+
+    <text x="80" y="345" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• JD 智能生成</text>
+    <text x="80" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 简历精准匹配</text>
+    <text x="80" y="395" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• AI 面试</text>
+    <text x="80" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 招聘机器人</text>
+
+    <line x1="199" y1="455" x2="199" y2="485" stroke="#F59E0B" stroke-width="2.5" marker-end="url(#mapArrow)"/>
+    <rect x="80" y="490" width="238" height="20" rx="10" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="199" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle">→ 智能招聘</text>
+  </g>
+
+  <g id="card-2">
+    <rect x="354" y="185" width="278" height="335" rx="12" fill="#F4F7FC"/>
+    <rect x="354" y="185" width="278" height="54" rx="12" fill="#0E9F6E"/>
+    <rect x="354" y="225" width="278" height="14" fill="#0E9F6E"/>
+    <text x="374" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FARAI 新建</text>
+    <use data-icon="tabler-outline/search" x="534" y="197" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+
+    <text x="374" y="275" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">FarAI 商机引擎</text>
+    <text x="374" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">面向市场部新建</text>
+    <line x1="374" y1="315" x2="444" y2="315" stroke="#0E9F6E" stroke-width="2"/>
+
+    <text x="374" y="345" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 多源全量采集</text>
+    <text x="374" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 非结构化解析</text>
+    <text x="374" y="395" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 商机价值评分</text>
+    <text x="374" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 自动分配商务</text>
+
+    <line x1="493" y1="455" x2="493" y2="485" stroke="#F59E0B" stroke-width="2.5" marker-end="url(#mapArrow)"/>
+    <rect x="374" y="490" width="238" height="20" rx="10" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="493" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle">→ 智能商机识别</text>
+  </g>
+
+  <g id="card-3">
+    <rect x="648" y="185" width="278" height="335" rx="12" fill="#F4F7FC"/>
+    <rect x="648" y="185" width="278" height="54" rx="12" fill="#F59E0B"/>
+    <rect x="648" y="225" width="278" height="14" fill="#F59E0B"/>
+    <text x="668" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FARAI 增强</text>
+    <use data-icon="tabler-outline/file-text" x="828" y="197" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+
+    <text x="668" y="275" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">GPTBidder + 归并</text>
+    <text x="668" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">投标 + 客户归并增强</text>
+    <line x1="668" y1="315" x2="738" y2="315" stroke="#F59E0B" stroke-width="2"/>
+
+    <text x="668" y="345" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 标书全流程</text>
+    <text x="668" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 客户主体识别</text>
+    <text x="668" y="395" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 决策链梳理</text>
+    <text x="668" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 统一客户视图</text>
+
+    <line x1="787" y1="455" x2="787" y2="485" stroke="#F59E0B" stroke-width="2.5" marker-end="url(#mapArrow)"/>
+    <rect x="668" y="490" width="238" height="20" rx="10" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="787" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle">→ 投标+客户归并</text>
+  </g>
+
+  <g id="card-4">
+    <rect x="942" y="185" width="278" height="335" rx="12" fill="#F4F7FC"/>
+    <rect x="942" y="185" width="278" height="54" rx="12" fill="#20A7B8"/>
+    <rect x="942" y="225" width="278" height="14" fill="#20A7B8"/>
+    <text x="962" y="220" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FARAI 新建</text>
+    <use data-icon="tabler-outline/headset" x="1122" y="197" width="30" height="30" fill="#FFFFFF" stroke-width="2"/>
+
+    <text x="962" y="275" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">FarAI 录音分析</text>
+    <text x="962" y="300" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">营销录音分析新建</text>
+    <line x1="962" y1="315" x2="1032" y2="315" stroke="#20A7B8" stroke-width="2"/>
+
+    <text x="962" y="345" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 语音转写</text>
+    <text x="962" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 十维深度分析</text>
+    <text x="962" y="395" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 话术沉淀</text>
+    <text x="962" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#25364A">• 客户档案联动</text>
+
+    <line x1="1081" y1="455" x2="1081" y2="485" stroke="#F59E0B" stroke-width="2.5" marker-end="url(#mapArrow)"/>
+    <rect x="962" y="490" width="238" height="20" rx="10" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="1081" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle">→ 智能营销</text>
+  </g>
+
+  <g id="base-banner">
+    <rect x="60" y="545" width="1160" height="80" rx="12" fill="#17365D"/>
+    <use data-icon="tabler-outline/brain" x="84" y="568" width="34" height="34" fill="#518FEC" stroke-width="2"/>
+    <text x="130" y="577" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#518FEC" letter-spacing="1">统一底座</text>
+    <text x="130" y="604" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">FarAgent 平台 · 自主规划 / 沙盒执行 / 分层记忆 / 权限管理</text>
+    <text x="1050" y="590" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">生态:</text>
+    <text x="1050" y="612" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#B8C7E0">信通院·智谱·华为·哈工大</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">09</text>
+  </g>
+</svg>

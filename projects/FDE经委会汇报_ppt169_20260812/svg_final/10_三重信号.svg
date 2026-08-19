@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">02 · 机会与销毛潜力</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">招聘、大厂、政策三重信号——不是我们在追风口</text>
+    <path fill="url(#accentLine10)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">三股力量同时指向同一个方向：FDE 已成行业共识</text>
+  </g>
+
+  
+  <g id="signal-hiring">
+    <path fill="#F4F7FC" d="M72,175 H1208 A12,12 0 0 1 1220,187 V283 A12,12 0 0 1 1208,295 H72 A12,12 0 0 1 60,283 V187 A12,12 0 0 1 72,175 Z" />
+    <path fill="#246BFE" d="M63,175 H63 A3,3 0 0 1 66,178 V292 A3,3 0 0 1 63,295 H63 A3,3 0 0 1 60,292 V178 A3,3 0 0 1 63,175 Z" />
+    <circle cx="124" cy="235" r="32" fill="#246BFE" fill-opacity="0.12" />
+    
+  <g transform="translate(100.0, 211.0) scale(2.0)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M3 17l6 -6l4 4l8 -8" />
+    <path d="M14 7l7 0l0 7" />
+  </g>
+    <text x="180" y="228" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">招聘信号</text>
+    <text x="180" y="252" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785">海外岗位</text>
+    <text x="300" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="600" fill="#25364A">海外 FDE 岗位一年猛增</text>
+    <text x="300" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">643 个 → 5330 个 · 平均年薪约 19.6 万美元</text>
+    <text x="1190" y="252" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="42" font-weight="bold" fill="#246BFE">+729％</text>
+  </g>
+
+  
+  <g id="signal-bigtech">
+    <path fill="#F4F7FC" d="M72,317 H1208 A12,12 0 0 1 1220,329 V425 A12,12 0 0 1 1208,437 H72 A12,12 0 0 1 60,425 V329 A12,12 0 0 1 72,317 Z" />
+    <path fill="#0052A6" d="M63,317 H63 A3,3 0 0 1 66,320 V434 A3,3 0 0 1 63,437 H63 A3,3 0 0 1 60,434 V320 A3,3 0 0 1 63,317 Z" />
+    <circle cx="124" cy="377" r="32" fill="#0052A6" fill-opacity="0.12" />
+    
+  <g transform="translate(100.0, 353.0) scale(2.0)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="180" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">大厂下场</text>
+    <text x="180" y="394" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785">真金白银</text>
+    <text x="300" y="364" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="600" fill="#25364A">AWS 投 10 亿美元组建企业交付团队</text>
+    <text x="300" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">OpenAI、Anthropic 直接做企业交付，不再只卖 API</text>
+    <text x="1190" y="394" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="42" font-weight="bold" fill="#0052A6">$10亿</text>
+  </g>
+
+  
+  <g id="signal-policy">
+    <path fill="#0E9F6E" fill-opacity="0.06" d="M72,459 H1208 A12,12 0 0 1 1220,471 V567 A12,12 0 0 1 1208,579 H72 A12,12 0 0 1 60,567 V471 A12,12 0 0 1 72,459 Z" />
+    <path fill="#0E9F6E" d="M63,459 H63 A3,3 0 0 1 66,462 V576 A3,3 0 0 1 63,579 H63 A3,3 0 0 1 60,576 V462 A3,3 0 0 1 63,459 Z" />
+    <circle cx="124" cy="519" r="32" fill="#0E9F6E" fill-opacity="0.14" />
+    
+  <g transform="translate(100.0, 495.0) scale(2.0)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M12 15a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+    <path d="M13 17.5v4.5l2 -1.5l2 1.5v-4.5" />
+    <path d="M10 19h-5a2 2 0 0 1 -2 -2v-10c0 -1.1 .9 -2 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -1 1.73" />
+    <path d="M6 9l12 0" />
+    <path d="M6 12l3 0" />
+    <path d="M6 15l2 0" />
+  </g>
+    <text x="180" y="512" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#25364A">政策信号</text>
+    <text x="180" y="536" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#6B7785">产业共识</text>
+    <text x="300" y="506" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="600" fill="#25364A">上海全国首个将 FDE 写入产业政策</text>
+    <text x="300" y="534" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">2026 年 1 月 · 标志 FDE 从市场行为升级为产业方向</text>
+    <text x="1190" y="536" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="34" font-weight="bold" fill="#0E9F6E">全国首个</text>
+  </g>
+
+  
+  <g id="summary-band">
+    <path fill="#0052A6" d="M72,598 H1208 A12,12 0 0 1 1220,610 V646 A12,12 0 0 1 1208,658 H72 A12,12 0 0 1 60,646 V610 A12,12 0 0 1 72,598 Z" />
+    
+  <g transform="translate(84.0, 614.0) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    <text x="126" y="636" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF">FDE 已成行业共识，角色还在升级：从 FDE → FDX「外置 CEO」</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">10 / 26</text>
+  </g>
+</svg>

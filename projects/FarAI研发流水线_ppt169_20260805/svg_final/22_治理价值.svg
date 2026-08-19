@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <circle cx="118" cy="92" r="14" fill="#0A2A5E" />
+    <text x="118" y="98" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S4</text>
+    <text x="146" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">先建安全网,再放大自主度,让速度质量责任价值同时可控</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">风险分级决定自主度,效能度量决定投入产出</text>
+  </g>
+
+  <g id="capability-block">
+    <path fill="#F4F7FC" d="M96,160 H704 A16,16 0 0 1 720,176 V604 A16,16 0 0 1 704,620 H96 A16,16 0 0 1 80,604 V176 A16,16 0 0 1 96,160 Z" />
+    
+  <g transform="translate(108.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" />
+  </g>
+    <text x="150" y="208" font-size="20" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 能力</text>
+    <line x1="108" y1="232" x2="692" y2="232" stroke="#E3E9F2" stroke-width="1" />
+
+    <g id="cap-1">
+      <circle cx="124" cy="280" r="14" fill="#0052A6" />
+      <text x="124" y="286" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">1</text>
+      
+  <g transform="translate(148.0, 264.0) scale(1.0833333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+      <text x="182" y="284" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">风险分级行权</text>
+      <text x="182" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">低风险 Agent 自主 · 中风险确认 · 高风险(资金/权限/隐私)人工把关</text>
+    </g>
+
+    <g id="cap-2">
+      <circle cx="124" cy="360" r="14" fill="#0052A6" />
+      <text x="124" y="366" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">2</text>
+      
+  <g transform="translate(148.0, 344.0) scale(1.0833333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M7 15h-3a1 1 0 0 1 -1 -1v-8a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v3" />
+    <path d="M7 10a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -8" />
+    <path d="M12 14a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+  </g>
+      <text x="182" y="364" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">AI FinOps</text>
+      <text x="182" y="388" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Token/Agent 执行成本/成功率/返工率/缺陷率全量度量</text>
+    </g>
+
+    <g id="cap-3">
+      <circle cx="124" cy="440" r="14" fill="#0052A6" />
+      <text x="124" y="446" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">3</text>
+      
+  <g transform="translate(148.0, 424.0) scale(1.0833333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M3 13a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -6" />
+    <path d="M15 9a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -10" />
+    <path d="M9 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -14" />
+    <path d="M4 20h14" />
+  </g>
+      <text x="182" y="444" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">效能度量</text>
+      <text x="182" y="468" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">交付周期/吞吐/测试覆盖/上线后价值,工具使用量 → 真实影响</text>
+    </g>
+
+    <g id="cap-4">
+      <circle cx="124" cy="520" r="14" fill="#0052A6" />
+      <text x="124" y="526" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">4</text>
+      
+  <g transform="translate(148.0, 504.0) scale(1.0833333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
+  </g>
+      <text x="182" y="524" font-size="16" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">能力差异洞察</text>
+      <text x="182" y="548" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">同样工具不同用法,定位培训/Skill 复用/团队建设重点</text>
+    </g>
+  </g>
+
+  <g id="value-block">
+    <path fill="#0A2A5E" d="M756,160 H1184 A16,16 0 0 1 1200,176 V604 A16,16 0 0 1 1184,620 H756 A16,16 0 0 1 740,604 V176 A16,16 0 0 1 756,160 Z" />
+    
+  <g transform="translate(768.0, 184.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 17l6 -6l4 4l8 -8" />
+    <path d="M14 7l7 0l0 7" />
+  </g>
+    <text x="810" y="208" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">价值</text>
+    <line x1="768" y1="232" x2="1172" y2="232" stroke="#246BFE" stroke-width="1" stroke-opacity="0.4" />
+
+    <g id="val-1">
+      
+  <g transform="translate(768.0, 270.0) scale(1.3333333333333333)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M9 12l2 2l4 -4" />
+  </g>
+      <text x="812" y="294" font-size="22" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">AI 投入产出可度量</text>
+      <text x="768" y="326" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">从"用了多少"到"带来什么"(预估)</text>
+    </g>
+
+    <line x1="768" y1="350" x2="1172" y2="350" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15" />
+
+    <g id="val-2">
+      <text x="768" y="420" font-size="40" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">↓30-50%</text>
+      <text x="768" y="452" font-size="16" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">高风险变更漏审风险</text>
+      <text x="768" y="474" font-size="12" fill="#8FA3C4" font-family="Microsoft YaHei, Arial, sans-serif">(预估)</text>
+    </g>
+
+    <line x1="768" y1="500" x2="1172" y2="500" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.15" />
+
+    <g id="val-3">
+      
+  <g transform="translate(768.0, 528.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 1 0 0 4h2a2 2 0 1 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
+    <path d="M12 7v10" />
+  </g>
+      <text x="808" y="552" font-size="20" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">Token ROI 可视化</text>
+      <text x="768" y="584" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">成本-收益持续追踪(预估)</text>
+    </g>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第四章 · S4 智能治理与 FinOps</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">22 / 30</text>
+  </g>
+</svg>

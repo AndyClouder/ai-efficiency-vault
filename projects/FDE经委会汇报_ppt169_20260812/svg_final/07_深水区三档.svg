@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15" />
+    </linearGradient>
+    <marker id="arrow7" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,1 L8,5 L0,9 Z" fill="#B8C7E0" />
+    </marker>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">02 · 机会与销毛潜力</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">不缺 Demo，缺把 AI 真正跑进业务的人</text>
+    <path fill="url(#accentLine7)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">矛盾从「模型能不能做」转向「组织怎么用」——95→99％ 才是 FDE 的战场</text>
+  </g>
+
+  
+  <g id="connectors">
+    <line x1="402" y1="378" x2="464" y2="378" stroke="#B8C7E0" stroke-width="3" marker-end="url(#arrow7)" />
+    <line x1="812" y1="378" x2="874" y2="378" stroke="#B8C7E0" stroke-width="3" marker-end="url(#arrow7)" />
+  </g>
+
+  
+  <g id="card-80">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M72,190 H388 A12,12 0 0 1 400,202 V548 A12,12 0 0 1 388,560 H72 A12,12 0 0 1 60,548 V202 A12,12 0 0 1 72,190 Z" />
+    <text x="230" y="296" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="80" font-weight="bold" fill="#6B7785">80<tspan font-size="32" fill="#6B7785">％</tspan></text>
+    <text x="230" y="328" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#6B7785">0 → 80％</text>
+    <path fill="#6B7785" fill-opacity="0.12" d="M186,348 H274 A16,16 0 0 1 290,364 V364 A16,16 0 0 1 274,380 H186 A16,16 0 0 1 170,364 V364 A16,16 0 0 1 186,348 Z" />
+    <text x="230" y="370" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#6B7785">原型期</text>
+    <line x1="100" y1="402" x2="360" y2="402" stroke="#E3E9F2" stroke-width="1" />
+    <text x="230" y="438" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#5E6A78">通用大模型 + 简单 Prompt</text>
+    <text x="230" y="468" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#5E6A78">一天就能搭出「挺好用」的原型</text>
+    <path fill="#6B7785" fill-opacity="0.08" d="M118,506 H322 A18,18 0 0 1 340,524 V524 A18,18 0 0 1 322,542 H118 A18,18 0 0 1 100,524 V524 A18,18 0 0 1 118,506 Z" />
+    <text x="220" y="530" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#6B7785">门槛低 · 人人能做</text>
+  </g>
+
+  
+  <g id="card-95">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M482,190 H798 A12,12 0 0 1 810,202 V548 A12,12 0 0 1 798,560 H482 A12,12 0 0 1 470,548 V202 A12,12 0 0 1 482,190 Z" />
+    <text x="640" y="296" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="80" font-weight="bold" fill="#518FEC">95<tspan font-size="32" fill="#518FEC">％</tspan></text>
+    <text x="640" y="328" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#518FEC">80 → 95％</text>
+    <path fill="#518FEC" fill-opacity="0.14" d="M596,348 H684 A16,16 0 0 1 700,364 V364 A16,16 0 0 1 684,380 H596 A16,16 0 0 1 580,364 V364 A16,16 0 0 1 596,348 Z" />
+    <text x="640" y="370" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#518FEC">可用期</text>
+    <line x1="510" y1="402" x2="770" y2="402" stroke="#E3E9F2" stroke-width="1" />
+    <text x="640" y="438" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#5E6A78">行业术语、边界情况</text>
+    <text x="640" y="468" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#5E6A78">需 Prompt / 规则 / 数据 / 测试集</text>
+    <path fill="#518FEC" fill-opacity="0.10" d="M528,506 H752 A18,18 0 0 1 770,524 V524 A18,18 0 0 1 752,542 H528 A18,18 0 0 1 510,524 V524 A18,18 0 0 1 528,506 Z" />
+    <text x="640" y="530" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="600" fill="#518FEC">很难 · 投入陡增</text>
+  </g>
+
+  
+  <g id="card-99">
+    <path fill="#0052A6" fill-opacity="0.05" stroke="#0052A6" stroke-width="1.5" d="M892,190 H1208 A12,12 0 0 1 1220,202 V548 A12,12 0 0 1 1208,560 H892 A12,12 0 0 1 880,548 V202 A12,12 0 0 1 892,190 Z" />
+    <text x="1050" y="296" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="80" font-weight="bold" fill="#0052A6">99<tspan font-size="32" fill="#0052A6">％</tspan></text>
+    <text x="1050" y="328" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#0052A6">95 → 99％</text>
+    <path fill="#0052A6" d="M996,348 H1104 A16,16 0 0 1 1120,364 V364 A16,16 0 0 1 1104,380 H996 A16,16 0 0 1 980,364 V364 A16,16 0 0 1 996,348 Z" />
+    <text x="1050" y="370" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF">可靠期 · FDE</text>
+    <line x1="920" y1="402" x2="1180" y2="402" stroke="#B8C7E0" stroke-width="1" />
+    <text x="1050" y="438" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#25364A">1％ 错误可能致严重后果</text>
+    <text x="1050" y="468" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" fill="#25364A">专用平台 + 万级真实数据</text>
+    <path fill="#0052A6" d="M938,506 H1162 A18,18 0 0 1 1180,524 V524 A18,18 0 0 1 1162,542 H938 A18,18 0 0 1 920,524 V524 A18,18 0 0 1 938,506 Z" />
+    <text x="1050" y="530" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF">FDE 的主战场</text>
+  </g>
+
+  
+  <g id="stat-band">
+    <path fill="#F4F7FC" d="M72,588 H1208 A12,12 0 0 1 1220,600 V646 A12,12 0 0 1 1208,658 H72 A12,12 0 0 1 60,646 V600 A12,12 0 0 1 72,588 Z" />
+    <path fill="#F59E0B" d="M63,588 H63 A3,3 0 0 1 66,591 V655 A3,3 0 0 1 63,658 H63 A3,3 0 0 1 60,655 V591 A3,3 0 0 1 63,588 Z" />
+    <text x="92" y="636" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#F59E0B">&gt;60％</text>
+    <text x="240" y="622" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="600" fill="#25364A">的企业 AI 尝试仍停在试点阶段</text>
+    <text x="240" y="646" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#5E6A78">即卡在「80％ 之前」——多数项目死在试点走向生产之间</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">07 / 26</text>
+  </g>
+</svg>

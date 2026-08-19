@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#0052A6"/>
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">四大场景串联成完整研发闭环,四层架构逐层支撑</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">四个场景不是孤立的点,而是覆盖需求 → 交付 → 知识 → 治理的研发全链路</text>
+  </g>
+
+  <g id="scene-column-header">
+    <text x="200" y="178" font-size="16" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">四大场景</text>
+    <text x="800" y="178" font-size="16" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">主要落在哪层架构</text>
+  </g>
+
+  <g id="scene-s1">
+    <rect x="80" y="200" width="420" height="92" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="200" width="6" height="92" rx="3" fill="#0052A6"/>
+    <circle cx="124" cy="226" r="16" fill="#0052A6"/>
+    <text x="124" y="232" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S1</text>
+    <text x="152" y="232" font-size="17" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">智能需求闭环</text>
+    <text x="152" y="262" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">需求进入开发前与真实系统碰撞</text>
+    <text x="152" y="282" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">编码 Agent 反读代码反向提问</text>
+  </g>
+
+  <g id="arrow-s1">
+    <line x1="510" y1="246" x2="610" y2="246" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowBlue)"/>
+  </g>
+
+  <g id="target-s1">
+    <rect x="620" y="210" width="320" height="72" rx="10" fill="#0052A6"/>
+    <text x="780" y="238" font-size="14" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">③ 人智协同 + ② Harness</text>
+    <text x="780" y="266" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">编码 Agent 反读 + 反向提问</text>
+  </g>
+
+  <g id="scene-s2">
+    <rect x="80" y="304" width="420" height="92" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="304" width="6" height="92" rx="3" fill="#246BFE"/>
+    <circle cx="124" cy="330" r="16" fill="#246BFE"/>
+    <text x="124" y="336" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S2</text>
+    <text x="152" y="336" font-size="17" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">智能交付闭环</text>
+    <text x="152" y="366" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">AI 改完即可验证可发布</text>
+    <text x="152" y="386" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Harness + fullcheck + 自动化测试</text>
+  </g>
+
+  <g id="arrow-s2">
+    <line x1="510" y1="350" x2="610" y2="350" stroke="#246BFE" stroke-width="2" marker-end="url(#arrowBlue)"/>
+  </g>
+
+  <g id="target-s2">
+    <rect x="620" y="314" width="320" height="72" rx="10" fill="#246BFE"/>
+    <text x="780" y="342" font-size="14" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">② Harness 驾驭框架</text>
+    <text x="780" y="370" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">fullcheck / E2E / 自动化测试</text>
+  </g>
+
+  <g id="scene-s3">
+    <rect x="80" y="408" width="420" height="92" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="408" width="6" height="92" rx="3" fill="#518FEC"/>
+    <circle cx="124" cy="434" r="16" fill="#518FEC"/>
+    <text x="124" y="440" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S3</text>
+    <text x="152" y="440" font-size="17" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">智能知识底座</text>
+    <text x="152" y="470" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 沿语义找准确上下文</text>
+    <text x="152" y="490" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">本体网络 + 知识联通</text>
+  </g>
+
+  <g id="arrow-s3">
+    <line x1="510" y1="454" x2="610" y2="454" stroke="#518FEC" stroke-width="2" marker-end="url(#arrowBlue)"/>
+  </g>
+
+  <g id="target-s3">
+    <rect x="620" y="418" width="320" height="72" rx="10" fill="#518FEC"/>
+    <text x="780" y="446" font-size="14" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">① 知识与本体底座</text>
+    <text x="780" y="474" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">本体网络 · 语义连接</text>
+  </g>
+
+  <g id="scene-s4">
+    <rect x="80" y="512" width="420" height="92" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="512" width="6" height="92" rx="3" fill="#0A2A5E"/>
+    <circle cx="124" cy="538" r="16" fill="#0A2A5E"/>
+    <text x="124" y="544" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">S4</text>
+    <text x="152" y="544" font-size="17" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">智能治理与 FinOps</text>
+    <text x="152" y="574" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">AI 投入产出可度量</text>
+    <text x="152" y="594" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">风险分级 + 效能度量 + Token ROI</text>
+  </g>
+
+  <g id="arrow-s4">
+    <line x1="510" y1="558" x2="610" y2="558" stroke="#0A2A5E" stroke-width="2" marker-end="url(#arrowBlue)"/>
+  </g>
+
+  <g id="target-s4">
+    <rect x="620" y="522" width="320" height="72" rx="10" fill="#0A2A5E"/>
+    <text x="780" y="550" font-size="14" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">④ 治理与度量层</text>
+    <text x="780" y="578" font-size="13" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">风险分级 · FinOps · 度量</text>
+  </g>
+
+  <g id="conclusion-box">
+    <rect x="970" y="200" width="230" height="404" rx="14" fill="#0052A6"/>
+    <text x="1085" y="252" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">4 × 4</text>
+    <line x1="1010" y1="282" x2="1160" y2="282" stroke="#246BFE" stroke-width="1"/>
+    <text x="1085" y="324" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">四大场景</text>
+    <text x="1085" y="350" font-size="13" fill="#DCE6FB" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">× 四层架构</text>
+    <text x="1085" y="420" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">= 端到端</text>
+    <text x="1085" y="448" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">研发流水线</text>
+    <text x="1085" y="560" font-size="12" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">需求 → 交付</text>
+    <text x="1085" y="580" font-size="12" fill="#B8C7E0" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">知识 → 治理</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第二章 · 产品全景</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">09 / 30</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine23" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE"/>
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">05 · 人才与组织</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">懂业务、懂组织、懂指挥 AI 的人，不会被取代</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine23)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">既要讲 AI 的革新力，也要安抚焦虑——AI 不会取代能驾驭它的人</text>
+  </g>
+
+  <!-- 中央对比：执行 vs 判断 -->
+  <g id="contrast-left">
+    <text x="340" y="240" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="26" fill="#8FA3C4">工程执行</text>
+    <text x="340" y="305" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="52" font-weight="bold" fill="#8FA3C4">↓</text>
+    <text x="340" y="355" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="34" font-weight="bold" fill="#6B7785">越来越便宜</text>
+    <text x="340" y="388" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#8995A3">AI 让执行商品化</text>
+  </g>
+
+  <line x1="640" y1="205" x2="640" y2="405" stroke="#E3E9F2" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <circle cx="640" cy="305" r="26" fill="#FFFFFF" stroke="#0052A6" stroke-width="2"/>
+  <text x="640" y="318" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#0052A6">≠</text>
+
+  <g id="contrast-right">
+    <text x="940" y="240" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="26" font-weight="600" fill="#0052A6">判断能力</text>
+    <text x="940" y="305" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="52" font-weight="bold" fill="#0052A6">↑</text>
+    <text x="940" y="355" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="34" font-weight="bold" fill="#0052A6">越来越稀缺</text>
+    <text x="940" y="388" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">AI 替代不了</text>
+  </g>
+
+  <!-- 金句 emphasis block -->
+  <g id="punchline">
+    <rect x="190" y="440" width="900" height="120" rx="16" fill="#0052A6" fill-opacity="0.06" stroke="#0052A6" stroke-width="2"/>
+    <text x="640" y="492" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="28" font-weight="bold" fill="#0052A6">前线角色：从「写代码的人」→「指挥 AI 完成业务的人」</text>
+    <text x="640" y="530" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" fill="#25364A">懂业务、懂组织、懂指挥 AI 的人，不会被取代</text>
+  </g>
+
+  <!-- 底部 naked 补充 -->
+  <text x="640" y="600" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">模型再强，仍需知道行业如何运转、客户如何决策——把知识变成组织资产的人最值钱</text>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">24 / 26</text>
+  </g>
+</svg>

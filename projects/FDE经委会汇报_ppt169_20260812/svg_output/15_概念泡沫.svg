@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine15" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header">
+    <text x="60" y="60" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#F59E0B" letter-spacing="3">03 · 真相与风险 · 重头</text>
+    <text x="60" y="100" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="30" font-weight="bold" fill="#25364A">很多 FDE 是「挂羊头」</text>
+    <rect x="60" y="114" width="240" height="4" rx="2" fill="url(#accentLine15)"/>
+    <text x="60" y="146" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="16" fill="#5E6A78">名义上是 FDE，实质还是实施 / 部署 / 培训——这是当前最普遍的泡沫</text>
+  </g>
+
+  <!-- 核心警示横幅 -->
+  <g id="core-warning">
+    <rect x="60" y="170" width="1160" height="80" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/alert-triangle" x="84" y="188" width="44" height="44" fill="#FFFFFF" stroke-width="2"/>
+    <text x="148" y="208" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="600" fill="#DCE6FB">核心判断</text>
+    <text x="148" y="236" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="20" font-weight="bold" fill="#FFFFFF">国内大量岗位挂着 FDE 的名，干的还是驻场实施、系统部署、操作培训</text>
+  </g>
+
+  <!-- 诊断条1 认知混淆 -->
+  <g id="diag-1">
+    <rect x="60" y="265" width="1160" height="84" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="265" width="6" height="84" rx="3" fill="#F59E0B"/>
+    <circle cx="110" cy="307" r="24" fill="#F59E0B" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/search" x="92" y="289" width="36" height="36" fill="#F59E0B" stroke-width="2"/>
+    <text x="156" y="300" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">岗位认知易与驻场外包混淆</text>
+    <text x="156" y="328" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">招的 title 是 FDE，实际干的是按文档实施、上线收尾</text>
+    <rect x="1060" y="289" width="138" height="32" rx="16" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="1129" y="310" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  <!-- 诊断条2 授权不足 -->
+  <g id="diag-2">
+    <rect x="60" y="359" width="1160" height="84" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="359" width="6" height="84" rx="3" fill="#F59E0B"/>
+    <circle cx="110" cy="401" r="24" fill="#F59E0B" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/network" x="92" y="383" width="36" height="36" fill="#F59E0B" stroke-width="2"/>
+    <text x="156" y="394" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">组织授权不足</text>
+    <text x="156" y="422" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">没有改模型、调流程的授权，FDE 沦为传话筒，离一线决策太远</text>
+    <rect x="1060" y="383" width="138" height="32" rx="16" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="1129" y="404" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  <!-- 诊断条3 沉淀弱 -->
+  <g id="diag-3">
+    <rect x="60" y="453" width="1160" height="84" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="453" width="6" height="84" rx="3" fill="#F59E0B"/>
+    <circle cx="110" cy="495" r="24" fill="#F59E0B" fill-opacity="0.14"/>
+    <use data-icon="tabler-outline/refresh" x="92" y="477" width="36" height="36" fill="#F59E0B" stroke-width="2"/>
+    <text x="156" y="488" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="18" font-weight="bold" fill="#25364A">产品沉淀弱</text>
+    <text x="156" y="516" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" fill="#5E6A78">交付完即走，不留 Skill / 模板 / 本体，下一个客户又从零开始</text>
+    <rect x="1060" y="477" width="138" height="32" rx="16" fill="#F59E0B" fill-opacity="0.14"/>
+    <text x="1129" y="498" text-anchor="middle" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="14" font-weight="bold" fill="#B45309">× 不是 FDE</text>
+  </g>
+
+  <!-- 底部立场带 -->
+  <g id="stance-band">
+    <rect x="60" y="552" width="1160" height="76" rx="12" fill="#0E9F6E" fill-opacity="0.10"/>
+    <rect x="60" y="552" width="6" height="76" rx="3" fill="#0E9F6E"/>
+    <use data-icon="tabler-outline/circle-check" x="84" y="572" width="36" height="36" fill="#0E9F6E" stroke-width="2"/>
+    <text x="132" y="586" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="15" fill="#5E6A78">从业者类比「十年前的产品经理」——窗口期 5–10 年，会大浪淘沙</text>
+    <text x="132" y="614" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="19" font-weight="bold" fill="#0E9F6E">我们的立场：做真 FDE，不做伪 FDE</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family='"Microsoft YaHei", Arial, sans-serif' font-size="11" fill="#6B7785">15 / 26</text>
+  </g>
+</svg>

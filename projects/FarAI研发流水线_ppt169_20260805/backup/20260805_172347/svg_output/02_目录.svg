@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="80" y="64" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="108" font-size="30" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">六章构成"从悖论到落地"的完整叙事</text>
+    <text x="80" y="140" font-size="16" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">命题 → 平台 → 组织 → 场景 → 工程底座 → 价值实施</text>
+  </g>
+
+  <g id="toc-card-1">
+    <rect x="80" y="180" width="182" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="180" width="182" height="56" rx="14" fill="#0052A6"/>
+    <rect x="80" y="208" width="182" height="28" fill="#0052A6"/>
+    <text x="100" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">01</text>
+    <text x="100" y="278" font-size="18" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">核心命题</text>
+    <text x="100" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">个人提效≠组织提效</text>
+    <line x1="100" y1="328" x2="242" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="100" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 核心悖论</text>
+    <text x="100" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 根因剖析</text>
+    <text x="100" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· FarAI 回答</text>
+    <text x="100" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P03 — P06</text>
+  </g>
+
+  <g id="toc-card-2">
+    <rect x="278" y="180" width="182" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="278" y="180" width="182" height="56" rx="14" fill="#246BFE"/>
+    <rect x="278" y="208" width="182" height="28" fill="#246BFE"/>
+    <text x="298" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">02</text>
+    <text x="298" y="278" font-size="18" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">产品全景</text>
+    <text x="298" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">FarAI 研发流水线</text>
+    <line x1="298" y1="328" x2="440" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="298" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 四层架构</text>
+    <text x="298" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 场景映射</text>
+    <text x="298" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P07 — P09</text>
+  </g>
+
+  <g id="toc-card-3">
+    <rect x="476" y="180" width="182" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="476" y="180" width="182" height="56" rx="14" fill="#518FEC"/>
+    <rect x="476" y="208" width="182" height="28" fill="#518FEC"/>
+    <text x="496" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">03</text>
+    <text x="496" y="278" font-size="18" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">组织重塑</text>
+    <text x="496" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">新生产关系</text>
+    <line x1="496" y1="328" x2="638" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="496" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 新角色 Builder</text>
+    <text x="496" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· FDE 三层协同</text>
+    <text x="496" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 三层流动机制</text>
+    <text x="496" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P10 — P13</text>
+  </g>
+
+  <g id="toc-card-4">
+    <rect x="674" y="180" width="182" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="674" y="180" width="182" height="56" rx="14" fill="#0052A6"/>
+    <rect x="674" y="208" width="182" height="28" fill="#0052A6"/>
+    <text x="694" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">04</text>
+    <text x="694" y="278" font-size="18" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">四大场景</text>
+    <text x="694" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">每场景一个闭环</text>
+    <line x1="694" y1="328" x2="836" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="694" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 需求/交付闭环</text>
+    <text x="694" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 知识底座</text>
+    <text x="694" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 治理 FinOps</text>
+    <text x="694" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P14 — P22</text>
+  </g>
+
+  <g id="toc-card-5">
+    <rect x="872" y="180" width="182" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="872" y="180" width="182" height="56" rx="14" fill="#246BFE"/>
+    <rect x="872" y="208" width="182" height="28" fill="#246BFE"/>
+    <text x="892" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">05</text>
+    <text x="892" y="278" font-size="18" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">工程底座</text>
+    <text x="892" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Harness 驾驭框架</text>
+    <line x1="892" y1="328" x2="1034" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="892" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 9 大组件</text>
+    <text x="892" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 先行原则</text>
+    <text x="892" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 实战度量</text>
+    <text x="892" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P23 — P26</text>
+  </g>
+
+  <g id="toc-card-6">
+    <rect x="1070" y="180" width="130" height="460" rx="14" fill="#F4F7FC"/>
+    <rect x="1070" y="180" width="130" height="56" rx="14" fill="#518FEC"/>
+    <rect x="1070" y="208" width="130" height="28" fill="#518FEC"/>
+    <text x="1090" y="216" font-size="34" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">06</text>
+    <text x="1090" y="278" font-size="18" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">价值实施</text>
+    <text x="1090" y="308" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">试点到规模化</text>
+    <line x1="1090" y1="328" x2="1190" y2="328" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="1090" y="362" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 价值矩阵</text>
+    <text x="1090" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 实施路径</text>
+    <text x="1090" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 法本保障</text>
+    <text x="1090" y="612" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">P27 — P30</text>
+  </g>
+
+  <g id="footer">
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">02 / 30</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chapBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2A5E" />
+      <stop offset="60%" stop-color="#0E367A" />
+      <stop offset="100%" stop-color="#17365D" />
+    </linearGradient>
+    <linearGradient id="chapBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" />
+    </linearGradient>
+    <radialGradient id="chapDecor" cx="80%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <g id="background">
+    <rect width="1280" height="720" fill="url(#chapBg)" />
+    <rect width="1280" height="720" fill="url(#chapDecor)" />
+  </g>
+
+  <g id="chapter-bignum">
+    <text x="1170" y="500" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="220" font-weight="bold" fill="#FFFFFF" fill-opacity="0.10">01</text>
+  </g>
+
+  <g id="chapter-eyebrow">
+    <path fill="url(#chapBar)" d="M123,290 H123 A3,3 0 0 1 126,293 V315 A3,3 0 0 1 123,318 H123 A3,3 0 0 1 120,315 V293 A3,3 0 0 1 123,290 Z" />
+    <text x="140" y="312" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="600" fill="#518FEC" letter-spacing="5">CHAPTER 01</text>
+  </g>
+
+  <g id="chapter-title">
+    <text x="120" y="400" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF">FDE 到底是什么</text>
+    <path fill="#246BFE" d="M124,425 H340 A2,2 0 0 1 342,427 V427 A2,2 0 0 1 340,429 H124 A2,2 0 0 1 122,427 V427 A2,2 0 0 1 124,425 Z" />
+    <text x="120" y="475" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#B8C7E0">不是外包、不是咨询，是「现场解决问题 + 沉淀资产」</text>
+  </g>
+
+  <g id="chapter-footer">
+    <text x="120" y="668" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">FDE 经委会汇报 · 第一章</text>
+    <text x="1200" y="668" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#8FA3C4">02 / 26</text>
+  </g>
+</svg>

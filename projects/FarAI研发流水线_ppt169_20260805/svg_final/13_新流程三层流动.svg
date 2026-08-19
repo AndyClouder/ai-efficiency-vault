@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <marker id="arrowF13" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#0052A6" />
+    </marker>
+    <marker id="arrowF13back" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#0E9F6E" />
+    </marker>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">新流程 —— 代码和能力在三层间流动,内部开源机制</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">流程的关键不是"谁先批准",而是"谁能快速贡献,谁来持续熵减,谁负责稳定复用"</text>
+  </g>
+
+  <g id="layer-1-flow">
+    <path fill="#F4F7FC" d="M94,160 H1066 A14,14 0 0 1 1080,174 V246 A14,14 0 0 1 1066,260 H94 A14,14 0 0 1 80,246 V174 A14,14 0 0 1 94,160 Z" />
+    <path fill="#0052A6" d="M83,160 H83 A3,3 0 0 1 86,163 V257 A3,3 0 0 1 83,260 H83 A3,3 0 0 1 80,257 V163 A3,3 0 0 1 83,160 Z" />
+    
+  <g transform="translate(106.0, 180.0) scale(1.25)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M13 3l0 7l6 0l-8 11l0 -7l-6 0l8 -11" />
+  </g>
+    <text x="146" y="192" font-size="14" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">FDE 团队</text>
+    <text x="146" y="220" font-size="18" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">快速探索 · 直接改产品代码,必要时改平台代码</text>
+    <text x="146" y="244" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">围绕四大闭环快速推进,产品/平台智能体参与评审但非低风险阻塞点</text>
+  </g>
+
+  <g id="flow-1-to-2">
+    <line x1="580" y1="264" x2="580" y2="288" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowF13)" />
+    <text x="600" y="282" font-size="12" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">代码贡献 + 场景经验</text>
+  </g>
+
+  <g id="layer-2-flow">
+    <path fill="#F4F7FC" d="M94,292 H1066 A14,14 0 0 1 1080,306 V378 A14,14 0 0 1 1066,392 H94 A14,14 0 0 1 80,378 V306 A14,14 0 0 1 94,292 Z" />
+    <path fill="#246BFE" d="M83,292 H83 A3,3 0 0 1 86,295 V389 A3,3 0 0 1 83,392 H83 A3,3 0 0 1 80,389 V295 A3,3 0 0 1 83,292 Z" />
+    
+  <g transform="translate(106.0, 312.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+    <path d="M4 15a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 17a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+  </g>
+    <text x="146" y="324" font-size="14" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">产品团队</text>
+    <text x="146" y="352" font-size="18" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">产品化沉淀 · 复审、重构、熵减、测试强化、产品化发布</text>
+    <text x="146" y="376" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">前线代码不一定一开始最优,但只要验证业务价值,就应被吸收沉淀</text>
+  </g>
+
+  <g id="flow-2-to-3">
+    <line x1="580" y1="396" x2="580" y2="420" stroke="#0052A6" stroke-width="2" marker-end="url(#arrowF13)" />
+    <text x="600" y="414" font-size="12" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">平台改动 + 共性需求</text>
+  </g>
+
+  <g id="layer-3-flow">
+    <path fill="#F4F7FC" d="M94,424 H1066 A14,14 0 0 1 1080,438 V510 A14,14 0 0 1 1066,524 H94 A14,14 0 0 1 80,510 V438 A14,14 0 0 1 94,424 Z" />
+    <path fill="#518FEC" d="M83,424 H83 A3,3 0 0 1 86,427 V521 A3,3 0 0 1 83,524 H83 A3,3 0 0 1 80,521 V427 A3,3 0 0 1 83,424 Z" />
+    
+  <g transform="translate(106.0, 444.0) scale(1.25)" fill="none" stroke="#518FEC" stroke-width="2">
+    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3" />
+    <path d="M3 15a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3l0 -2" />
+    <path d="M7 8l0 .01" />
+    <path d="M7 16l0 .01" />
+  </g>
+    <text x="146" y="456" font-size="14" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">平台团队</text>
+    <text x="146" y="484" font-size="18" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">底座化沉淀 · 复审、重构、优化、强化测试、平台化发布</text>
+    <text x="146" y="508" font-size="13" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">把共性能力沉淀成稳定底座,再推回产品团队和 FDE 使用</text>
+  </g>
+
+  <g id="reverse-flow">
+    <path d="M 1100 524 Q 1140 524 1140 484 L 1140 200 Q 1140 180 1100 180" fill="none" stroke="#0E9F6E" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrowF13back)" />
+    <text x="1160" y="360" font-size="12" font-weight="bold" fill="#0E9F6E" font-family="Microsoft YaHei, Arial, sans-serif">反哺</text>
+    <text x="1160" y="380" font-size="11" fill="#0E9F6E" font-family="Microsoft YaHei, Arial, sans-serif">平台 →</text>
+    <text x="1160" y="396" font-size="11" fill="#0E9F6E" font-family="Microsoft YaHei, Arial, sans-serif">产品 →</text>
+    <text x="1160" y="412" font-size="11" fill="#0E9F6E" font-family="Microsoft YaHei, Arial, sans-serif">FDE</text>
+  </g>
+
+  <g id="precondition">
+    <path fill="#0052A6" d="M94,548 H1066 A14,14 0 0 1 1080,562 V638 A14,14 0 0 1 1066,652 H94 A14,14 0 0 1 80,638 V562 A14,14 0 0 1 94,548 Z" />
+    
+  <g transform="translate(104.0, 572.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M9 12l2 2l4 -4" />
+  </g>
+    <text x="148" y="588" font-size="18" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">这个流程跑得起来的前提:自动化测试必须足够强</text>
+    <text x="148" y="616" font-size="14" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">只有测试、环境、数据、质量门禁可自动化验证,产品/平台团队才敢对前线代码重构,FDE 才敢更快探索</text>
+    <text x="148" y="638" font-size="13" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">→ 这正是第四章 Harness 驾驭框架要解决的事</text>
+    <text x="1170" y="600" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">内部开源式</text>
+    <text x="1170" y="624" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">流动机制</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第三章 · 组织重塑</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">13 / 30</text>
+  </g>
+</svg>

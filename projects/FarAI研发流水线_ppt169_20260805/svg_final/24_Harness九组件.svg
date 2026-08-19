@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-title">
+    <path fill="#0052A6" d="M83,56 H133 A3,3 0 0 1 136,59 V59 A3,3 0 0 1 133,62 H83 A3,3 0 0 1 80,59 V59 A3,3 0 0 1 83,56 Z" />
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Harness 9 大组件 —— 驾驭 Agent 的工程抓手</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">9 个工程组件,把"Agent 能跑"升级为"Agent 可控可验证可追溯"</text>
+  </g>
+
+  <g id="card-1">
+    <path fill="#F4F7FC" d="M94,160 H426 A14,14 0 0 1 440,174 V294 A14,14 0 0 1 426,308 H94 A14,14 0 0 1 80,294 V174 A14,14 0 0 1 94,160 Z" />
+    <path fill="#0052A6" d="M83,160 H83 A3,3 0 0 1 86,163 V305 A3,3 0 0 1 83,308 H83 A3,3 0 0 1 80,305 V163 A3,3 0 0 1 83,160 Z" />
+    <circle cx="116" cy="194" r="18" fill="#0052A6" />
+    <text x="116" y="200" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">01</text>
+    
+  <g transform="translate(148.0, 178.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M5 7l5 5l-5 5" />
+    <path d="M12 19l7 0" />
+  </g>
+    <text x="186" y="200" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">CLI Harness</text>
+    <text x="106" y="244" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">CLI 化是基础</text>
+    <text x="106" y="268" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">让 Agent 能调用代码,代码</text>
+    <text x="106" y="288" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">具备可被 Agent 操作的接口</text>
+  </g>
+
+  <g id="card-2">
+    <path fill="#F4F7FC" d="M474,160 H806 A14,14 0 0 1 820,174 V294 A14,14 0 0 1 806,308 H474 A14,14 0 0 1 460,294 V174 A14,14 0 0 1 474,160 Z" />
+    <path fill="#0052A6" d="M463,160 H463 A3,3 0 0 1 466,163 V305 A3,3 0 0 1 463,308 H463 A3,3 0 0 1 460,305 V163 A3,3 0 0 1 463,160 Z" />
+    <circle cx="496" cy="194" r="18" fill="#0052A6" />
+    <text x="496" y="200" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">02</text>
+    
+  <g transform="translate(528.0, 178.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M9 12l2 2l4 -4" />
+  </g>
+    <text x="566" y="200" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">fullcheck 全量检查</text>
+    <text x="486" y="244" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">AI 改完即验证</text>
+    <text x="486" y="268" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">单测/接口/契约/E2E/回归</text>
+    <text x="486" y="288" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">全量自动检查,反馈闭环</text>
+  </g>
+
+  <g id="card-3">
+    <path fill="#F4F7FC" d="M854,160 H1186 A14,14 0 0 1 1200,174 V294 A14,14 0 0 1 1186,308 H854 A14,14 0 0 1 840,294 V174 A14,14 0 0 1 854,160 Z" />
+    <path fill="#0052A6" d="M843,160 H843 A3,3 0 0 1 846,163 V305 A3,3 0 0 1 843,308 H843 A3,3 0 0 1 840,305 V163 A3,3 0 0 1 843,160 Z" />
+    <circle cx="876" cy="194" r="18" fill="#0052A6" />
+    <text x="876" y="200" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">03</text>
+    
+  <g transform="translate(908.0, 178.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M7 8l0 8" />
+    <path d="M9 18h6a2 2 0 0 0 2 -2v-5" />
+    <path d="M14 14l3 -3l3 3" />
+  </g>
+    <text x="946" y="200" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">CLI E2E 端到端</text>
+    <text x="866" y="244" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">端到端 CLI 自动化</text>
+    <text x="866" y="268" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">环境准备/数据构造/造数</text>
+    <text x="866" y="288" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">全流程脚本化、自动化</text>
+  </g>
+
+  <g id="card-4">
+    <path fill="#F4F7FC" d="M94,324 H426 A14,14 0 0 1 440,338 V458 A14,14 0 0 1 426,472 H94 A14,14 0 0 1 80,458 V338 A14,14 0 0 1 94,324 Z" />
+    <path fill="#246BFE" d="M83,324 H83 A3,3 0 0 1 86,327 V469 A3,3 0 0 1 83,472 H83 A3,3 0 0 1 80,469 V327 A3,3 0 0 1 83,324 Z" />
+    <circle cx="116" cy="358" r="18" fill="#246BFE" />
+    <text x="116" y="364" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">04</text>
+    
+  <g transform="translate(148.0, 342.0) scale(1.25)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="186" y="364" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Agent traceId</text>
+    <text x="106" y="408" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">执行全链路可追踪</text>
+    <text x="106" y="432" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">每个任务、每步操作</text>
+    <text x="106" y="452" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">可追溯、可复盘、可审计</text>
+  </g>
+
+  <g id="card-5">
+    <path fill="#F4F7FC" d="M474,324 H806 A14,14 0 0 1 820,338 V458 A14,14 0 0 1 806,472 H474 A14,14 0 0 1 460,458 V338 A14,14 0 0 1 474,324 Z" />
+    <path fill="#246BFE" d="M463,324 H463 A3,3 0 0 1 466,327 V469 A3,3 0 0 1 463,472 H463 A3,3 0 0 1 460,469 V327 A3,3 0 0 1 463,324 Z" />
+    <circle cx="496" cy="358" r="18" fill="#246BFE" />
+    <text x="496" y="364" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">05</text>
+    
+  <g transform="translate(528.0, 342.0) scale(1.25)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3" />
+    <path d="M3 15a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3l0 -2" />
+    <path d="M7 8l0 .01" />
+    <path d="M7 16l0 .01" />
+  </g>
+    <text x="566" y="364" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Agent OS</text>
+    <text x="486" y="408" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">Agent 操作系统</text>
+    <text x="486" y="432" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">身份/权限/任务队列</text>
+    <text x="486" y="452" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Agent 运行的系统底座</text>
+  </g>
+
+  <g id="card-6">
+    <path fill="#F4F7FC" d="M854,324 H1186 A14,14 0 0 1 1200,338 V458 A14,14 0 0 1 1186,472 H854 A14,14 0 0 1 840,458 V338 A14,14 0 0 1 854,324 Z" />
+    <path fill="#246BFE" d="M843,324 H843 A3,3 0 0 1 846,327 V469 A3,3 0 0 1 843,472 H843 A3,3 0 0 1 840,469 V327 A3,3 0 0 1 843,324 Z" />
+    <circle cx="876" cy="358" r="18" fill="#246BFE" />
+    <text x="876" y="364" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">06</text>
+    
+  <g transform="translate(908.0, 342.0) scale(1.25)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+    <path d="M4 15a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -3" />
+    <path d="M14 17a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2l0 -1" />
+  </g>
+    <text x="946" y="364" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">UI Harness</text>
+    <text x="866" y="408" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">UI 自动化驾驭</text>
+    <text x="866" y="432" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">界面层 Agent 可操作</text>
+    <text x="866" y="452" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">UI 验证脚本化、可重放</text>
+  </g>
+
+  <g id="card-7">
+    <path fill="#F4F7FC" d="M94,488 H426 A14,14 0 0 1 440,502 V622 A14,14 0 0 1 426,636 H94 A14,14 0 0 1 80,622 V502 A14,14 0 0 1 94,488 Z" />
+    <path fill="#518FEC" d="M83,488 H83 A3,3 0 0 1 86,491 V633 A3,3 0 0 1 83,636 H83 A3,3 0 0 1 80,633 V491 A3,3 0 0 1 83,488 Z" />
+    <circle cx="116" cy="522" r="18" fill="#518FEC" />
+    <text x="116" y="528" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">07</text>
+    
+  <g transform="translate(148.0, 506.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M6.657 18c-2.572 0 -4.657 -2.007 -4.657 -4.483c0 -2.475 2.085 -4.482 4.657 -4.482c.393 -1.762 1.794 -3.2 3.675 -3.773c1.88 -.572 3.956 -.193 5.444 1c1.488 1.19 2.162 3.007 1.77 4.769h.99c1.913 0 3.464 1.56 3.464 3.486c0 1.927 -1.551 3.487 -3.465 3.487h-11.878" />
+  </g>
+    <text x="186" y="528" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">API Harness</text>
+    <text x="106" y="572" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">API 自动化驾驭</text>
+    <text x="106" y="596" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">接口契约可验证</text>
+    <text x="106" y="616" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">契约兼容性持续守护</text>
+  </g>
+
+  <g id="card-8">
+    <path fill="#F4F7FC" d="M474,488 H806 A14,14 0 0 1 820,502 V622 A14,14 0 0 1 806,636 H474 A14,14 0 0 1 460,622 V502 A14,14 0 0 1 474,488 Z" />
+    <path fill="#518FEC" d="M463,488 H463 A3,3 0 0 1 466,491 V633 A3,3 0 0 1 463,636 H463 A3,3 0 0 1 460,633 V491 A3,3 0 0 1 463,488 Z" />
+    <circle cx="496" cy="522" r="18" fill="#518FEC" />
+    <text x="496" y="528" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">08</text>
+    
+  <g transform="translate(528.0, 506.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" />
+    <path d="M9 5a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2" />
+    <path d="M9 12l.01 0" />
+    <path d="M13 12l2 0" />
+    <path d="M9 16l.01 0" />
+    <path d="M13 16l2 0" />
+  </g>
+    <text x="566" y="528" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">SOP Harness</text>
+    <text x="486" y="572" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">标准作业流程驾驭</text>
+    <text x="486" y="596" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">高频任务沉淀成 SOP</text>
+    <text x="486" y="616" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">流程可复用、可治理</text>
+  </g>
+
+  <g id="card-9">
+    <path fill="#F4F7FC" d="M854,488 H1186 A14,14 0 0 1 1200,502 V622 A14,14 0 0 1 1186,636 H854 A14,14 0 0 1 840,622 V502 A14,14 0 0 1 854,488 Z" />
+    <path fill="#518FEC" d="M843,488 H843 A3,3 0 0 1 846,491 V633 A3,3 0 0 1 843,636 H843 A3,3 0 0 1 840,633 V491 A3,3 0 0 1 843,488 Z" />
+    <circle cx="876" cy="522" r="18" fill="#518FEC" />
+    <text x="876" y="528" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">09</text>
+    
+  <g transform="translate(908.0, 506.0) scale(1.25)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M12 8l0 4l2 2" />
+    <path d="M3.05 11a9 9 0 1 1 .5 4m-.5 5v-5h5" />
+  </g>
+    <text x="946" y="528" font-size="18" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">Harness flake</text>
+    <text x="866" y="572" font-size="14" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">框架自身稳定性治理</text>
+    <text x="866" y="596" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">驾驭框架本身的稳定性</text>
+    <text x="866" y="616" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">抖动检测、修复、加固</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第五章 · 工程底座</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">24 / 30</text>
+  </g>
+</svg>

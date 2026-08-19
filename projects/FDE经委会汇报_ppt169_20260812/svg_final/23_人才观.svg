@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine22" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#0E9F6E" stop-opacity="0.2" />
+    </linearGradient>
+    <radialGradient id="halo22" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#246BFE" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#246BFE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">05 · 人才观</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">彻底扭转「把人当资源」的旧理念</text>
+    <path fill="url(#accentLine22)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">尊重、培养、吸引——让沉淀的经验真正算进绩效</text>
+  </g>
+
+  
+  <g id="transition">
+    <text x="640" y="215" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" fill="#8FA3C4" text-decoration="line-through">把人当资源</text>
+    <polygon points="625,238 655,238 640,272" fill="#0052A6" />
+    <ellipse cx="640" cy="360" rx="380" ry="120" fill="url(#halo22)" />
+    <path fill="#0052A6" fill-opacity="0.06" stroke="#0052A6" stroke-width="2" d="M336,290 H944 A16,16 0 0 1 960,306 V424 A16,16 0 0 1 944,440 H336 A16,16 0 0 1 320,424 V306 A16,16 0 0 1 336,290 Z" />
+    <text x="640" y="370" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="60" font-weight="bold" fill="#0052A6">把人当资产</text>
+    <path fill="#246BFE" d="M561.50,390 H718.50 A1.50,1.50 0 0 1 720,391.50 V391.50 A1.50,1.50 0 0 1 718.50,393 H561.50 A1.50,1.50 0 0 1 560,391.50 V391.50 A1.50,1.50 0 0 1 561.50,390 Z" />
+    <text x="640" y="420" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" fill="#25364A">尊重人才 · 培养人才 · 吸引人才</text>
+  </g>
+
+  
+  <line x1="200" y1="495" x2="1080" y2="495" stroke="#E3E9F2" stroke-width="1" />
+
+  
+  <g id="support-mechanism">
+    <text x="340" y="540" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0052A6">机制保障</text>
+    <text x="340" y="572" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">双轨绩效 + 内部结算</text>
+    <text x="340" y="596" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">让沉淀、跨客户复用算进绩效</text>
+  </g>
+  <line x1="640" y1="520" x2="640" y2="610" stroke="#E3E9F2" stroke-width="1" />
+  <g id="support-value">
+    <text x="940" y="540" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0052A6">能力越往上越值钱</text>
+    <text x="940" y="572" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">行业洞察 · 客户信任 · 组织推动</text>
+    <text x="940" y="596" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78">这些 AI 替代不了</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">23 / 26</text>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6"/>
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">01 客户理解</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">高力国际 — 全球商业地产"五大行"之一</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">非传统物业公司,而是商业地产全生命周期服务商;FarAI 愿为其打造覆盖招聘—商机—投标—营销的 AI 闭环</text>
+  </g>
+
+  <g id="positioning">
+    <use data-icon="tabler-outline/building" x="60" y="185" width="32" height="32" fill="#0052A6" stroke-width="2"/>
+    <text x="104" y="209" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#17365D">行业定位</text>
+    <text x="60" y="245" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#25364A">高力国际(Colliers),全球商业地产 <tspan font-weight="bold" fill="#0052A6">"五大行"</tspan> 之一,</text>
+    <text x="60" y="272" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#25364A">围绕商业地产提供全生命周期服务。</text>
+  </g>
+
+  <g id="card-service">
+    <rect x="60" y="305" width="370" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="60" y="305" width="370" height="48" rx="12" fill="#0052A6"/>
+    <rect x="60" y="337" width="370" height="16" fill="#0052A6"/>
+    <use data-icon="tabler-outline/briefcase" x="80" y="316" width="26" height="26" fill="#FFFFFF" stroke-width="2"/>
+    <text x="116" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">全生命周期服务</text>
+    <circle cx="82" cy="388" r="3" fill="#246BFE"/>
+    <text x="95" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">咨询策划 · 招商租赁</text>
+    <circle cx="82" cy="420" r="3" fill="#246BFE"/>
+    <text x="95" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">买卖交易 · 资产评估</text>
+    <circle cx="82" cy="452" r="3" fill="#246BFE"/>
+    <text x="95" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">工程项目管理</text>
+    <circle cx="82" cy="484" r="3" fill="#246BFE"/>
+    <text x="95" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">物业及资产管理</text>
+  </g>
+
+  <g id="card-clients">
+    <rect x="455" y="305" width="370" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="455" y="305" width="370" height="48" rx="12" fill="#246BFE"/>
+    <rect x="455" y="337" width="370" height="16" fill="#246BFE"/>
+    <use data-icon="tabler-outline/users" x="475" y="316" width="26" height="26" fill="#FFFFFF" stroke-width="2"/>
+    <text x="511" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">服务对象</text>
+    <circle cx="477" cy="388" r="3" fill="#0052A6"/>
+    <text x="490" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">地产开发商</text>
+    <circle cx="477" cy="420" r="3" fill="#0052A6"/>
+    <text x="490" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">楼宇园区业主 · 投资机构</text>
+    <circle cx="477" cy="452" r="3" fill="#0052A6"/>
+    <text x="490" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">政府部门</text>
+    <circle cx="477" cy="484" r="3" fill="#0052A6"/>
+    <text x="490" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">大型企业</text>
+  </g>
+
+  <g id="card-traits">
+    <rect x="850" y="305" width="370" height="225" rx="12" fill="#F4F7FC"/>
+    <rect x="850" y="305" width="370" height="48" rx="12" fill="#518FEC"/>
+    <rect x="850" y="337" width="370" height="16" fill="#518FEC"/>
+    <use data-icon="tabler-outline/network" x="870" y="316" width="26" height="26" fill="#FFFFFF" stroke-width="2"/>
+    <text x="906" y="337" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">业务特点</text>
+    <circle cx="872" cy="388" r="3" fill="#0052A6"/>
+    <text x="885" y="392" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">管理项目多 · 信息分散</text>
+    <circle cx="872" cy="420" r="3" fill="#0052A6"/>
+    <text x="885" y="424" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">销售跟进周期长</text>
+    <circle cx="872" cy="452" r="3" fill="#0052A6"/>
+    <text x="885" y="456" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">客户决策链复杂</text>
+    <circle cx="872" cy="484" r="3" fill="#0052A6"/>
+    <text x="885" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">一线招聘需求量大</text>
+  </g>
+
+  <g id="value-banner">
+    <rect x="60" y="555" width="1160" height="92" rx="12" fill="#0052A6"/>
+    <use data-icon="tabler-outline/target" x="84" y="580" width="42" height="42" fill="#518FEC" stroke-width="2"/>
+    <text x="146" y="589" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">价值主张</text>
+    <text x="146" y="620" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">FarAI 以 "一个平台 + 四大场景 + 一个闭环",让 AI 成为高力国际的增长新引擎</text>
+    <text x="146" y="640" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" fill="#B8C7E0">打通"信息发现—商机识别—客户归并—决策链分析—销售跟进—投标支持—结果复盘"完整链路</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">04</text>
+  </g>
+</svg>

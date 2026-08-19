@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="accentLine19" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#246BFE" />
+      <stop offset="100%" stop-color="#518FEC" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header">
+    <text x="60" y="60" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="600" fill="#0052A6" letter-spacing="3">04 · 怎么稳妥推进</text>
+    <text x="60" y="100" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#25364A">原厂打样、伙伴复制，先易后难</text>
+    <path fill="url(#accentLine19)" d="M62,114 H298 A2,2 0 0 1 300,116 V116 A2,2 0 0 1 298,118 H62 A2,2 0 0 1 60,116 V116 A2,2 0 0 1 62,114 Z" />
+    <text x="60" y="146" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">0→1 原厂、1→N 伙伴——部署是「脚手架」不是「房子」</text>
+  </g>
+
+  
+  <g id="chevrons">
+    <polygon points="160,235 460,235 490,280 460,325 160,325" fill="#0052A6" />
+    <text x="310" y="274" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF">原厂打样</text>
+    <text x="310" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#FFFFFF" fill-opacity="0.85">0 → 1</text>
+
+    <polygon points="490,235 790,235 820,280 790,325 490,325 520,280" fill="#246BFE" />
+    <text x="655" y="274" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF">伙伴复制</text>
+    <text x="655" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#FFFFFF" fill-opacity="0.85">1 → N</text>
+
+    <polygon points="820,235 1120,235 1150,280 1120,325 820,325 850,280" fill="#0E9F6E" />
+    <text x="985" y="274" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF">客户自助</text>
+    <text x="985" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#FFFFFF" fill-opacity="0.85">自助化</text>
+  </g>
+
+  
+  <g id="phase-1">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M182,360 H438 A12,12 0 0 1 450,372 V558 A12,12 0 0 1 438,570 H182 A12,12 0 0 1 170,558 V372 A12,12 0 0 1 182,360 Z" />
+    <path fill="#0052A6" d="M173,360 H447 A3,3 0 0 1 450,363 V363 A3,3 0 0 1 447,366 H173 A3,3 0 0 1 170,363 V363 A3,3 0 0 1 173,360 Z" />
+    <circle cx="206" cy="400" r="20" fill="#0052A6" fill-opacity="0.12" />
+    
+  <g transform="translate(190.0, 384.0) scale(1.3333333333333333)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="238" y="406" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#25364A">原厂亲自做</text>
+    <line x1="190" y1="428" x2="430" y2="428" stroke="#E3E9F2" stroke-width="1" />
+    <text x="190" y="460" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 重点行业标杆跑通</text>
+    <text x="190" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 沉淀 Skill / 模板 / 连接器</text>
+    <text x="190" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0052A6" font-weight="bold">·</tspan> 沉淀可复制的方法论</text>
+    <path fill="#0052A6" fill-opacity="0.08" d="M204,532 H416 A14,14 0 0 1 430,546 V546 A14,14 0 0 1 416,560 H204 A14,14 0 0 1 190,546 V546 A14,14 0 0 1 204,532 Z" />
+    <text x="310" y="551" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="600" fill="#0052A6">把做法跑通、固化下来</text>
+  </g>
+
+  
+  <g id="phase-2">
+    <path fill="#FFFFFF" stroke="#E3E9F2" stroke-width="1" d="M512,360 H768 A12,12 0 0 1 780,372 V558 A12,12 0 0 1 768,570 H512 A12,12 0 0 1 500,558 V372 A12,12 0 0 1 512,360 Z" />
+    <path fill="#246BFE" d="M503,360 H777 A3,3 0 0 1 780,363 V363 A3,3 0 0 1 777,366 H503 A3,3 0 0 1 500,363 V363 A3,3 0 0 1 503,360 Z" />
+    <circle cx="536" cy="400" r="20" fill="#246BFE" fill-opacity="0.12" />
+    
+  <g transform="translate(520.0, 384.0) scale(1.3333333333333333)" fill="none" stroke="#246BFE" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 0 0 -12 0" />
+    <path d="M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6" />
+    <path d="M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6" />
+    <path d="M6 9h12" />
+    <path d="M3 20h7" />
+    <path d="M14 20h7" />
+    <path d="M10 20a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="568" y="406" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#25364A">伙伴规模化</text>
+    <line x1="520" y1="428" x2="760" y2="428" stroke="#E3E9F2" stroke-width="1" />
+    <text x="520" y="460" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> ISV / SI / 区域伙伴交付</text>
+    <text x="520" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 平台培训 + 认证体系</text>
+    <text x="520" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#246BFE" font-weight="bold">·</tspan> 从单点走向规模</text>
+    <path fill="#246BFE" fill-opacity="0.10" d="M534,532 H746 A14,14 0 0 1 760,546 V546 A14,14 0 0 1 746,560 H534 A14,14 0 0 1 520,546 V546 A14,14 0 0 1 534,532 Z" />
+    <text x="640" y="551" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="600" fill="#246BFE">把能力交给伙伴</text>
+  </g>
+
+  
+  <g id="phase-3">
+    <path fill="#0E9F6E" fill-opacity="0.05" stroke="#0E9F6E" stroke-width="1.5" d="M842,360 H1098 A12,12 0 0 1 1110,372 V558 A12,12 0 0 1 1098,570 H842 A12,12 0 0 1 830,558 V372 A12,12 0 0 1 842,360 Z" />
+    <path fill="#0E9F6E" d="M833,360 H1107 A3,3 0 0 1 1110,363 V363 A3,3 0 0 1 1107,366 H833 A3,3 0 0 1 830,363 V363 A3,3 0 0 1 833,360 Z" />
+    <circle cx="866" cy="400" r="20" fill="#0E9F6E" fill-opacity="0.14" />
+    
+  <g transform="translate(850.0, 384.0) scale(1.3333333333333333)" fill="none" stroke="#0E9F6E" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M9 12l2 2l4 -4" />
+  </g>
+    <text x="898" y="406" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#25364A">客户自服务</text>
+    <line x1="850" y1="428" x2="1090" y2="428" stroke="#E3E9F2" stroke-width="1" />
+    <text x="850" y="460" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 客户自助构建能力</text>
+    <text x="850" y="488" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 部署是脚手架，不是房子</text>
+    <text x="850" y="516" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#5E6A78"><tspan fill="#0E9F6E" font-weight="bold">·</tspan> 厂商逐步退到平台层</text>
+    <path fill="#0E9F6E" d="M864,532 H1076 A14,14 0 0 1 1090,546 V546 A14,14 0 0 1 1076,560 H864 A14,14 0 0 1 850,546 V546 A14,14 0 0 1 864,532 Z" />
+    <text x="970" y="551" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">终态：客户自己跑</text>
+  </g>
+
+  
+  <g id="priority-band">
+    <path fill="#F4F7FC" d="M72,592 H1208 A12,12 0 0 1 1220,604 V642 A12,12 0 0 1 1208,654 H72 A12,12 0 0 1 60,642 V604 A12,12 0 0 1 72,592 Z" />
+    <path fill="#0052A6" d="M63,592 H63 A3,3 0 0 1 66,595 V651 A3,3 0 0 1 63,654 H63 A3,3 0 0 1 60,651 V595 A3,3 0 0 1 63,592 Z" />
+    
+  <g transform="translate(84.0, 606.0) scale(1.4166666666666667)" fill="none" stroke="#0052A6" stroke-width="2">
+    <path d="M22 9l-10 -4l-10 4l10 4l10 -4v6" />
+    <path d="M6 10.6v5.4a6 3 0 0 0 12 0v-5.4" />
+  </g>
+    <text x="130" y="624" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0052A6">行业优先序</text>
+    <text x="130" y="644" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">先高容错（教育 / 传媒 / 文旅）</text>
+    
+  <g transform="translate(560.0, 612.0) scale(1.1666666666666667)" fill="none" stroke="#6B7785" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    
+  <g transform="translate(610.0, 606.0) scale(1.4166666666666667)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M4 21c1.147 -4.02 1.983 -8.027 2 -12h6c.017 3.973 .853 7.98 2 12" />
+    <path d="M12.5 13h4.5c.025 2.612 .894 5.296 2 8" />
+    <path d="M9 5a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1" />
+    <path d="M3 21l19 0" />
+  </g>
+    <text x="656" y="624" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">后高精度</text>
+    <text x="656" y="644" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="15" fill="#25364A">后高精度（工业 / 金融）</text>
+  </g>
+
+  <g id="footer">
+    <text x="1220" y="690" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">19 / 26</text>
+  </g>
+</svg>

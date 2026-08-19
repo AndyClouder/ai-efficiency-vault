@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="6" fill="#0052A6" />
+  </g>
+
+  <g id="header">
+    <text x="60" y="70" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#518FEC" letter-spacing="2">04 价值与实施</text>
+    <text x="60" y="115" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#17365D">商业价值矩阵 — 四大场景的效率·成本·收入提升</text>
+    <text x="60" y="148" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="16" fill="#5E6A78">四大场景均带来可量化的效率提升、成本下降或收入增长机会(指标为预估值,可按实际校准)</text>
+  </g>
+
+  <g id="value-1">
+    <path fill="#F4F7FC" d="M72,180 H618 A12,12 0 0 1 630,192 V393 A12,12 0 0 1 618,405 H72 A12,12 0 0 1 60,393 V192 A12,12 0 0 1 72,180 Z" />
+    <path fill="#246BFE" d="M63,180 H63 A3,3 0 0 1 66,183 V402 A3,3 0 0 1 63,405 H63 A3,3 0 0 1 60,402 V183 A3,3 0 0 1 63,180 Z" />
+    <circle cx="108" cy="228" r="26" fill="#246BFE" />
+    
+  <g transform="translate(92.0, 212.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="150" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#246BFE">智能招聘</text>
+    <text x="150" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">效率↑ · 成本↓</text>
+
+    <text x="92" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">50%+</text>
+    <text x="92" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">简历筛选效率提升</text>
+
+    <text x="252" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">40%</text>
+    <text x="252" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">招聘周期缩短</text>
+
+    <text x="412" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0E9F6E">30%</text>
+    <text x="412" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">简历采购成本下降</text>
+
+    <text x="92" y="378" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">* 以上为预估值,可按实际业务量校准</text>
+  </g>
+
+  <g id="value-2">
+    <path fill="#F4F7FC" d="M662,180 H1208 A12,12 0 0 1 1220,192 V393 A12,12 0 0 1 1208,405 H662 A12,12 0 0 1 650,393 V192 A12,12 0 0 1 662,180 Z" />
+    <path fill="#0E9F6E" d="M653,180 H653 A3,3 0 0 1 656,183 V402 A3,3 0 0 1 653,405 H653 A3,3 0 0 1 650,402 V183 A3,3 0 0 1 653,180 Z" />
+    <circle cx="698" cy="228" r="26" fill="#0E9F6E" />
+    
+  <g transform="translate(682.0, 212.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+  </g>
+    <text x="740" y="222" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#0E9F6E">智能商机</text>
+    <text x="740" y="250" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">商机↑ · 响应↑</text>
+
+    <text x="682" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">小时级</text>
+    <text x="682" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">商机发现时效(原天级)</text>
+
+    <text x="882" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">3 倍</text>
+    <text x="882" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">商机覆盖率提升</text>
+
+    <text x="1042" y="298" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0E9F6E">自动</text>
+    <text x="1042" y="324" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">重复信息去重</text>
+
+    <text x="682" y="378" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">* 以上为预估值,可按实际业务量校准</text>
+  </g>
+
+  <g id="value-3">
+    <path fill="#F4F7FC" d="M72,425 H618 A12,12 0 0 1 630,437 V638 A12,12 0 0 1 618,650 H72 A12,12 0 0 1 60,638 V437 A12,12 0 0 1 72,425 Z" />
+    <path fill="#F59E0B" d="M63,425 H63 A3,3 0 0 1 66,428 V647 A3,3 0 0 1 63,650 H63 A3,3 0 0 1 60,647 V428 A3,3 0 0 1 63,425 Z" />
+    <circle cx="108" cy="473" r="26" fill="#F59E0B" />
+    
+  <g transform="translate(92.0, 457.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="150" y="467" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">智能投标+客户归并</text>
+    <text x="150" y="495" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">效率↑ · 风险↓</text>
+
+    <text x="92" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">5 倍</text>
+    <text x="92" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">标书生产效率提升</text>
+
+    <text x="252" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0E9F6E">50%</text>
+    <text x="252" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">废标风险降低</text>
+
+    <text x="412" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0E9F6E">可复用</text>
+    <text x="412" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">历史标书资产</text>
+
+    <text x="92" y="623" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">* 客户归并化解重复跟进,隐性价值显著</text>
+  </g>
+
+  <g id="value-4">
+    <path fill="#F4F7FC" d="M662,425 H1208 A12,12 0 0 1 1220,437 V638 A12,12 0 0 1 1208,650 H662 A12,12 0 0 1 650,638 V437 A12,12 0 0 1 662,425 Z" />
+    <path fill="#20A7B8" d="M653,425 H653 A3,3 0 0 1 656,428 V647 A3,3 0 0 1 653,650 H653 A3,3 0 0 1 650,647 V428 A3,3 0 0 1 653,425 Z" />
+    <circle cx="698" cy="473" r="26" fill="#20A7B8" />
+    
+  <g transform="translate(682.0, 457.0) scale(1.3333333333333333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 14v-3a8 8 0 1 1 16 0v3" />
+    <path d="M18 19c0 1.657 -2.686 3 -6 3" />
+    <path d="M4 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+    <path d="M15 14a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-1a2 2 0 0 1 -2 -2v-3" />
+  </g>
+    <text x="740" y="467" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#20A7B8">智能营销</text>
+    <text x="740" y="495" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#17365D">覆盖↑ · 响应↑</text>
+
+    <text x="682" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">100%</text>
+    <text x="682" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">录音分析覆盖率</text>
+
+    <text x="882" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0052A6">&lt;1h</text>
+    <text x="882" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">商机识别响应</text>
+
+    <text x="1042" y="543" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0E9F6E">可复制</text>
+    <text x="1042" y="569" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="13" fill="#5E6A78">优秀话术沉淀</text>
+
+    <text x="682" y="623" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="12" fill="#6B7785">* 以上为预估值,可按实际业务量校准</text>
+  </g>
+
+  <g id="footer">
+    <text x="60" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785">©法本信息版权所有</text>
+    <text x="1220" y="700" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="11" fill="#6B7785" text-anchor="end">20</text>
+  </g>
+</svg>

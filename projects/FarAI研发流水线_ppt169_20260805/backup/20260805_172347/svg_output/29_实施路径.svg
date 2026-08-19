@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="background">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-title">
+    <rect x="80" y="56" width="56" height="6" rx="3" fill="#0052A6"/>
+    <text x="80" y="100" font-size="28" font-weight="bold" fill="#25364A" font-family="Microsoft YaHei, Arial, sans-serif">六阶段落地 —— 先让一个产品具备 AI 可协同的工程底座</text>
+    <text x="80" y="128" font-size="15" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">不要先大规模改组织,先跑通一个试点,再复制到更多产品和领域</text>
+  </g>
+
+  <g id="timeline-line">
+    <line x1="120" y1="240" x2="1200" y2="240" stroke="#E3E9F2" stroke-width="3"/>
+  </g>
+
+  <g id="phase-0">
+    <circle cx="150" cy="240" r="16" fill="#0052A6"/>
+    <text x="150" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">0</text>
+    <rect x="80" y="284" width="170" height="200" rx="12" fill="#F4F7FC"/>
+    <rect x="80" y="284" width="6" height="200" rx="3" fill="#0052A6"/>
+    <text x="100" y="314" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">启动前 2-4 周</text>
+    <text x="100" y="342" font-size="16" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">选产品建基线</text>
+    <line x1="100" y1="358" x2="230" y2="358" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="100" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 选试点产品</text>
+    <text x="100" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 建基线指标</text>
+    <text x="100" y="428" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 定义风险边界</text>
+    <text x="100" y="468" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">M0</text>
+  </g>
+
+  <g id="phase-1">
+    <circle cx="320" cy="240" r="16" fill="#0052A6"/>
+    <text x="320" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">1</text>
+    <rect x="250" y="284" width="170" height="200" rx="12" fill="#F4F7FC"/>
+    <rect x="250" y="284" width="6" height="200" rx="3" fill="#0052A6"/>
+    <text x="270" y="314" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">M1 - M2</text>
+    <text x="270" y="342" font-size="16" font-weight="bold" fill="#0052A6" font-family="Microsoft YaHei, Arial, sans-serif">工程底座试点</text>
+    <line x1="270" y1="358" x2="400" y2="358" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="270" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· CLI 化</text>
+    <text x="270" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 环境自动化</text>
+    <text x="270" y="428" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 自动化测试补强</text>
+    <text x="270" y="450" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 资产 Git 化</text>
+    <text x="270" y="468" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">Harness 起步</text>
+  </g>
+
+  <g id="phase-2">
+    <circle cx="490" cy="240" r="16" fill="#246BFE"/>
+    <text x="490" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">2</text>
+    <rect x="420" y="284" width="170" height="200" rx="12" fill="#F4F7FC"/>
+    <rect x="420" y="284" width="6" height="200" rx="3" fill="#246BFE"/>
+    <text x="440" y="314" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">M2 - M4</text>
+    <text x="440" y="342" font-size="16" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">产品 AI 小队</text>
+    <line x1="440" y1="358" x2="570" y2="358" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="440" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· AI 快速原型</text>
+    <text x="440" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 契约驱动交付</text>
+    <text x="440" y="428" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 产品全栈协同</text>
+    <text x="440" y="468" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">个人→小队提效</text>
+  </g>
+
+  <g id="phase-3">
+    <circle cx="660" cy="240" r="16" fill="#246BFE"/>
+    <text x="660" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">3</text>
+    <rect x="590" y="284" width="170" height="200" rx="12" fill="#F4F7FC"/>
+    <rect x="590" y="284" width="6" height="200" rx="3" fill="#246BFE"/>
+    <text x="610" y="314" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">M3 - M6</text>
+    <text x="610" y="342" font-size="16" font-weight="bold" fill="#246BFE" font-family="Microsoft YaHei, Arial, sans-serif">数据与知识试点</text>
+    <line x1="610" y1="358" x2="740" y2="358" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="610" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 知识工程纳入</text>
+    <text x="610" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 本体网络雏形</text>
+    <text x="610" y="428" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 数据资产沉淀</text>
+    <text x="610" y="468" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">S3 底座起步</text>
+  </g>
+
+  <g id="phase-4">
+    <circle cx="830" cy="240" r="16" fill="#518FEC"/>
+    <text x="830" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">4</text>
+    <rect x="760" y="284" width="170" height="200" rx="12" fill="#F4F7FC"/>
+    <rect x="760" y="284" width="6" height="200" rx="3" fill="#518FEC"/>
+    <text x="780" y="314" font-size="13" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">M6 - M9</text>
+    <text x="780" y="342" font-size="16" font-weight="bold" fill="#518FEC" font-family="Microsoft YaHei, Arial, sans-serif">FDE 小队试点</text>
+    <line x1="780" y1="358" x2="910" y2="358" stroke="#E3E9F2" stroke-width="1"/>
+    <text x="780" y="384" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 应用/数据/知识融合</text>
+    <text x="780" y="406" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 人智协同平台</text>
+    <text x="780" y="428" font-size="12" fill="#5E6A78" font-family="Microsoft YaHei, Arial, sans-serif">· 云端智能体接入</text>
+    <text x="780" y="468" font-size="11" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">领域级协同</text>
+  </g>
+
+  <g id="phase-5">
+    <circle cx="1000" cy="240" r="16" fill="#518FEC"/>
+    <text x="1000" y="246" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">5</text>
+    <rect x="930" y="284" width="270" height="200" rx="12" fill="#0052A6"/>
+    <rect x="930" y="284" width="6" height="200" rx="3" fill="#518FEC"/>
+    <text x="950" y="314" font-size="13" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">M9 - M18</text>
+    <text x="950" y="342" font-size="16" font-weight="bold" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, sans-serif">组织架构转型</text>
+    <line x1="950" y1="358" x2="1180" y2="358" stroke="#246BFE" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="950" y="384" font-size="12" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">· FDE 领域团队</text>
+    <text x="950" y="406" font-size="12" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">· 三层组织成型</text>
+    <text x="950" y="428" font-size="12" fill="#DCE6FB" font-family="Microsoft YaHei, Arial, sans-serif">· 治理 ROI 制度化</text>
+    <text x="950" y="468" font-size="11" fill="#B8C7E0" font-family="Microsoft YaHei, Arial, sans-serif">规模化复用</text>
+  </g>
+
+  <g id="takeaway">
+    <rect x="80" y="528" width="1120" height="100" rx="14" fill="#F4F7FC"/>
+    <rect x="80" y="528" width="6" height="100" rx="3" fill="#0052A6"/>
+    <text x="640" y="572" font-size="20" font-weight="bold" fill="#0052A6" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">每阶段沉淀 5+2 范式的一部分;试点有效再复制</text>
+    <text x="640" y="604" font-size="14" fill="#5E6A78" text-anchor="middle" font-family="Microsoft YaHei, Arial, sans-serif">不要先大规模改组织,先让一个产品具备 AI 可协同的工程底座,再复制到更多产品和领域</text>
+  </g>
+
+  <g id="footer">
+    <text x="80" y="688" font-size="12" fill="#6B7785" font-family="Microsoft YaHei, Arial, sans-serif">第六章 · 价值实施</text>
+    <text x="1200" y="688" font-size="11" fill="#6B7785" text-anchor="end" font-family="Microsoft YaHei, Arial, sans-serif">29 / 30</text>
+  </g>
+</svg>
