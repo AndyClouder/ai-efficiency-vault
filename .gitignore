@@ -37,3 +37,11 @@ ppt_outputs/
 .claude/skills/图绘大师/projects/
 0_系统配置/.agents/skills/图绘大师/projects/
 0_系统配置/.claude/skills/图绘大师/projects/
+
+# 二进制内容资产（2026-08-19 起：图片/Office/PDF 不进版本控制，远程只存 md 与 skill 功能文件；本地文件保留不动）
+*.pdf
+*.pptx
+*.png
+*.gif
+*.jpg
+*.jpeg
