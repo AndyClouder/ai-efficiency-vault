@@ -4,9 +4,11 @@
 
 # 本地运行时缓存（会话历史、工具设置，不进版本控制）
 .claudian/
+.zcode/
+.workbuddy/
 
-# skill 安装锁文件（运行时产物，记录本地安装的第三方 skill）
-skills/
+# skill 安装锁文件（运行时产物，记录本地安装的第三方 skill；锚定根目录，勿伤及 .agents/.claude 下的 skill 镜像）
+/skills/
 
 # OS files
 nul
